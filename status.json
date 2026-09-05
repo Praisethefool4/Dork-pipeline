@@ -1,0 +1,16 @@
+{
+  "index": 0,
+  "page": 1,
+  "status": "RUNNING",
+  "action": "STARTING",
+  "last_query": "inurl:\"..org\" + \"youtube channel new channel\"",
+  "last_error": "",
+  "last_page_urls": 0,
+  "pages": 1,
+  "urls": 0,
+  "session_new_urls": 0,
+  "consecutive_empty": 0,
+  "runner_id": "10",
+  "logs": [],
+  "total_dorks": 26480
+}
