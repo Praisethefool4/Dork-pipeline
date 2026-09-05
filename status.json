@@ -1,9 +1,9 @@
 {
-  "index": 56,
+  "index": 57,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinurl:youtube analytics strategy.php?panel=",
+  "last_query": "allinurl:youtube trends live.php?page_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "18",
   "logs": [
-    {
-      "time": "12:18:34",
-      "index": 7,
-      "query": "intext:youtube subscribers app.php?id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "12:20:18",
-      "index": 8,
-      "query": "source:how to make views for beginners.php?type_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "12:22:12",
       "index": 8,
@@ -1105,6 +1083,28 @@
       "time": "15:29:51",
       "index": 57,
       "query": "allinurl:youtube analytics strategy.php?panel=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:31:35",
+      "index": 57,
+      "query": "allinurl:youtube analytics strategy.php?panel=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:33:13",
+      "index": 58,
+      "query": "allinurl:youtube trends live.php?page_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
