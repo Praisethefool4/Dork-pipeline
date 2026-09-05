@@ -1,9 +1,9 @@
 {
-  "index": 84,
+  "index": 85,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to find watch time in india.php?cat=",
+  "last_query": "youtube creator optimization.php?coID=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "1",
   "logs": [
-    {
-      "time": "14:05:44",
-      "index": 35,
-      "query": "youtube premium requirements.php?gamer_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "14:07:08",
-      "index": 36,
-      "query": "how to make revenue organically.php?product_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "14:09:18",
       "index": 36,
@@ -1105,6 +1083,28 @@
       "time": "17:15:48",
       "index": 85,
       "query": "how to find watch time in india.php?cat=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:17:41",
+      "index": 85,
+      "query": "how to find watch time in india.php?cat=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:19:19",
+      "index": 86,
+      "query": "youtube creator optimization.php?coID=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
