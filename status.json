@@ -1,9 +1,9 @@
 {
-  "index": 80,
+  "index": 81,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube algorithm guide.php?coID=",
+  "last_query": "how to optimize search ranking in 2026.php?param=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "1",
   "logs": [
-    {
-      "time": "19:47:41",
-      "index": 31,
-      "query": "how to start retention step by step.php?id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "19:49:27",
-      "index": 31,
-      "query": "how to start retention step by step.php?id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "19:51:43",
       "index": 32,
@@ -1105,6 +1083,28 @@
       "time": "22:57:55",
       "index": 80,
       "query": "youtube algorithm guide.php?coID=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "22:59:24",
+      "index": 81,
+      "query": "how to optimize search ranking in 2026.php?param=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:01:05",
+      "index": 81,
+      "query": "how to optimize search ranking in 2026.php?param=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
