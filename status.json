@@ -1,9 +1,9 @@
 {
-  "index": 73,
+  "index": 74,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to use watch time in india.php?cat= site:.co",
+  "last_query": "youtube views for beginners.php?cat= site:.co",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "8",
   "logs": [
-    {
-      "time": "13:23:56",
-      "index": 24,
-      "query": "youtube trends app.php?coID= site:.us",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "13:25:14",
-      "index": 25,
-      "query": "youtube channel tools.php?coID= site:.co",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "13:27:28",
       "index": 25,
@@ -1105,6 +1083,28 @@
       "time": "16:33:10",
       "index": 74,
       "query": "how to use watch time in india.php?cat= site:.co",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:35:04",
+      "index": 74,
+      "query": "how to use watch time in india.php?cat= site:.co",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:37:21",
+      "index": 75,
+      "query": "youtube views for beginners.php?cat= site:.co",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
