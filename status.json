@@ -1,9 +1,9 @@
 {
-  "index": 57,
+  "index": 58,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "link:youtube monetization india.php?panel=",
+  "last_query": "inanchor:youtube shorts settings.php?page_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "17",
   "logs": [
-    {
-      "time": "12:21:47",
-      "index": 8,
-      "query": "info:how to get search ranking step by step.php?coID=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "12:23:56",
-      "index": 9,
-      "query": "allintext:youtube creator analytics.php?coID=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "12:25:38",
       "index": 9,
@@ -1105,6 +1083,28 @@
       "time": "15:32:39",
       "index": 58,
       "query": "link:youtube monetization india.php?panel=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:34:51",
+      "index": 58,
+      "query": "link:youtube monetization india.php?panel=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:36:35",
+      "index": 59,
+      "query": "inanchor:youtube shorts settings.php?page_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
