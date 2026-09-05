@@ -1,9 +1,9 @@
 {
-  "index": 64,
+  "index": 65,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allintitle:youtube channel india.php?include=",
+  "last_query": "intitle:youtube analytics free.php?type_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "17",
   "logs": [
-    {
-      "time": "12:48:05",
-      "index": 15,
-      "query": "inurl:how to make click through rate without ads.php?id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "12:50:35",
-      "index": 15,
-      "query": "inurl:how to make click through rate without ads.php?id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "12:51:48",
       "index": 16,
@@ -1105,6 +1083,28 @@
       "time": "15:59:33",
       "index": 64,
       "query": "allintitle:youtube channel india.php?include=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:01:17",
+      "index": 65,
+      "query": "intitle:youtube analytics free.php?type_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:03:35",
+      "index": 65,
+      "query": "intitle:youtube analytics free.php?type_id=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
