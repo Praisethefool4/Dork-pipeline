@@ -13,7 +13,7 @@
   "runner_id": "15",
   "logs": [
     {
-      "time": "23:53:02",
+      "time": "23:53:10",
       "index": 1,
       "query": "cache:youtube music requirements.php?avd=",
       "page": 1,
@@ -24,7 +24,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "23:55:04",
+      "time": "23:55:38",
       "index": 1,
       "query": "cache:youtube music requirements.php?avd=",
       "page": 0,
