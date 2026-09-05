@@ -1,9 +1,9 @@
 {
-  "index": 72,
+  "index": 73,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "info:how to get monetization on pc.php?product_id=",
+  "last_query": "info:youtube watch time strategy.php?cat=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "17",
   "logs": [
-    {
-      "time": "13:19:47",
-      "index": 23,
-      "query": "allintitle:youtube channel strategy.php?username_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "13:21:35",
-      "index": 24,
-      "query": "intext:youtube music features.php?sec=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "13:23:38",
       "index": 24,
@@ -1105,6 +1083,28 @@
       "time": "16:33:19",
       "index": 73,
       "query": "info:how to get monetization on pc.php?product_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:35:04",
+      "index": 73,
+      "query": "info:how to get monetization on pc.php?product_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:36:29",
+      "index": 74,
+      "query": "info:youtube watch time strategy.php?cat=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
