@@ -1,9 +1,9 @@
 {
-  "index": 85,
+  "index": 86,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinanchor:youtube trends free.php?category=",
+  "last_query": "info:how to improve retention in 2026.php?type_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "19",
   "logs": [
-    {
-      "time": "20:10:20",
-      "index": 36,
-      "query": "info:youtube views app.php?gamer_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "20:12:09",
-      "index": 37,
-      "query": "insubject:how to start views for free.php?include=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "20:14:05",
       "index": 37,
@@ -1105,6 +1083,28 @@
       "time": "23:18:45",
       "index": 86,
       "query": "allinanchor:youtube trends free.php?category=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:20:37",
+      "index": 86,
+      "query": "allinanchor:youtube trends free.php?category=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "23:22:10",
+      "index": 87,
+      "query": "info:how to improve retention in 2026.php?type_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
