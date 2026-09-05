@@ -1,9 +1,9 @@
 {
-  "index": 90,
+  "index": 91,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to check monetization in india.php?panel=",
+  "last_query": "youtube monetization faceless channel.php?product_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "1",
   "logs": [
-    {
-      "time": "14:26:53",
-      "index": 41,
-      "query": "how to track retention without ads.php?game_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "14:28:40",
-      "index": 41,
-      "query": "how to track retention without ads.php?game_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "14:30:29",
       "index": 42,
@@ -1105,6 +1083,28 @@
       "time": "17:36:47",
       "index": 90,
       "query": "how to check monetization in india.php?panel=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:38:28",
+      "index": 91,
+      "query": "youtube monetization faceless channel.php?product_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:40:48",
+      "index": 91,
+      "query": "youtube monetization faceless channel.php?product_id=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
