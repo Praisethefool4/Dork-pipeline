@@ -1,9 +1,9 @@
 {
-  "index": 86,
+  "index": 87,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to learn watch time for beginners.php?type_id= site:.net",
+  "last_query": "youtube channel.php?panel= site:.org",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "7",
   "logs": [
-    {
-      "time": "20:10:39",
-      "index": 37,
-      "query": "how to grow search ranking fast.php?page_id= site:.co",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "20:13:04",
-      "index": 37,
-      "query": "how to grow search ranking fast.php?page_id= site:.co",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "20:14:51",
       "index": 38,
@@ -1105,6 +1083,28 @@
       "time": "23:24:54",
       "index": 86,
       "query": "how to learn watch time for beginners.php?type_id= site:.net",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "23:26:46",
+      "index": 87,
+      "query": "youtube channel.php?panel= site:.org",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:29:11",
+      "index": 87,
+      "query": "youtube channel.php?panel= site:.org",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
