@@ -1,9 +1,9 @@
 {
-  "index": 87,
+  "index": 88,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to use watch time in india.php?id=",
+  "last_query": "youtube premium today.php?type_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "1",
   "logs": [
-    {
-      "time": "14:17:28",
-      "index": 38,
-      "query": "how to get channel growth fast.php?item_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "14:19:32",
-      "index": 39,
-      "query": "youtube analytics trending.php?product_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "14:21:19",
       "index": 39,
@@ -1105,6 +1083,28 @@
       "time": "17:27:02",
       "index": 88,
       "query": "how to use watch time in india.php?id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:29:23",
+      "index": 88,
+      "query": "how to use watch time in india.php?id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:31:29",
+      "index": 89,
+      "query": "youtube premium today.php?type_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
