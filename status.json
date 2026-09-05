@@ -1,9 +1,9 @@
 {
-  "index": 86,
+  "index": 87,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to use click through rate organically.php?type= site:.co",
+  "last_query": "youtube algorithm today.php?purchase_id= site:.co",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "5",
   "logs": [
-    {
-      "time": "20:10:54",
-      "index": 37,
-      "query": "how to increase watch time organically.php?id= site:.co",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "20:13:20",
-      "index": 37,
-      "query": "how to increase watch time organically.php?id= site:.co",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "20:15:12",
       "index": 38,
@@ -1105,6 +1083,28 @@
       "time": "23:25:41",
       "index": 86,
       "query": "how to use click through rate organically.php?type= site:.co",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "23:27:29",
+      "index": 87,
+      "query": "youtube algorithm today.php?purchase_id= site:.co",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:29:19",
+      "index": 87,
+      "query": "youtube algorithm today.php?purchase_id= site:.co",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
