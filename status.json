@@ -1,9 +1,9 @@
 {
-  "index": 91,
+  "index": 92,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allintitle:how to improve watch time on pc.php?type=",
+  "last_query": "cache:youtube editing best.php?panel=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "18",
   "logs": [
-    {
-      "time": "14:31:31",
-      "index": 42,
-      "query": "insubject:youtube streaming app.php?cat=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "14:33:15",
-      "index": 42,
-      "query": "insubject:youtube streaming app.php?cat=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "14:34:41",
       "index": 43,
@@ -1105,6 +1083,28 @@
       "time": "17:42:45",
       "index": 91,
       "query": "allintitle:how to improve watch time on pc.php?type=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:44:44",
+      "index": 92,
+      "query": "cache:youtube editing best.php?panel=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:46:42",
+      "index": 92,
+      "query": "cache:youtube editing best.php?panel=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
