@@ -1,9 +1,9 @@
 {
-  "index": 73,
+  "index": 74,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to track retention in 2026.php?type_id= site:.co",
+  "last_query": "how to create channel growth step by step.php?register= site:.org",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "7",
   "logs": [
-    {
-      "time": "19:23:26",
-      "index": 24,
-      "query": "how to get click through rate organically.php?purchase_id= site:.us",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "19:24:44",
-      "index": 25,
-      "query": "how to start views in 2026.php?sec= site:.us",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "19:27:09",
       "index": 25,
@@ -1105,6 +1083,28 @@
       "time": "22:36:14",
       "index": 74,
       "query": "how to track retention in 2026.php?type_id= site:.co",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "22:37:58",
+      "index": 74,
+      "query": "how to track retention in 2026.php?type_id= site:.co",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "22:39:47",
+      "index": 75,
+      "query": "how to create channel growth step by step.php?register= site:.org",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
