@@ -1,9 +1,9 @@
 {
-  "index": 64,
+  "index": 65,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube editing for beginners.php?item_id= site:.us",
+  "last_query": "how to optimize watch time in india.php?register= site:.net",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "4",
   "logs": [
-    {
-      "time": "12:49:42",
-      "index": 15,
-      "query": "youtube subscribers mobile.php?user_id= site:.co",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "12:51:07",
-      "index": 16,
-      "query": "youtube analytics pc.php?id= site:.net",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "12:52:48",
       "index": 16,
@@ -1105,6 +1083,28 @@
       "time": "16:01:34",
       "index": 65,
       "query": "youtube editing for beginners.php?item_id= site:.us",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:03:57",
+      "index": 65,
+      "query": "youtube editing for beginners.php?item_id= site:.us",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:06:18",
+      "index": 66,
+      "query": "how to optimize watch time in india.php?register= site:.net",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
