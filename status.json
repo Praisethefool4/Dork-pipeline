@@ -1,9 +1,9 @@
 {
-  "index": 90,
+  "index": 91,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube monetization faceless channel.php?product_id=",
+  "last_query": "how to use search ranking for beginners.php?type=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "1",
   "logs": [
-    {
-      "time": "20:28:40",
-      "index": 41,
-      "query": "how to track retention without ads.php?game_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "20:30:37",
-      "index": 42,
-      "query": "how to find revenue on mobile.php?page_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "20:32:38",
       "index": 42,
@@ -1105,6 +1083,28 @@
       "time": "23:36:38",
       "index": 91,
       "query": "youtube monetization faceless channel.php?product_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:38:21",
+      "index": 91,
+      "query": "youtube monetization faceless channel.php?product_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "23:40:22",
+      "index": 92,
+      "query": "how to use search ranking for beginners.php?type=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
