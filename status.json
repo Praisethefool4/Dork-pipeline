@@ -1,9 +1,9 @@
 {
-  "index": 56,
+  "index": 57,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube music optimization.php?param= site:.us",
+  "last_query": "how to optimize search ranking step by step.php?panel= site:.net",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "4",
   "logs": [
-    {
-      "time": "12:18:07",
-      "index": 7,
-      "query": "youtube watch time tutorial.php?type_id= site:.net",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "12:20:13",
-      "index": 8,
-      "query": "youtube search description.php?login_id= site:.org",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "12:22:26",
       "index": 8,
@@ -1105,6 +1083,28 @@
       "time": "15:29:53",
       "index": 57,
       "query": "youtube music optimization.php?param= site:.us",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:31:44",
+      "index": 57,
+      "query": "youtube music optimization.php?param= site:.us",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:33:05",
+      "index": 58,
+      "query": "how to optimize search ranking step by step.php?panel= site:.net",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
