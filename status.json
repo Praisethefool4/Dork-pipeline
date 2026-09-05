@@ -1,9 +1,9 @@
 {
-  "index": 89,
+  "index": 90,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to get retention in india.php?user_id= site:.us",
+  "last_query": "youtube thumbnails mobile.php?type_id= site:.co",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "8",
   "logs": [
-    {
-      "time": "20:21:05",
-      "index": 40,
-      "query": "youtube monetization optimization.php?id= site:.net",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "20:22:48",
-      "index": 40,
-      "query": "youtube monetization optimization.php?id= site:.net",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "20:24:42",
       "index": 41,
@@ -1105,6 +1083,28 @@
       "time": "23:33:37",
       "index": 89,
       "query": "how to get retention in india.php?user_id= site:.us",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "23:35:12",
+      "index": 90,
+      "query": "youtube thumbnails mobile.php?type_id= site:.co",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:37:20",
+      "index": 90,
+      "query": "youtube thumbnails mobile.php?type_id= site:.co",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
