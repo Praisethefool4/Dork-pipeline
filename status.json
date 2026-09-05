@@ -1,9 +1,9 @@
 {
-  "index": 90,
+  "index": 91,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to learn retention step by step.php?purchase_id= site:.net",
+  "last_query": "youtube watch time popular.php?type= site:.net",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "8",
   "logs": [
-    {
-      "time": "20:26:48",
-      "index": 41,
-      "query": "how to improve click through rate for beginners.php?category= site:.net",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "20:28:48",
-      "index": 42,
-      "query": "how to improve search ranking for free.php?page_id= site:.us",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "20:30:53",
       "index": 42,
@@ -1105,6 +1083,28 @@
       "time": "23:38:59",
       "index": 91,
       "query": "how to learn retention step by step.php?purchase_id= site:.net",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:41:03",
+      "index": 91,
+      "query": "how to learn retention step by step.php?purchase_id= site:.net",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "23:43:18",
+      "index": 92,
+      "query": "youtube watch time popular.php?type= site:.net",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
