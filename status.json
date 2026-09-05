@@ -1,9 +1,9 @@
 {
-  "index": 88,
+  "index": 89,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube premium today.php?type_id=",
+  "last_query": "how to check monetization in india.php?panel=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "1",
   "logs": [
-    {
-      "time": "20:21:21",
-      "index": 39,
-      "query": "youtube analytics trending.php?product_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "20:23:28",
-      "index": 40,
-      "query": "how to learn retention fast.php?include=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "20:25:22",
       "index": 40,
@@ -1105,6 +1083,28 @@
       "time": "23:29:28",
       "index": 89,
       "query": "youtube premium today.php?type_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:31:53",
+      "index": 89,
+      "query": "youtube premium today.php?type_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "23:33:17",
+      "index": 90,
+      "query": "how to check monetization in india.php?panel=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
