@@ -23,7 +23,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: '3.12' # Removed pip cache checking to prevent No File Matched crashes
 
       - name: Install Dependencies
         run: |
@@ -32,14 +32,13 @@ jobs:
 
       - name: Configure Git Credentials
         run: |
-          git config --global user.name \"GitHub Action Scraper\"
-          git config --global user.email \"action@github.com\"
+          git config --global user.name 'GitHub Action Scraper'
+          git config --global user.email 'action@github.com'
 
       - name: Partition Master Dorks List
         run: |
-          # Looks for \"my_dorks.txt\" in your repository and splits it
+          # Looks for "my_dorks.txt" in your repository and splits it
           # dynamically into 19 equal parts on-the-fly.
-          # If your file is named differently, update \"my_dorks.txt\" below.
           python split_dorks.py my_dorks.txt ${{ matrix.runner_id }} 19
 
       - name: Launch Local SearXNG Instance
@@ -52,8 +51,8 @@ jobs:
           use_default_settings: true
           server:
             port: 8080
-            bind_address: \"0.0.0.0\"
-            secret_key: \"super-secret\"
+            bind_address: "0.0.0.0"
+            secret_key: "super-secret"
           search:
             safe_search: 0
           engines:
