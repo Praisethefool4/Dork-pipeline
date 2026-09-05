@@ -1,9 +1,9 @@
 {
-  "index": 68,
+  "index": 69,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "inanchor:\"..co\" + \"youtube analytics guide\"",
+  "last_query": "intext:\"..co\" + \"youtube editing shorts\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "10",
   "logs": [
-    {
-      "time": "19:05:48",
-      "index": 19,
-      "query": "allintitle:\"..com\" + \"how to grow subscribers on pc\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "19:07:52",
-      "index": 20,
-      "query": "link:\"..com\" + \"youtube watch time guide\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "19:09:59",
       "index": 20,
@@ -1105,6 +1083,28 @@
       "time": "22:20:58",
       "index": 69,
       "query": "inanchor:\"..co\" + \"youtube analytics guide\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "22:23:21",
+      "index": 69,
+      "query": "inanchor:\"..co\" + \"youtube analytics guide\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "22:24:34",
+      "index": 70,
+      "query": "intext:\"..co\" + \"youtube editing shorts\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
