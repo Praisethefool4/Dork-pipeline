@@ -1,9 +1,9 @@
 {
-  "index": 67,
+  "index": 68,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinanchor:\"..us\" + \"how to learn revenue for free\"",
+  "last_query": "link:\"..net\" + \"how to track search ranking organically\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "11",
   "logs": [
-    {
-      "time": "13:02:00",
-      "index": 18,
-      "query": "link:\"..net\" + \"youtube algorithm cost\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "13:03:57",
-      "index": 19,
-      "query": "allintitle:\"..org\" + \"how to create channel growth for beginners\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "13:06:04",
       "index": 19,
@@ -1105,6 +1083,28 @@
       "time": "16:14:52",
       "index": 68,
       "query": "allinanchor:\"..us\" + \"how to learn revenue for free\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:16:43",
+      "index": 68,
+      "query": "allinanchor:\"..us\" + \"how to learn revenue for free\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:18:19",
+      "index": 69,
+      "query": "link:\"..net\" + \"how to track search ranking organically\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
