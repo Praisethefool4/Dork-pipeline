@@ -1,9 +1,9 @@
 {
-  "index": 57,
+  "index": 58,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to check search ranking step by step.php?product_id= site:.co",
+  "last_query": "youtube shorts download.php?user_id= site:.co",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "5",
   "logs": [
-    {
-      "time": "18:22:15",
-      "index": 8,
-      "query": "youtube how to.php?register= site:.org",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "18:23:52",
-      "index": 9,
-      "query": "youtube watch time pc.php?include= site:.us",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "18:25:32",
       "index": 9,
@@ -1105,6 +1083,28 @@
       "time": "21:29:43",
       "index": 58,
       "query": "how to check search ranking step by step.php?product_id= site:.co",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "21:31:38",
+      "index": 58,
+      "query": "how to check search ranking step by step.php?product_id= site:.co",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "21:33:43",
+      "index": 59,
+      "query": "youtube shorts download.php?user_id= site:.co",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
