@@ -1,9 +1,9 @@
 {
-  "index": 50,
+  "index": 51,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "link:\"..net\" + \"youtube search faceless channel\"",
+  "last_query": "link:\"..co\" + \"how to optimize watch time on pc\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "12",
   "logs": [
-    {
-      "time": "17:52:44",
-      "index": 1,
-      "query": "info:\"..co\" + \"youtube trends cost\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "17:54:40",
-      "index": 1,
-      "query": "info:\"..co\" + \"youtube trends cost\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "17:56:09",
       "index": 2,
@@ -1105,6 +1083,28 @@
       "time": "21:08:48",
       "index": 50,
       "query": "link:\"..net\" + \"youtube search faceless channel\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "21:10:33",
+      "index": 51,
+      "query": "link:\"..co\" + \"how to optimize watch time on pc\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "21:12:35",
+      "index": 51,
+      "query": "link:\"..co\" + \"how to optimize watch time on pc\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
