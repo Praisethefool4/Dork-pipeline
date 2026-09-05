@@ -1,9 +1,9 @@
 {
-  "index": 77,
+  "index": 78,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to grow search ranking step by step.php?purchase_id= site:.us",
+  "last_query": "youtube popular.php?param= site:.com",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "6",
   "logs": [
-    {
-      "time": "19:42:03",
-      "index": 28,
-      "query": "how to optimize search ranking step by step.php?product_id= site:.co",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "19:44:00",
-      "index": 29,
-      "query": "youtube music how to.php?cat= site:.co",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "19:46:09",
       "index": 29,
@@ -1105,6 +1083,28 @@
       "time": "22:57:51",
       "index": 78,
       "query": "how to grow search ranking step by step.php?purchase_id= site:.us",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "22:59:44",
+      "index": 78,
+      "query": "how to grow search ranking step by step.php?purchase_id= site:.us",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "23:02:04",
+      "index": 79,
+      "query": "youtube popular.php?param= site:.com",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
