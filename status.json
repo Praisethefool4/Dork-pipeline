@@ -1,9 +1,9 @@
 {
-  "index": 61,
+  "index": 62,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to use search ranking step by step.php?login_id= site:.co",
+  "last_query": "youtube editing growth.php?product_id= site:.us",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "3",
   "logs": [
-    {
-      "time": "12:33:41",
-      "index": 12,
-      "query": "how to find channel growth for free.php?cat= site:.com",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "12:35:47",
-      "index": 13,
-      "query": "youtube algorithm tutorial.php?sec= site:.org",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "12:37:35",
       "index": 13,
@@ -1105,6 +1083,28 @@
       "time": "15:46:47",
       "index": 62,
       "query": "how to use search ranking step by step.php?login_id= site:.co",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:49:10",
+      "index": 62,
+      "query": "how to use search ranking step by step.php?login_id= site:.co",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:51:14",
+      "index": 63,
+      "query": "youtube editing growth.php?product_id= site:.us",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
