@@ -1,9 +1,9 @@
 {
-  "index": 91,
+  "index": 92,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube editing mobile.php?page_id= site:.net",
+  "last_query": "youtube gaming education.php?cat= site:.org",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "4",
   "logs": [
-    {
-      "time": "14:32:46",
-      "index": 42,
-      "query": "youtube views requirements.php?login_id= site:.net",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "14:34:23",
-      "index": 43,
-      "query": "youtube videos shorts.php?page_id= site:.net",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "14:36:31",
       "index": 43,
@@ -1105,6 +1083,28 @@
       "time": "17:45:29",
       "index": 92,
       "query": "youtube editing mobile.php?page_id= site:.net",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:47:29",
+      "index": 92,
+      "query": "youtube editing mobile.php?page_id= site:.net",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:49:43",
+      "index": 93,
+      "query": "youtube gaming education.php?cat= site:.org",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
