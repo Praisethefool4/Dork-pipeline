@@ -1,9 +1,9 @@
 {
-  "index": 88,
+  "index": 89,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "insubject:\"..us\" + \"youtube analytics online\"",
+  "last_query": "allinanchor:\"..org\" + \"how to learn monetization for beginners\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "12",
   "logs": [
-    {
-      "time": "14:21:22",
-      "index": 39,
-      "query": "link:\"..org\" + \"youtube trends analytics\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "14:23:49",
-      "index": 39,
-      "query": "link:\"..org\" + \"youtube trends analytics\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "14:25:48",
       "index": 40,
@@ -1105,6 +1083,28 @@
       "time": "17:36:11",
       "index": 88,
       "query": "insubject:\"..us\" + \"youtube analytics online\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:37:44",
+      "index": 89,
+      "query": "allinanchor:\"..org\" + \"how to learn monetization for beginners\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:40:11",
+      "index": 89,
+      "query": "allinanchor:\"..org\" + \"how to learn monetization for beginners\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
