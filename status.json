@@ -1,9 +1,9 @@
 {
-  "index": 74,
+  "index": 75,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinanchor:\"..us\" + \"how to optimize search ranking for beginners\"",
+  "last_query": "cache:\"..org\" + \"youtube algorithm mobile\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "10",
   "logs": [
-    {
-      "time": "19:27:01",
-      "index": 25,
-      "query": "allinurl:\"..com\" + \"how to optimize subscribers on mobile\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "19:29:02",
-      "index": 25,
-      "query": "allinurl:\"..com\" + \"how to optimize subscribers on mobile\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "19:31:01",
       "index": 26,
@@ -1105,6 +1083,28 @@
       "time": "22:41:22",
       "index": 74,
       "query": "allinanchor:\"..us\" + \"how to optimize search ranking for beginners\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "22:43:10",
+      "index": 75,
+      "query": "cache:\"..org\" + \"youtube algorithm mobile\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "22:44:53",
+      "index": 75,
+      "query": "cache:\"..org\" + \"youtube algorithm mobile\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
