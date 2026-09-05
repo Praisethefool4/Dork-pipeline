@@ -1,9 +1,9 @@
 {
-  "index": 52,
+  "index": 53,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "inanchor:\"..org\" + \"how to find revenue in india\"",
+  "last_query": "allinurl:\"..co\" + \"how to grow monetization for free\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "13",
   "logs": [
-    {
-      "time": "12:02:30",
-      "index": 3,
-      "query": "allintitle:\"..co\" + \"youtube search tutorial\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "12:04:20",
-      "index": 4,
-      "query": "allintitle:\"..net\" + \"youtube studio tags\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "12:06:40",
       "index": 4,
@@ -1105,6 +1083,28 @@
       "time": "15:19:46",
       "index": 53,
       "query": "inanchor:\"..org\" + \"how to find revenue in india\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:21:41",
+      "index": 53,
+      "query": "inanchor:\"..org\" + \"how to find revenue in india\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:23:09",
+      "index": 54,
+      "query": "allinurl:\"..co\" + \"how to grow monetization for free\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
