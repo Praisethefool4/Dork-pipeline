@@ -1,0 +1,87 @@
+name: Parallel Dork Harvester Matrix
+
+on:
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+  schedule:
+    - cron: '0 */3 * * *' # Auto-run every 3 hours
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Allows writing to runner-specific branches
+
+    strategy:
+      fail-fast: false
+      matrix:
+        runner_id: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Configure Git Credentials
+        run: |
+          git config --global user.name "GitHub Action Scraper"
+          git config --global user.email "action@github.com"
+
+      - name: Partition Master Dorks List
+        run: |
+          # Looks for "my_dorks.txt" in your repository and splits it
+          # dynamically into 19 equal parts on-the-fly.
+          # If your file is named differently, update "my_dorks.txt" below.
+          python split_dorks.py my_dorks.txt ${{ matrix.runner_id }} 19
+
+      - name: Launch Local SearXNG Instance
+        run: |
+          # Creates a customized config directory for SearXNG
+          mkdir -p searxng
+          
+          # Injects settings to ensure Google CSE scraper engine is active
+          cat <<EOF > searxng/settings.yml
+          use_default_settings: true
+          server:
+            port: 8080
+            bind_address: "0.0.0.0"
+            secret_key: "super-secret"
+          search:
+            safe_search: 0
+          engines:
+            - name: google cse
+              engine: google_cse
+              shortcut: ggo
+              timeout: 10.0
+          EOF
+          
+          # Starts SearXNG inside a Docker container in the background
+          docker run -d \
+            --name searxng_node \
+            -p 8080:8080 \
+            -v ${{ github.workspace }}/searxng:/etc/searxng \
+            searxng/searxng:latest
+            
+          # Wait 8 seconds to allow the engine to spin up and load
+          sleep 8
+
+      - name: Execute Scraping Node Loop
+        env:
+          RUNNER_ID: ${{ matrix.runner_id }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          # Points to the local SearXNG docker instance running on this node
+          SEARXNG_URL: "http://localhost:8080"
+        run: |
+          # If you have static proxies.txt committed in your repo,
+          # the headless runner will automatically load and rotate them.
+          python headless_runner.py
