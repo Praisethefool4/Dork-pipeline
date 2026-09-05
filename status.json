@@ -3,7 +3,7 @@
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube watch time popular.php?type= site:.net",
+  "last_query": "how to check engagement without ads.php?username_id= site:.org",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,17 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "8",
   "logs": [
-    {
-      "time": "20:32:20",
-      "index": 43,
-      "query": "how to optimize search ranking without ads.php?game_id= site:.us",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "20:34:37",
       "index": 43,
@@ -1111,6 +1100,17 @@
       "total_urls": 0,
       "status": "TOTAL",
       "detail": "Processed pages for dork"
+    },
+    {
+      "time": "23:47:56",
+      "index": 93,
+      "query": "how to check engagement without ads.php?username_id= site:.org",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
     }
   ],
   "total_dorks": 26480
