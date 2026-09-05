@@ -1,9 +1,9 @@
 {
-  "index": 82,
+  "index": 83,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to improve watch time step by step.php?user_id= site:.co",
+  "last_query": "youtube thumbnails analytics.php?type_id= site:.org",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "6",
   "logs": [
-    {
-      "time": "13:59:38",
-      "index": 33,
-      "query": "how to use retention in 2026.php?page_id= site:.net",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "14:01:40",
-      "index": 34,
-      "query": "how to track retention organically.php?user_id= site:.net",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "14:03:43",
       "index": 34,
@@ -1105,6 +1083,28 @@
       "time": "17:13:46",
       "index": 83,
       "query": "how to improve watch time step by step.php?user_id= site:.co",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:16:14",
+      "index": 83,
+      "query": "how to improve watch time step by step.php?user_id= site:.co",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:18:14",
+      "index": 84,
+      "query": "youtube thumbnails analytics.php?type_id= site:.org",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
