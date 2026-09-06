@@ -1,9 +1,9 @@
 {
-  "index": 75,
+  "index": 76,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "intext:how to improve channel growth organically.php?user_id=",
+  "last_query": "allintext:youtube studio free.php?product_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "17",
   "logs": [
-    {
-      "time": "13:37:35",
-      "index": 26,
-      "query": "cache:youtube creator shorts.php?category=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "13:39:34",
-      "index": 27,
-      "query": "allintext:how to create watch time on pc.php?sec=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "13:41:24",
       "index": 27,
@@ -1105,6 +1083,28 @@
       "time": "16:49:20",
       "index": 76,
       "query": "intext:how to improve channel growth organically.php?user_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:51:41",
+      "index": 76,
+      "query": "intext:how to improve channel growth organically.php?user_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:52:56",
+      "index": 77,
+      "query": "allintext:youtube studio free.php?product_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
