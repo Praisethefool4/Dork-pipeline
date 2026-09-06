@@ -1,9 +1,9 @@
 {
-  "index": 66,
+  "index": 67,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "source:youtube editing 2026.php?include=",
+  "last_query": "inurl:youtube streaming algorithm.php?page_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "18",
   "logs": [
-    {
-      "time": "12:58:28",
-      "index": 17,
-      "query": "inurl:youtube channel requirements.php?product_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "13:00:03",
-      "index": 18,
-      "query": "filetype:youtube streaming education.php?user_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "13:01:50",
       "index": 18,
@@ -1105,6 +1083,28 @@
       "time": "16:12:30",
       "index": 67,
       "query": "source:youtube editing 2026.php?include=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:14:13",
+      "index": 67,
+      "query": "source:youtube editing 2026.php?include=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:16:27",
+      "index": 68,
+      "query": "inurl:youtube streaming algorithm.php?page_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
