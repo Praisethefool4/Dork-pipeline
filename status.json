@@ -1,9 +1,9 @@
 {
-  "index": 69,
+  "index": 70,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allintitle:\"..us\" + \"how to make watch time in india\"",
+  "last_query": "cache:\"..com\" + \"youtube trends music\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "13",
   "logs": [
-    {
-      "time": "13:10:46",
-      "index": 20,
-      "query": "filetype:\"..org\" + \"how to get retention organically\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "13:12:45",
-      "index": 21,
-      "query": "insubject:\"..us\" + \"how to grow watch time on mobile\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "13:14:30",
       "index": 21,
@@ -1105,6 +1083,28 @@
       "time": "16:21:51",
       "index": 70,
       "query": "allintitle:\"..us\" + \"how to make watch time in india\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:23:59",
+      "index": 70,
+      "query": "allintitle:\"..us\" + \"how to make watch time in india\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:25:35",
+      "index": 71,
+      "query": "cache:\"..com\" + \"youtube trends music\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
