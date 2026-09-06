@@ -1,9 +1,9 @@
 {
-  "index": 71,
+  "index": 72,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "insubject:\"..org\" + \"how to improve retention fast\"",
+  "last_query": "allintext:\"..net\" + \"how to improve subscribers for beginners\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "12",
   "logs": [
-    {
-      "time": "13:18:05",
-      "index": 22,
-      "query": "info:\"..us\" + \"youtube small channel\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "13:19:46",
-      "index": 22,
-      "query": "info:\"..us\" + \"youtube small channel\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "13:21:31",
       "index": 23,
@@ -1105,6 +1083,28 @@
       "time": "16:32:00",
       "index": 71,
       "query": "insubject:\"..org\" + \"how to improve retention fast\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:33:30",
+      "index": 72,
+      "query": "allintext:\"..net\" + \"how to improve subscribers for beginners\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:35:25",
+      "index": 72,
+      "query": "allintext:\"..net\" + \"how to improve subscribers for beginners\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
