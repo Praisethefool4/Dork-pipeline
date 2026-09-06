@@ -1,9 +1,9 @@
 {
-  "index": 73,
+  "index": 74,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "intitle:\"..net\" + \"how to use retention for free\"",
+  "last_query": "inanchor:\"..net\" + \"how to make retention on mobile\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "12",
   "logs": [
-    {
-      "time": "13:27:34",
-      "index": 24,
-      "query": "intext:\"..org\" + \"how to make views fast\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "13:29:15",
-      "index": 25,
-      "query": "inanchor:\"..us\" + \"how to start monetization without ads\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "13:31:04",
       "index": 25,
@@ -1105,6 +1083,28 @@
       "time": "16:40:32",
       "index": 74,
       "query": "intitle:\"..net\" + \"how to use retention for free\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:42:24",
+      "index": 74,
+      "query": "intitle:\"..net\" + \"how to use retention for free\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:43:50",
+      "index": 75,
+      "query": "inanchor:\"..net\" + \"how to make retention on mobile\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
