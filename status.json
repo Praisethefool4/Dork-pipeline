@@ -1,9 +1,9 @@
 {
-  "index": 86,
+  "index": 87,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "inurl:\"..org\" + \"youtube streaming tips\"",
+  "last_query": "filetype:\"..com\" + \"how to make monetization organically\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "11",
   "logs": [
-    {
-      "time": "20:15:28",
-      "index": 37,
-      "query": "link:\"..us\" + \"how to improve revenue in 2026\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "20:17:47",
-      "index": 37,
-      "query": "link:\"..us\" + \"how to improve revenue in 2026\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "20:19:42",
       "index": 38,
@@ -1105,6 +1083,28 @@
       "time": "23:28:32",
       "index": 86,
       "query": "inurl:\"..org\" + \"youtube streaming tips\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "23:30:18",
+      "index": 87,
+      "query": "filetype:\"..com\" + \"how to make monetization organically\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:32:31",
+      "index": 87,
+      "query": "filetype:\"..com\" + \"how to make monetization organically\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
