@@ -3,7 +3,7 @@
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to learn watch time for beginners.php?type_id= site:.net",
+  "last_query": "youtube channel.php?panel= site:.org",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,17 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "7",
   "logs": [
-    {
-      "time": "14:13:35",
-      "index": 37,
-      "query": "how to grow search ranking fast.php?page_id= site:.co",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "14:15:48",
       "index": 37,
@@ -1111,6 +1100,17 @@
       "total_urls": 0,
       "status": "TOTAL",
       "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:29:01",
+      "index": 87,
+      "query": "youtube channel.php?panel= site:.org",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
     }
   ],
   "total_dorks": 26480
