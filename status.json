@@ -1,9 +1,9 @@
 {
-  "index": 84,
+  "index": 85,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "info:youtube channel today.php?item_id=",
+  "last_query": "allinurl:how to optimize engagement fast.php?register=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "17",
   "logs": [
-    {
-      "time": "20:06:39",
-      "index": 35,
-      "query": "allintext:how to use channel growth in india.php?cat=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "20:08:23",
-      "index": 36,
-      "query": "source:how to start channel growth on mobile.php?product_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "20:10:05",
       "index": 36,
@@ -1105,6 +1083,28 @@
       "time": "23:17:03",
       "index": 85,
       "query": "info:youtube channel today.php?item_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:19:15",
+      "index": 85,
+      "query": "info:youtube channel today.php?item_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "23:20:46",
+      "index": 86,
+      "query": "allinurl:how to optimize engagement fast.php?register=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
