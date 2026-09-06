@@ -1,9 +1,9 @@
 {
-  "index": 71,
+  "index": 72,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to get watch time on mobile.php?purchase_id=",
+  "last_query": "how to improve click through rate on pc.php?id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "1",
   "logs": [
-    {
-      "time": "09:18:56",
-      "index": 22,
-      "query": "youtube videos app.php?gamer_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "09:20:57",
-      "index": 23,
-      "query": "youtube views settings.php?page_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "09:23:25",
       "index": 23,
@@ -1105,6 +1083,28 @@
       "time": "12:34:45",
       "index": 72,
       "query": "how to get watch time on mobile.php?purchase_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "12:37:12",
+      "index": 72,
+      "query": "how to get watch time on mobile.php?purchase_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "12:38:39",
+      "index": 73,
+      "query": "how to improve click through rate on pc.php?id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
