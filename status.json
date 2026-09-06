@@ -1,9 +1,9 @@
 {
-  "index": 63,
+  "index": 64,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "cache:how to make click through rate fast.php?type_id=",
+  "last_query": "source:youtube trends tags.php?product_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "19",
   "logs": [
-    {
-      "time": "12:48:18",
-      "index": 14,
-      "query": "intitle:how to learn monetization on mobile.php?page_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "12:50:22",
-      "index": 15,
-      "query": "allinurl:youtube streaming download.php?coID=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "12:52:15",
       "index": 15,
@@ -1105,6 +1083,28 @@
       "time": "16:02:30",
       "index": 64,
       "query": "cache:how to make click through rate fast.php?type_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:04:53",
+      "index": 64,
+      "query": "cache:how to make click through rate fast.php?type_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:06:28",
+      "index": 65,
+      "query": "source:youtube trends tags.php?product_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
