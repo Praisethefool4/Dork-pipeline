@@ -1,9 +1,9 @@
 {
-  "index": 86,
+  "index": 55,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube shorts ranking.php?username_id= site:.net",
+  "last_query": "youtube trends algorithm.php?item_id= site:.com",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -13,7 +13,700 @@
   "runner_id": "4",
   "logs": [
     {
-      "time": "14:14:23",
+      "time": "14:10:20",
+      "index": 6,
+      "query": "youtube music best.php?param= site:.net",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "14:12:01",
+      "index": 6,
+      "query": "youtube music best.php?param= site:.net",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "14:13:28",
+      "index": 7,
+      "query": "youtube watch time tutorial.php?type_id= site:.net",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "14:15:40",
+      "index": 7,
+      "query": "youtube watch time tutorial.php?type_id= site:.net",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "14:17:42",
+      "index": 8,
+      "query": "youtube search description.php?login_id= site:.org",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "14:20:07",
+      "index": 8,
+      "query": "youtube search description.php?login_id= site:.org",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "14:21:52",
+      "index": 9,
+      "query": "youtube premium channel.php?page_id= site:.net",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "14:23:50",
+      "index": 9,
+      "query": "youtube premium channel.php?page_id= site:.net",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "14:26:16",
+      "index": 10,
+      "query": "youtube creator trending.php?username_id= site:.net",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "14:28:22",
+      "index": 10,
+      "query": "youtube creator trending.php?username_id= site:.net",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "14:30:31",
+      "index": 11,
+      "query": "youtube gaming trending.php?product_id= site:.org",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "14:32:38",
+      "index": 11,
+      "query": "youtube gaming trending.php?product_id= site:.org",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "14:34:17",
+      "index": 12,
+      "query": "youtube best.php?param= site:.net",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "14:36:46",
+      "index": 12,
+      "query": "youtube best.php?param= site:.net",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "14:38:36",
+      "index": 13,
+      "query": "youtube analytics today.php?gamer_id= site:.us",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "14:40:34",
+      "index": 13,
+      "query": "youtube analytics today.php?gamer_id= site:.us",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "14:42:52",
+      "index": 14,
+      "query": "youtube music growth.php?username_id= site:.co",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "14:44:37",
+      "index": 14,
+      "query": "youtube music growth.php?username_id= site:.co",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "14:46:12",
+      "index": 15,
+      "query": "youtube subscribers mobile.php?user_id= site:.co",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "14:48:07",
+      "index": 15,
+      "query": "youtube subscribers mobile.php?user_id= site:.co",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "14:49:32",
+      "index": 16,
+      "query": "youtube analytics pc.php?id= site:.net",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "14:51:19",
+      "index": 16,
+      "query": "youtube analytics pc.php?id= site:.net",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "14:53:39",
+      "index": 17,
+      "query": "how to use views fast.php?user_id= site:.us",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "14:55:58",
+      "index": 17,
+      "query": "how to use views fast.php?user_id= site:.us",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "14:57:21",
+      "index": 18,
+      "query": "youtube streaming online.php?avd= site:.net",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "14:59:31",
+      "index": 18,
+      "query": "youtube streaming online.php?avd= site:.net",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:01:07",
+      "index": 19,
+      "query": "how to optimize revenue step by step.php?avd= site:.org",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:02:58",
+      "index": 19,
+      "query": "how to optimize revenue step by step.php?avd= site:.org",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:04:53",
+      "index": 20,
+      "query": "how to increase subscribers for beginners.php?user_id= site:.com",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:06:42",
+      "index": 20,
+      "query": "how to increase subscribers for beginners.php?user_id= site:.com",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:08:33",
+      "index": 21,
+      "query": "youtube seo growth.php?sec= site:.co",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:10:37",
+      "index": 21,
+      "query": "youtube seo growth.php?sec= site:.co",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:12:27",
+      "index": 22,
+      "query": "youtube premium iphone.php?username_id= site:.net",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:14:24",
+      "index": 22,
+      "query": "youtube premium iphone.php?username_id= site:.net",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:16:52",
+      "index": 23,
+      "query": "youtube live gaming.php?avd= site:.com",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:19:06",
+      "index": 23,
+      "query": "youtube live gaming.php?avd= site:.com",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:21:03",
+      "index": 24,
+      "query": "how to improve channel growth in 2026.php?user_id= site:.co",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:22:51",
+      "index": 24,
+      "query": "how to improve channel growth in 2026.php?user_id= site:.co",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:24:37",
+      "index": 25,
+      "query": "how to optimize retention organically.php?item_id= site:.net",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:26:42",
+      "index": 25,
+      "query": "how to optimize retention organically.php?item_id= site:.net",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:28:32",
+      "index": 26,
+      "query": "how to create subscribers organically.php?id= site:.us",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:30:48",
+      "index": 26,
+      "query": "how to create subscribers organically.php?id= site:.us",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:33:00",
+      "index": 27,
+      "query": "youtube music ideas.php?coID= site:.co",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:35:26",
+      "index": 27,
+      "query": "youtube music ideas.php?coID= site:.co",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:37:16",
+      "index": 28,
+      "query": "how to improve channel growth for beginners.php?id= site:.org",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:39:27",
+      "index": 28,
+      "query": "how to improve channel growth for beginners.php?id= site:.org",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:41:18",
+      "index": 29,
+      "query": "how to check views on pc.php?avd= site:.com",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:43:43",
+      "index": 29,
+      "query": "how to check views on pc.php?avd= site:.com",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:45:39",
+      "index": 30,
+      "query": "youtube analytics iphone.php?panel= site:.org",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:47:28",
+      "index": 30,
+      "query": "youtube analytics iphone.php?panel= site:.org",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:49:41",
+      "index": 31,
+      "query": "how to track retention on pc.php?coID= site:.org",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:51:59",
+      "index": 31,
+      "query": "how to track retention on pc.php?coID= site:.org",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:53:38",
+      "index": 32,
+      "query": "youtube channel requirements.php?sec= site:.org",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:55:35",
+      "index": 32,
+      "query": "youtube channel requirements.php?sec= site:.org",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:57:32",
+      "index": 33,
+      "query": "youtube views keywords.php?product_id= site:.co",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:59:19",
+      "index": 33,
+      "query": "youtube views keywords.php?product_id= site:.co",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:01:31",
+      "index": 34,
+      "query": "youtube trends faceless channel.php?category= site:.us",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:03:59",
+      "index": 34,
+      "query": "youtube trends faceless channel.php?category= site:.us",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:05:20",
+      "index": 35,
+      "query": "how to increase engagement on mobile.php?id= site:.net",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:07:47",
+      "index": 35,
+      "query": "how to increase engagement on mobile.php?id= site:.net",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:09:42",
+      "index": 36,
+      "query": "how to increase retention step by step.php?panel= site:.co",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:11:31",
+      "index": 36,
+      "query": "how to increase retention step by step.php?panel= site:.co",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:13:30",
+      "index": 37,
+      "query": "youtube thumbnails business.php?avd= site:.net",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:15:41",
       "index": 37,
       "query": "youtube thumbnails business.php?avd= site:.net",
       "page": 0,
@@ -24,7 +717,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "14:16:36",
+      "time": "16:17:41",
       "index": 38,
       "query": "youtube analytics 2026.php?sec= site:.co",
       "page": 1,
@@ -35,7 +728,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "14:18:34",
+      "time": "16:19:36",
       "index": 38,
       "query": "youtube analytics 2026.php?sec= site:.co",
       "page": 0,
@@ -46,7 +739,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "14:20:42",
+      "time": "16:21:46",
       "index": 39,
       "query": "youtube gaming android.php?login_id= site:.net",
       "page": 1,
@@ -57,7 +750,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "14:22:36",
+      "time": "16:23:59",
       "index": 39,
       "query": "youtube gaming android.php?login_id= site:.net",
       "page": 0,
@@ -68,7 +761,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "14:24:54",
+      "time": "16:25:25",
       "index": 40,
       "query": "how to start views fast.php?include= site:.net",
       "page": 1,
@@ -79,7 +772,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "14:26:35",
+      "time": "16:27:43",
       "index": 40,
       "query": "how to start views fast.php?include= site:.net",
       "page": 0,
@@ -90,7 +783,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "14:28:07",
+      "time": "16:29:46",
       "index": 41,
       "query": "how to use views for beginners.php?page_id= site:.us",
       "page": 1,
@@ -101,7 +794,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "14:29:54",
+      "time": "16:31:44",
       "index": 41,
       "query": "how to use views for beginners.php?page_id= site:.us",
       "page": 0,
@@ -112,7 +805,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "14:31:18",
+      "time": "16:33:54",
       "index": 42,
       "query": "youtube views requirements.php?login_id= site:.net",
       "page": 1,
@@ -123,7 +816,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "14:33:04",
+      "time": "16:36:01",
       "index": 42,
       "query": "youtube views requirements.php?login_id= site:.net",
       "page": 0,
@@ -134,7 +827,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "14:34:47",
+      "time": "16:37:42",
       "index": 43,
       "query": "youtube videos shorts.php?page_id= site:.net",
       "page": 1,
@@ -145,7 +838,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "14:36:43",
+      "time": "16:40:02",
       "index": 43,
       "query": "youtube videos shorts.php?page_id= site:.net",
       "page": 0,
@@ -156,7 +849,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "14:38:28",
+      "time": "16:41:37",
       "index": 44,
       "query": "how to start views step by step.php?id= site:.org",
       "page": 1,
@@ -167,7 +860,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "14:40:29",
+      "time": "16:43:30",
       "index": 44,
       "query": "how to start views step by step.php?id= site:.org",
       "page": 0,
@@ -178,7 +871,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "14:42:12",
+      "time": "16:45:30",
       "index": 45,
       "query": "how to learn search ranking fast.php?purchase_id= site:.org",
       "page": 1,
@@ -189,7 +882,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "14:44:35",
+      "time": "16:47:11",
       "index": 45,
       "query": "how to learn search ranking fast.php?purchase_id= site:.org",
       "page": 0,
@@ -200,7 +893,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "14:46:02",
+      "time": "16:48:58",
       "index": 46,
       "query": "youtube streaming android.php?register= site:.co",
       "page": 1,
@@ -211,7 +904,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "14:48:07",
+      "time": "16:51:00",
       "index": 46,
       "query": "youtube streaming android.php?register= site:.co",
       "page": 0,
@@ -222,7 +915,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "14:50:20",
+      "time": "16:52:28",
       "index": 47,
       "query": "youtube channel guide.php?id= site:.co",
       "page": 1,
@@ -233,7 +926,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "14:52:11",
+      "time": "16:54:09",
       "index": 47,
       "query": "youtube channel guide.php?id= site:.co",
       "page": 0,
@@ -244,7 +937,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "14:53:42",
+      "time": "16:56:26",
       "index": 48,
       "query": "youtube shorts viral.php?type= site:.org",
       "page": 1,
@@ -255,7 +948,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "14:56:02",
+      "time": "16:58:46",
       "index": 48,
       "query": "youtube shorts viral.php?type= site:.org",
       "page": 0,
@@ -266,7 +959,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "14:58:15",
+      "time": "17:00:45",
       "index": 49,
       "query": "how to make monetization organically.php?user_id= site:.us",
       "page": 1,
@@ -277,7 +970,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "15:00:32",
+      "time": "17:03:05",
       "index": 49,
       "query": "how to make monetization organically.php?user_id= site:.us",
       "page": 0,
@@ -288,7 +981,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "15:02:46",
+      "time": "17:04:35",
       "index": 50,
       "query": "youtube search mobile.php?username_id= site:.com",
       "page": 1,
@@ -299,7 +992,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "15:04:50",
+      "time": "17:06:29",
       "index": 50,
       "query": "youtube search mobile.php?username_id= site:.com",
       "page": 0,
@@ -310,7 +1003,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "15:06:26",
+      "time": "17:08:10",
       "index": 51,
       "query": "how to make watch time organically.php?user_id= site:.org",
       "page": 1,
@@ -321,7 +1014,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "15:08:26",
+      "time": "17:10:18",
       "index": 51,
       "query": "how to make watch time organically.php?user_id= site:.org",
       "page": 0,
@@ -332,7 +1025,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "15:10:20",
+      "time": "17:12:08",
       "index": 52,
       "query": "how to get search ranking in 2026.php?panel= site:.com",
       "page": 1,
@@ -343,7 +1036,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "15:12:24",
+      "time": "17:14:25",
       "index": 52,
       "query": "how to get search ranking in 2026.php?panel= site:.com",
       "page": 0,
@@ -354,7 +1047,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "15:14:05",
+      "time": "17:16:43",
       "index": 53,
       "query": "youtube views thumbnail.php?panel= site:.org",
       "page": 1,
@@ -365,7 +1058,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "15:15:56",
+      "time": "17:18:44",
       "index": 53,
       "query": "youtube views thumbnail.php?panel= site:.org",
       "page": 0,
@@ -376,7 +1069,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "15:17:46",
+      "time": "17:20:09",
       "index": 54,
       "query": "how to make click through rate on mobile.php?include= site:.us",
       "page": 1,
@@ -387,7 +1080,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "15:19:32",
+      "time": "17:22:07",
       "index": 54,
       "query": "how to make click through rate on mobile.php?include= site:.us",
       "page": 0,
@@ -398,7 +1091,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "15:20:57",
+      "time": "17:24:04",
       "index": 55,
       "query": "youtube trends algorithm.php?item_id= site:.com",
       "page": 1,
@@ -409,7 +1102,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "15:22:44",
+      "time": "17:26:14",
       "index": 55,
       "query": "youtube trends algorithm.php?item_id= site:.com",
       "page": 0,
@@ -418,699 +1111,6 @@
       "total_urls": 0,
       "status": "TOTAL",
       "detail": "Processed pages for dork"
-    },
-    {
-      "time": "15:24:23",
-      "index": 56,
-      "query": "how to create revenue fast.php?id= site:.com",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "15:26:36",
-      "index": 56,
-      "query": "how to create revenue fast.php?id= site:.com",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "15:28:17",
-      "index": 57,
-      "query": "youtube music optimization.php?param= site:.us",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "15:30:24",
-      "index": 57,
-      "query": "youtube music optimization.php?param= site:.us",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "15:32:08",
-      "index": 58,
-      "query": "how to optimize search ranking step by step.php?panel= site:.net",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "15:33:57",
-      "index": 58,
-      "query": "how to optimize search ranking step by step.php?panel= site:.net",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "15:35:21",
-      "index": 59,
-      "query": "how to optimize monetization fast.php?category= site:.org",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "15:37:37",
-      "index": 59,
-      "query": "how to optimize monetization fast.php?category= site:.org",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "15:39:33",
-      "index": 60,
-      "query": "youtube gaming faceless channel.php?avd= site:.net",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "15:41:58",
-      "index": 60,
-      "query": "youtube gaming faceless channel.php?avd= site:.net",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "15:43:50",
-      "index": 61,
-      "query": "how to create watch time in 2026.php?id= site:.com",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "15:46:14",
-      "index": 61,
-      "query": "how to create watch time in 2026.php?id= site:.com",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "15:48:06",
-      "index": 62,
-      "query": "youtube shorts tags.php?coID= site:.org",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "15:50:26",
-      "index": 62,
-      "query": "youtube shorts tags.php?coID= site:.org",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "15:52:26",
-      "index": 63,
-      "query": "how to grow retention without ads.php?username_id= site:.com",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "15:54:17",
-      "index": 63,
-      "query": "how to grow retention without ads.php?username_id= site:.com",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "15:55:47",
-      "index": 64,
-      "query": "how to learn watch time organically.php?sec= site:.net",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "15:58:00",
-      "index": 64,
-      "query": "how to learn watch time organically.php?sec= site:.net",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "16:00:06",
-      "index": 65,
-      "query": "youtube editing for beginners.php?item_id= site:.us",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "16:01:50",
-      "index": 65,
-      "query": "youtube editing for beginners.php?item_id= site:.us",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "16:03:32",
-      "index": 66,
-      "query": "how to optimize watch time in india.php?register= site:.net",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "16:05:59",
-      "index": 66,
-      "query": "how to optimize watch time in india.php?register= site:.net",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "16:07:42",
-      "index": 67,
-      "query": "youtube views iphone.php?id= site:.co",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "16:09:50",
-      "index": 67,
-      "query": "youtube views iphone.php?id= site:.co",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "16:11:54",
-      "index": 68,
-      "query": "youtube videos website.php?cat= site:.co",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "16:13:44",
-      "index": 68,
-      "query": "youtube videos website.php?cat= site:.co",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "16:15:14",
-      "index": 69,
-      "query": "how to track engagement step by step.php?type= site:.co",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "16:17:34",
-      "index": 69,
-      "query": "how to track engagement step by step.php?type= site:.co",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "16:19:49",
-      "index": 70,
-      "query": "youtube videos 2026.php?product_id= site:.co",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "16:21:45",
-      "index": 70,
-      "query": "youtube videos 2026.php?product_id= site:.co",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "16:23:28",
-      "index": 71,
-      "query": "how to make monetization organically.php?gamer_id= site:.com",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "16:25:13",
-      "index": 71,
-      "query": "how to make monetization organically.php?gamer_id= site:.com",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "16:27:27",
-      "index": 72,
-      "query": "youtube premium shorts.php?user_id= site:.com",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "16:29:56",
-      "index": 72,
-      "query": "youtube premium shorts.php?user_id= site:.com",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "16:31:26",
-      "index": 73,
-      "query": "how to improve search ranking fast.php?user_id= site:.com",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "16:33:56",
-      "index": 73,
-      "query": "how to improve search ranking fast.php?user_id= site:.com",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "16:35:25",
-      "index": 74,
-      "query": "youtube analytics music.php?page_id= site:.org",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "16:37:25",
-      "index": 74,
-      "query": "youtube analytics music.php?page_id= site:.org",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "16:38:54",
-      "index": 75,
-      "query": "how to make channel growth without ads.php?type= site:.org",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "16:41:13",
-      "index": 75,
-      "query": "how to make channel growth without ads.php?type= site:.org",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "16:42:44",
-      "index": 76,
-      "query": "youtube analytics marketing.php?avd= site:.org",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "16:44:37",
-      "index": 76,
-      "query": "youtube analytics marketing.php?avd= site:.org",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "16:46:52",
-      "index": 77,
-      "query": "youtube thumbnails requirements.php?category= site:.co",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "16:48:42",
-      "index": 77,
-      "query": "youtube thumbnails requirements.php?category= site:.co",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "16:50:18",
-      "index": 78,
-      "query": "youtube creator latest.php?id= site:.us",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "16:52:20",
-      "index": 78,
-      "query": "youtube creator latest.php?id= site:.us",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "16:54:16",
-      "index": 79,
-      "query": "youtube algorithm faceless channel.php?gamer_id= site:.com",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "16:56:00",
-      "index": 79,
-      "query": "youtube algorithm faceless channel.php?gamer_id= site:.com",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "16:57:44",
-      "index": 80,
-      "query": "how to get subscribers organically.php?type_id= site:.org",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "17:00:13",
-      "index": 80,
-      "query": "how to get subscribers organically.php?type_id= site:.org",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "17:02:26",
-      "index": 81,
-      "query": "youtube search latest.php?sec= site:.org",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "17:04:30",
-      "index": 81,
-      "query": "youtube search latest.php?sec= site:.org",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "17:06:06",
-      "index": 82,
-      "query": "youtube watch time india.php?user_id= site:.com",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "17:08:35",
-      "index": 82,
-      "query": "youtube watch time india.php?user_id= site:.com",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "17:10:50",
-      "index": 83,
-      "query": "youtube studio for beginners.php?sec= site:.us",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "17:12:40",
-      "index": 83,
-      "query": "youtube studio for beginners.php?sec= site:.us",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "17:14:22",
-      "index": 84,
-      "query": "youtube studio algorithm.php?gamer_id= site:.co",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "17:16:08",
-      "index": 84,
-      "query": "youtube studio algorithm.php?gamer_id= site:.co",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "17:17:59",
-      "index": 85,
-      "query": "how to use subscribers in 2026.php?type= site:.net",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "17:20:27",
-      "index": 85,
-      "query": "how to use subscribers in 2026.php?type= site:.net",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "17:21:46",
-      "index": 86,
-      "query": "how to start watch time in india.php?id= site:.org",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "17:24:10",
-      "index": 86,
-      "query": "how to start watch time in india.php?id= site:.org",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "17:25:41",
-      "index": 87,
-      "query": "youtube shorts ranking.php?username_id= site:.net",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
     }
   ],
   "total_dorks": 26481
