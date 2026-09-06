@@ -1,9 +1,9 @@
 {
-  "index": 50,
+  "index": 51,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to optimize click through rate organically.php?user_id=",
+  "last_query": "how to grow channel growth in india.php?gamer_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "2",
   "logs": [
-    {
-      "time": "11:55:50",
-      "index": 1,
-      "query": "how to increase subscribers without ads.php?cat=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "11:57:51",
-      "index": 2,
-      "query": "youtube search cost.php?item_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "11:59:36",
       "index": 2,
@@ -1105,6 +1083,28 @@
       "time": "15:12:45",
       "index": 51,
       "query": "how to optimize click through rate organically.php?user_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:15:05",
+      "index": 51,
+      "query": "how to optimize click through rate organically.php?user_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:16:28",
+      "index": 52,
+      "query": "how to grow channel growth in india.php?gamer_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
