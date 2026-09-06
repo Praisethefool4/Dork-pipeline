@@ -1,9 +1,9 @@
 {
-  "index": 89,
+  "index": 90,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "intext:\"..com\" + \"youtube subscribers latest\"",
+  "last_query": "allintitle:\"..co\" + \"how to check retention fast\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "11",
   "logs": [
-    {
-      "time": "14:25:51",
-      "index": 40,
-      "query": "cache:\"..us\" + \"youtube search online\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "14:28:00",
-      "index": 41,
-      "query": "link:\"..org\" + \"youtube creator requirements\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "14:30:18",
       "index": 41,
@@ -1105,6 +1083,28 @@
       "time": "17:43:02",
       "index": 90,
       "query": "intext:\"..com\" + \"youtube subscribers latest\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:44:43",
+      "index": 90,
+      "query": "intext:\"..com\" + \"youtube subscribers latest\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:46:15",
+      "index": 91,
+      "query": "allintitle:\"..co\" + \"how to check retention fast\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
