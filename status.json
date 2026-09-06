@@ -1,9 +1,9 @@
 {
-  "index": 73,
+  "index": 74,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to find channel growth on pc.php?user_id=",
+  "last_query": "youtube views india.php?purchase_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "2",
   "logs": [
-    {
-      "time": "19:28:34",
-      "index": 24,
-      "query": "youtube creator price.php?avd=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "19:30:07",
-      "index": 25,
-      "query": "youtube watch time tips.php?cat=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "19:32:27",
       "index": 25,
@@ -1105,6 +1083,28 @@
       "time": "22:44:00",
       "index": 74,
       "query": "how to find channel growth on pc.php?user_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "22:46:18",
+      "index": 74,
+      "query": "how to find channel growth on pc.php?user_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "22:48:04",
+      "index": 75,
+      "query": "youtube views india.php?purchase_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
