@@ -1,9 +1,9 @@
 {
-  "index": 70,
+  "index": 71,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinanchor:\"..org\" + \"how to optimize click through rate for beginners\"",
+  "last_query": "inanchor:\"..us\" + \"how to check retention in india\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "11",
   "logs": [
-    {
-      "time": "13:08:37",
-      "index": 21,
-      "query": "inurl:\"..net\" + \"how to track views in india\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "13:10:18",
-      "index": 21,
-      "query": "inurl:\"..net\" + \"how to track views in india\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "13:12:09",
       "index": 22,
@@ -1105,6 +1083,28 @@
       "time": "16:24:28",
       "index": 70,
       "query": "allinanchor:\"..org\" + \"how to optimize click through rate for beginners\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:26:38",
+      "index": 71,
+      "query": "inanchor:\"..us\" + \"how to check retention in india\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:28:23",
+      "index": 71,
+      "query": "inanchor:\"..us\" + \"how to check retention in india\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
