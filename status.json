@@ -1,9 +1,9 @@
 {
-  "index": 65,
+  "index": 66,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "source:youtube trends tags.php?product_id=",
+  "last_query": "link:how to find subscribers in india.php?param=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "19",
   "logs": [
-    {
-      "time": "18:54:23",
-      "index": 16,
-      "query": "link:how to start engagement without ads.php?user_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "18:56:31",
-      "index": 16,
-      "query": "link:how to start engagement without ads.php?user_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "18:57:53",
       "index": 17,
@@ -1105,6 +1083,28 @@
       "time": "22:07:22",
       "index": 65,
       "query": "source:youtube trends tags.php?product_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "22:09:34",
+      "index": 66,
+      "query": "link:how to find subscribers in india.php?param=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "22:11:19",
+      "index": 66,
+      "query": "link:how to find subscribers in india.php?param=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
