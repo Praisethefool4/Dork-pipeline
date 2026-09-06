@@ -1,9 +1,9 @@
 {
-  "index": 63,
+  "index": 64,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "inurl:how to learn watch time without ads.php?game_id=",
+  "last_query": "allinurl:how to find monetization organically.php?param=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "14",
   "logs": [
-    {
-      "time": "12:43:04",
-      "index": 14,
-      "query": "filetype:youtube description.php?gamer_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "12:45:01",
-      "index": 14,
-      "query": "filetype:youtube description.php?gamer_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "12:46:23",
       "index": 15,
@@ -1105,6 +1083,28 @@
       "time": "16:00:05",
       "index": 63,
       "query": "inurl:how to learn watch time without ads.php?game_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:02:15",
+      "index": 64,
+      "query": "allinurl:how to find monetization organically.php?param=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:04:20",
+      "index": 64,
+      "query": "allinurl:how to find monetization organically.php?param=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
