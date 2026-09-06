@@ -1,9 +1,9 @@
 {
-  "index": 90,
+  "index": 91,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allintitle:youtube channel.php?category=",
+  "last_query": "source:how to find subscribers for free.php?id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "16",
   "logs": [
-    {
-      "time": "02:29:19",
-      "index": 41,
-      "query": "source:youtube guide.php?panel=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "02:31:16",
-      "index": 41,
-      "query": "source:youtube guide.php?panel=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "02:33:16",
       "index": 42,
@@ -1105,6 +1083,28 @@
       "time": "05:46:17",
       "index": 90,
       "query": "allintitle:youtube channel.php?category=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "05:48:07",
+      "index": 91,
+      "query": "source:how to find subscribers for free.php?id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "05:50:04",
+      "index": 91,
+      "query": "source:how to find subscribers for free.php?id=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
