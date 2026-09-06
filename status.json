@@ -1,9 +1,9 @@
 {
-  "index": 77,
+  "index": 78,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allintitle:youtube search strategy.php?avd=",
+  "last_query": "allintitle:how to increase channel growth on mobile.php?sec=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "15",
   "logs": [
-    {
-      "time": "19:40:00",
-      "index": 28,
-      "query": "allinurl:how to check click through rate for free.php?gamer_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "19:42:01",
-      "index": 28,
-      "query": "allinurl:how to check click through rate for free.php?gamer_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "19:43:45",
       "index": 29,
@@ -1105,6 +1083,28 @@
       "time": "22:49:58",
       "index": 77,
       "query": "allintitle:youtube search strategy.php?avd=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "22:51:36",
+      "index": 78,
+      "query": "allintitle:how to increase channel growth on mobile.php?sec=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "22:53:41",
+      "index": 78,
+      "query": "allintitle:how to increase channel growth on mobile.php?sec=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
