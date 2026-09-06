@@ -1,9 +1,9 @@
 {
-  "index": 57,
+  "index": 58,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "inanchor:\"..us\" + \"how to improve views without ads\"",
+  "last_query": "intext:\"..co\" + \"youtube watch time ideas\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "11",
   "logs": [
-    {
-      "time": "12:18:48",
-      "index": 8,
-      "query": "allintext:\"..net\" + \"youtube views download\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "12:20:28",
-      "index": 8,
-      "query": "allintext:\"..net\" + \"youtube views download\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "12:22:43",
       "index": 9,
@@ -1105,6 +1083,28 @@
       "time": "15:33:16",
       "index": 57,
       "query": "inanchor:\"..us\" + \"how to improve views without ads\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:35:04",
+      "index": 58,
+      "query": "intext:\"..co\" + \"youtube watch time ideas\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:36:59",
+      "index": 58,
+      "query": "intext:\"..co\" + \"youtube watch time ideas\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
