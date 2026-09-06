@@ -1,9 +1,9 @@
 {
-  "index": 66,
+  "index": 67,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube views iphone.php?id= site:.co",
+  "last_query": "youtube videos website.php?cat= site:.co",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "4",
   "logs": [
-    {
-      "time": "14:55:58",
-      "index": 17,
-      "query": "how to use views fast.php?user_id= site:.us",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "14:57:21",
-      "index": 18,
-      "query": "youtube streaming online.php?avd= site:.net",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "14:59:31",
       "index": 18,
@@ -1105,6 +1083,28 @@
       "time": "18:14:21",
       "index": 67,
       "query": "youtube views iphone.php?id= site:.co",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "18:16:15",
+      "index": 67,
+      "query": "youtube views iphone.php?id= site:.co",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "18:18:16",
+      "index": 68,
+      "query": "youtube videos website.php?cat= site:.co",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
