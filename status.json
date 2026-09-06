@@ -1,9 +1,9 @@
 {
-  "index": 56,
+  "index": 57,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to create search ranking in india.php?param= site:.com",
+  "last_query": "how to check search ranking step by step.php?product_id= site:.co",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "5",
   "logs": [
-    {
-      "time": "12:19:47",
-      "index": 7,
-      "query": "how to check search ranking without ads.php?game_id= site:.net",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "12:21:58",
-      "index": 8,
-      "query": "youtube how to.php?register= site:.org",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "12:23:56",
       "index": 8,
@@ -1105,6 +1083,28 @@
       "time": "15:36:36",
       "index": 57,
       "query": "how to create search ranking in india.php?param= site:.com",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:38:38",
+      "index": 57,
+      "query": "how to create search ranking in india.php?param= site:.com",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:40:22",
+      "index": 58,
+      "query": "how to check search ranking step by step.php?product_id= site:.co",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
