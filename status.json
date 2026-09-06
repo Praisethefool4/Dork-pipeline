@@ -1,5 +1,5 @@
 {
-  "index": 85,
+  "index": 86,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
@@ -12,17 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "4",
   "logs": [
-    {
-      "time": "08:09:27",
-      "index": 36,
-      "query": "how to increase retention step by step.php?panel= site:.co",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "08:11:33",
       "index": 37,
@@ -1111,6 +1100,17 @@
       "total_urls": 0,
       "status": "GOOGLE CSE SUSPENDED",
       "detail": "google cse row not found"
+    },
+    {
+      "time": "11:28:36",
+      "index": 86,
+      "query": "how to start watch time in india.php?id= site:.org",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
     }
   ],
   "total_dorks": 26481
