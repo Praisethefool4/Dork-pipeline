@@ -1,9 +1,9 @@
 {
-  "index": 70,
+  "index": 71,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "cache:\"..co\" + \"youtube editing tools\"",
+  "last_query": "inurl:\"..net\" + \"how to use subscribers fast\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "10",
   "logs": [
-    {
-      "time": "13:12:09",
-      "index": 21,
-      "query": "inanchor:\"..us\" + \"youtube streaming creator\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "13:13:54",
-      "index": 22,
-      "query": "allinurl:\"..net\" + \"youtube subscribers tools\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "13:15:39",
       "index": 22,
@@ -1105,6 +1083,28 @@
       "time": "16:23:51",
       "index": 71,
       "query": "cache:\"..co\" + \"youtube editing tools\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:26:08",
+      "index": 71,
+      "query": "cache:\"..co\" + \"youtube editing tools\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:27:36",
+      "index": 72,
+      "query": "inurl:\"..net\" + \"how to use subscribers fast\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
