@@ -1,9 +1,9 @@
 {
-  "index": 65,
+  "index": 66,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube search iphone.php?purchase_id=",
+  "last_query": "youtube premium marketing.php?type_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "2",
   "logs": [
-    {
-      "time": "06:53:07",
-      "index": 16,
-      "query": "how to track channel growth without ads.php?page_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "06:54:50",
-      "index": 17,
-      "query": "youtube premium music.php?gamer_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "06:57:17",
       "index": 17,
@@ -1105,6 +1083,28 @@
       "time": "10:06:32",
       "index": 66,
       "query": "youtube search iphone.php?purchase_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "10:08:49",
+      "index": 66,
+      "query": "youtube search iphone.php?purchase_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "10:10:26",
+      "index": 67,
+      "query": "youtube premium marketing.php?type_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
