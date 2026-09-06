@@ -3,7 +3,7 @@
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "intitle:youtube subscribers for beginners.php?purchase_id=",
+  "last_query": "intitle:how to track monetization step by step.php?param=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,17 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "16",
   "logs": [
-    {
-      "time": "13:59:17",
-      "index": 33,
-      "query": "allintext:how to get engagement on mobile.php?register=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "14:01:14",
       "index": 33,
@@ -1111,6 +1100,17 @@
       "total_urls": 0,
       "status": "TOTAL",
       "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:18:56",
+      "index": 83,
+      "query": "intitle:how to track monetization step by step.php?param=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
     }
   ],
   "total_dorks": 26480
