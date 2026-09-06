@@ -1,9 +1,9 @@
 {
-  "index": 58,
+  "index": 59,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allintext:\"..us\" + \"how to grow retention for beginners\"",
+  "last_query": "inurl:\"..us\" + \"youtube shorts education\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "9",
   "logs": [
-    {
-      "time": "18:28:00",
-      "index": 9,
-      "query": "filetype:\"..com\" + \"how to optimize revenue in india\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "18:30:11",
-      "index": 10,
-      "query": "intext:\"..co\" + \"how to learn engagement on mobile\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "18:32:33",
       "index": 10,
@@ -1105,6 +1083,28 @@
       "time": "21:46:12",
       "index": 59,
       "query": "allintext:\"..us\" + \"how to grow retention for beginners\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "21:48:15",
+      "index": 59,
+      "query": "allintext:\"..us\" + \"how to grow retention for beginners\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "21:49:58",
+      "index": 60,
+      "query": "inurl:\"..us\" + \"youtube shorts education\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
