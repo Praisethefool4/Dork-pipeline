@@ -1,9 +1,9 @@
 {
-  "index": 68,
+  "index": 69,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube shorts app.php?avd=",
+  "last_query": "how to track click through rate in 2026.php?username_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "2",
   "logs": [
-    {
-      "time": "19:06:31",
-      "index": 19,
-      "query": "youtube tags.php?panel=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "19:08:47",
-      "index": 19,
-      "query": "youtube tags.php?panel=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "19:10:32",
       "index": 20,
@@ -1105,6 +1083,28 @@
       "time": "22:21:56",
       "index": 68,
       "query": "youtube shorts app.php?avd=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "22:24:14",
+      "index": 69,
+      "query": "how to track click through rate in 2026.php?username_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "22:26:39",
+      "index": 69,
+      "query": "how to track click through rate in 2026.php?username_id=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
