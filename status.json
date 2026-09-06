@@ -1,9 +1,9 @@
 {
-  "index": 58,
+  "index": 59,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to get monetization for beginners.php?avd= site:.net",
+  "last_query": "youtube subscribers channel.php?login_id= site:.com",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "3",
   "logs": [
-    {
-      "time": "18:27:24",
-      "index": 9,
-      "query": "how to grow revenue fast.php?cat= site:.com",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "18:29:18",
-      "index": 10,
-      "query": "how to optimize monetization organically.php?type= site:.org",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "18:31:29",
       "index": 10,
@@ -1105,6 +1083,28 @@
       "time": "21:44:50",
       "index": 59,
       "query": "how to get monetization for beginners.php?avd= site:.net",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "21:47:14",
+      "index": 59,
+      "query": "how to get monetization for beginners.php?avd= site:.net",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "21:49:24",
+      "index": 60,
+      "query": "youtube subscribers channel.php?login_id= site:.com",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
