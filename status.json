@@ -1,9 +1,9 @@
 {
-  "index": 77,
+  "index": 78,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "intext:\"..us\" + \"how to create monetization step by step\"",
+  "last_query": "link:\"..us\" + \"youtube algorithm gaming\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "11",
   "logs": [
-    {
-      "time": "13:37:30",
-      "index": 28,
-      "query": "info:\"..net\" + \"how to improve subscribers without ads\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "13:39:47",
-      "index": 29,
-      "query": "inurl:\"..com\" + \"how to learn watch time without ads\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "13:42:06",
       "index": 29,
@@ -1105,6 +1083,28 @@
       "time": "16:55:00",
       "index": 78,
       "query": "intext:\"..us\" + \"how to create monetization step by step\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:56:47",
+      "index": 78,
+      "query": "intext:\"..us\" + \"how to create monetization step by step\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:59:00",
+      "index": 79,
+      "query": "link:\"..us\" + \"youtube algorithm gaming\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
