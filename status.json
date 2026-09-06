@@ -1,9 +1,9 @@
 {
-  "index": 54,
+  "index": 55,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinanchor:\"..us\" + \"youtube creator tips\"",
+  "last_query": "inurl:\"..us\" + \"how to improve subscribers on pc\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "9",
   "logs": [
-    {
-      "time": "12:08:39",
-      "index": 5,
-      "query": "allinurl:\"..com\" + \"how to create retention organically\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "12:10:43",
-      "index": 5,
-      "query": "allinurl:\"..com\" + \"how to create retention organically\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "12:12:02",
       "index": 6,
@@ -1105,6 +1083,28 @@
       "time": "15:24:45",
       "index": 54,
       "query": "allinanchor:\"..us\" + \"youtube creator tips\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:26:14",
+      "index": 55,
+      "query": "inurl:\"..us\" + \"how to improve subscribers on pc\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:28:09",
+      "index": 55,
+      "query": "inurl:\"..us\" + \"how to improve subscribers on pc\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
