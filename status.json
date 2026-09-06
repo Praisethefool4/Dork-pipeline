@@ -1,9 +1,9 @@
 {
-  "index": 53,
+  "index": 54,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to make click through rate on mobile.php?include= site:.us",
+  "last_query": "youtube trends algorithm.php?item_id= site:.com",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "4",
   "logs": [
-    {
-      "time": "06:06:55",
-      "index": 4,
-      "query": "how to optimize engagement without ads.php?product_id= site:.com",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "06:09:11",
-      "index": 5,
-      "query": "how to start engagement fast.php?username_id= site:.us",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "06:11:28",
       "index": 5,
@@ -1105,6 +1083,28 @@
       "time": "09:17:12",
       "index": 54,
       "query": "how to make click through rate on mobile.php?include= site:.us",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "09:19:35",
+      "index": 54,
+      "query": "how to make click through rate on mobile.php?include= site:.us",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "09:21:46",
+      "index": 55,
+      "query": "youtube trends algorithm.php?item_id= site:.com",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
