@@ -1,9 +1,9 @@
 {
-  "index": 64,
+  "index": 65,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "link:youtube streaming channel.php?coID=",
+  "last_query": "allintext:youtube views popular.php?coID=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "16",
   "logs": [
-    {
-      "time": "12:48:11",
-      "index": 15,
-      "query": "allintitle:youtube live settings.php?coID=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "12:50:27",
-      "index": 15,
-      "query": "allintitle:youtube live settings.php?coID=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "12:52:25",
       "index": 16,
@@ -1105,6 +1083,28 @@
       "time": "16:02:25",
       "index": 64,
       "query": "link:youtube streaming channel.php?coID=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:04:42",
+      "index": 65,
+      "query": "allintext:youtube views popular.php?coID=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:06:43",
+      "index": 65,
+      "query": "allintext:youtube views popular.php?coID=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
