@@ -1,9 +1,9 @@
 {
-  "index": 89,
+  "index": 90,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to grow subscribers on mobile.php?type=",
+  "last_query": "how to get subscribers step by step.php?username_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "2",
   "logs": [
-    {
-      "time": "14:33:12",
-      "index": 40,
-      "query": "how to get monetization fast.php?gamer_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "14:35:36",
-      "index": 41,
-      "query": "youtube channel tutorial.php?register=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "14:37:40",
       "index": 41,
@@ -1105,6 +1083,28 @@
       "time": "17:44:21",
       "index": 90,
       "query": "how to grow subscribers on mobile.php?type=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:46:28",
+      "index": 90,
+      "query": "how to grow subscribers on mobile.php?type=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:48:36",
+      "index": 91,
+      "query": "how to get subscribers step by step.php?username_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
