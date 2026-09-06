@@ -1,9 +1,9 @@
 {
-  "index": 54,
+  "index": 55,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinanchor:youtube editing settings.php?id=",
+  "last_query": "intitle:youtube creator 2026.php?product_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "17",
   "logs": [
-    {
-      "time": "18:09:40",
-      "index": 5,
-      "query": "intext:how to improve retention organically.php?game_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "18:11:35",
-      "index": 5,
-      "query": "intext:how to improve retention organically.php?game_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "18:13:06",
       "index": 6,
@@ -1105,6 +1083,28 @@
       "time": "21:18:47",
       "index": 54,
       "query": "allinanchor:youtube editing settings.php?id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "21:19:59",
+      "index": 55,
+      "query": "intitle:youtube creator 2026.php?product_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "21:22:28",
+      "index": 55,
+      "query": "intitle:youtube creator 2026.php?product_id=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
