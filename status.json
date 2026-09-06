@@ -1,9 +1,9 @@
 {
-  "index": 59,
+  "index": 60,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "info:how to improve engagement for free.php?coID=",
+  "last_query": "allintext:how to use engagement step by step.php?purchase_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "15",
   "logs": [
-    {
-      "time": "18:30:03",
-      "index": 10,
-      "query": "allinanchor:youtube watch time app.php?product_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "18:32:02",
-      "index": 10,
-      "query": "allinanchor:youtube watch time app.php?product_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "18:34:09",
       "index": 11,
@@ -1105,6 +1083,28 @@
       "time": "21:43:03",
       "index": 59,
       "query": "info:how to improve engagement for free.php?coID=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "21:44:29",
+      "index": 60,
+      "query": "allintext:how to use engagement step by step.php?purchase_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "21:46:40",
+      "index": 60,
+      "query": "allintext:how to use engagement step by step.php?purchase_id=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
