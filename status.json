@@ -1,9 +1,9 @@
 {
-  "index": 54,
+  "index": 55,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinurl:\"..co\" + \"how to grow monetization for free\"",
+  "last_query": "intitle:\"..us\" + \"youtube music marketing\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "13",
   "logs": [
-    {
-      "time": "12:10:15",
-      "index": 5,
-      "query": "allinurl:\"..org\" + \"how to check subscribers on pc\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "12:12:33",
-      "index": 5,
-      "query": "allinurl:\"..org\" + \"how to check subscribers on pc\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "12:14:44",
       "index": 6,
@@ -1105,6 +1083,28 @@
       "time": "15:20:31",
       "index": 54,
       "query": "allinurl:\"..co\" + \"how to grow monetization for free\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:22:53",
+      "index": 55,
+      "query": "intitle:\"..us\" + \"youtube music marketing\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:25:13",
+      "index": 55,
+      "query": "intitle:\"..us\" + \"youtube music marketing\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
