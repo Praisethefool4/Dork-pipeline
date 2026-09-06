@@ -1,9 +1,9 @@
 {
-  "index": 65,
+  "index": 66,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube trends education.php?cat= site:.us",
+  "last_query": "how to get revenue in 2026.php?item_id= site:.co",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "7",
   "logs": [
-    {
-      "time": "12:56:10",
-      "index": 16,
-      "query": "how to start views on pc.php?param= site:.co",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "12:58:17",
-      "index": 17,
-      "query": "how to make subscribers in 2026.php?cat= site:.org",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "12:59:59",
       "index": 17,
@@ -1105,6 +1083,28 @@
       "time": "16:05:09",
       "index": 66,
       "query": "youtube trends education.php?cat= site:.us",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:06:53",
+      "index": 66,
+      "query": "youtube trends education.php?cat= site:.us",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:08:25",
+      "index": 67,
+      "query": "how to get revenue in 2026.php?item_id= site:.co",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
