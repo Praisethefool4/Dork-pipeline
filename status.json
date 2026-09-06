@@ -1,9 +1,9 @@
 {
-  "index": 80,
+  "index": 81,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to make channel growth in 2026.php?purchase_id= site:.org",
+  "last_query": "youtube channel cost.php?login_id= site:.net",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "6",
   "logs": [
-    {
-      "time": "19:51:50",
-      "index": 31,
-      "query": "youtube shorts how to.php?purchase_id= site:.com",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "19:53:45",
-      "index": 31,
-      "query": "youtube shorts how to.php?purchase_id= site:.com",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "19:55:50",
       "index": 32,
@@ -1105,6 +1083,28 @@
       "time": "23:05:22",
       "index": 80,
       "query": "how to make channel growth in 2026.php?purchase_id= site:.org",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "23:07:24",
+      "index": 81,
+      "query": "youtube channel cost.php?login_id= site:.net",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:09:06",
+      "index": 81,
+      "query": "youtube channel cost.php?login_id= site:.net",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
