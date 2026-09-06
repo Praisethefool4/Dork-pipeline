@@ -1,9 +1,9 @@
 {
-  "index": 54,
+  "index": 55,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allintext:how to find search ranking on mobile.php?item_id=",
+  "last_query": "info:how to track revenue in india.php?cat=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "15",
   "logs": [
-    {
-      "time": "12:10:54",
-      "index": 5,
-      "query": "inanchor:how to grow subscribers in 2026.php?category=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "12:12:24",
-      "index": 6,
-      "query": "cache:how to improve search ranking for free.php?type_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "12:14:09",
       "index": 6,
@@ -1105,6 +1083,28 @@
       "time": "15:21:36",
       "index": 55,
       "query": "allintext:how to find search ranking on mobile.php?item_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:23:41",
+      "index": 55,
+      "query": "allintext:how to find search ranking on mobile.php?item_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:25:27",
+      "index": 56,
+      "query": "info:how to track revenue in india.php?cat=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
