@@ -1,9 +1,9 @@
 {
-  "index": 68,
+  "index": 69,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube subscribers settings.php?id= site:.org",
+  "last_query": "how to make revenue for beginners.php?cat= site:.com",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "6",
   "logs": [
-    {
-      "time": "13:02:09",
-      "index": 19,
-      "query": "how to make click through rate for beginners.php?user_id= site:.net",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "13:04:01",
-      "index": 19,
-      "query": "how to make click through rate for beginners.php?user_id= site:.net",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "13:05:45",
       "index": 20,
@@ -1105,6 +1083,28 @@
       "time": "16:15:52",
       "index": 68,
       "query": "youtube subscribers settings.php?id= site:.org",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:17:58",
+      "index": 69,
+      "query": "how to make revenue for beginners.php?cat= site:.com",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:19:49",
+      "index": 69,
+      "query": "how to make revenue for beginners.php?cat= site:.com",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
