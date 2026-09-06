@@ -1,0 +1,39 @@
+{
+  "index": 1,
+  "page": 1,
+  "status": "COOLDOWN",
+  "action": "ENDPOINT HEALTH CHECK FAILED",
+  "last_query": "inanchor:youtube trends keywords.php?panel=",
+  "last_error": "google cse row not found",
+  "last_page_urls": 0,
+  "pages": 1,
+  "urls": 0,
+  "session_new_urls": 0,
+  "consecutive_empty": 0,
+  "runner_id": "17",
+  "logs": [
+    {
+      "time": "23:54:12",
+      "index": 1,
+      "query": "inanchor:youtube trends keywords.php?panel=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:56:20",
+      "index": 1,
+      "query": "inanchor:youtube trends keywords.php?panel=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    }
+  ],
+  "total_dorks": 26480
+}
