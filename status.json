@@ -1,9 +1,9 @@
 {
-  "index": 78,
+  "index": 79,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to improve revenue step by step.php?register= site:.net",
+  "last_query": "how to create monetization in 2026.php?game_id= site:.us",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "7",
   "logs": [
-    {
-      "time": "13:43:06",
-      "index": 29,
-      "query": "how to optimize views step by step.php?type= site:.org",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "13:45:13",
-      "index": 29,
-      "query": "how to optimize views step by step.php?type= site:.org",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "13:47:16",
       "index": 30,
@@ -1105,6 +1083,28 @@
       "time": "16:55:45",
       "index": 78,
       "query": "how to improve revenue step by step.php?register= site:.net",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:57:14",
+      "index": 79,
+      "query": "how to create monetization in 2026.php?game_id= site:.us",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:59:01",
+      "index": 79,
+      "query": "how to create monetization in 2026.php?game_id= site:.us",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
