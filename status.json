@@ -1,9 +1,9 @@
 {
-  "index": 87,
+  "index": 88,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to use revenue step by step.php?include= site:.net",
+  "last_query": "youtube analytics strategy.php?sec= site:.co",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "4",
   "logs": [
-    {
-      "time": "16:19:36",
-      "index": 38,
-      "query": "youtube analytics 2026.php?sec= site:.co",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "16:21:46",
-      "index": 39,
-      "query": "youtube gaming android.php?login_id= site:.net",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "16:23:59",
       "index": 39,
@@ -1105,6 +1083,28 @@
       "time": "19:37:12",
       "index": 88,
       "query": "how to use revenue step by step.php?include= site:.net",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "19:39:07",
+      "index": 88,
+      "query": "how to use revenue step by step.php?include= site:.net",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "19:40:31",
+      "index": 89,
+      "query": "youtube analytics strategy.php?sec= site:.co",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
