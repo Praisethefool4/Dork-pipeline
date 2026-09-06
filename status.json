@@ -1,5 +1,5 @@
 {
-  "index": 60,
+  "index": 61,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
@@ -12,17 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "11",
   "logs": [
-    {
-      "time": "12:33:55",
-      "index": 11,
-      "query": "source:\"..net\" + \"youtube videos for beginners\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "12:35:20",
       "index": 12,
@@ -1111,6 +1100,17 @@
       "total_urls": 0,
       "status": "GOOGLE CSE SUSPENDED",
       "detail": "google cse row not found"
+    },
+    {
+      "time": "15:48:13",
+      "index": 61,
+      "query": "info:\"..co\" + \"how to create revenue organically\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
     }
   ],
   "total_dorks": 26480
