@@ -1,9 +1,9 @@
 {
-  "index": 89,
+  "index": 90,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "filetype:how to create engagement in 2026.php?product_id=",
+  "last_query": "intext:how to find channel growth without ads.php?include=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "17",
   "logs": [
-    {
-      "time": "20:25:36",
-      "index": 40,
-      "query": "allinanchor:how to track channel growth in india.php?game_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "20:27:44",
-      "index": 41,
-      "query": "intext:how to track channel growth in india.php?param=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "20:29:27",
       "index": 41,
@@ -1105,6 +1083,28 @@
       "time": "23:37:28",
       "index": 90,
       "query": "filetype:how to create engagement in 2026.php?product_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:39:40",
+      "index": 90,
+      "query": "filetype:how to create engagement in 2026.php?product_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "23:41:45",
+      "index": 91,
+      "query": "intext:how to find channel growth without ads.php?include=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
