@@ -1,9 +1,9 @@
 {
-  "index": 55,
+  "index": 56,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "info:how to track revenue in india.php?cat=",
+  "last_query": "link:youtube editing music.php?sec=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "15",
   "logs": [
-    {
-      "time": "18:15:40",
-      "index": 6,
-      "query": "cache:how to improve search ranking for free.php?type_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "18:18:00",
-      "index": 7,
-      "query": "inurl:how to get engagement fast.php?login_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "18:19:43",
       "index": 7,
@@ -1105,6 +1083,28 @@
       "time": "21:29:54",
       "index": 56,
       "query": "info:how to track revenue in india.php?cat=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "21:32:22",
+      "index": 56,
+      "query": "info:how to track revenue in india.php?cat=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "21:33:51",
+      "index": 57,
+      "query": "link:youtube editing music.php?sec=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
