@@ -1,9 +1,9 @@
 {
-  "index": 53,
+  "index": 54,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allintitle:youtube music features.php?register=",
+  "last_query": "insubject:how to check revenue step by step.php?page_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "14",
   "logs": [
-    {
-      "time": "12:05:22",
-      "index": 4,
-      "query": "info:youtube thumbnails viral.php?sec=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "12:06:55",
-      "index": 5,
-      "query": "allinanchor:how to optimize watch time without ads.php?purchase_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "12:09:04",
       "index": 5,
@@ -1105,6 +1083,28 @@
       "time": "15:23:20",
       "index": 54,
       "query": "allintitle:youtube music features.php?register=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:25:35",
+      "index": 54,
+      "query": "allintitle:youtube music features.php?register=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:26:50",
+      "index": 55,
+      "query": "insubject:how to check revenue step by step.php?page_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
