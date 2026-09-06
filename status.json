@@ -1,9 +1,9 @@
 {
-  "index": 90,
+  "index": 91,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allintitle:how to improve watch time on pc.php?type=",
+  "last_query": "cache:youtube editing best.php?panel=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "18",
   "logs": [
-    {
-      "time": "14:32:07",
-      "index": 41,
-      "query": "intext:how to start watch time on pc.php?gamer_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "14:33:30",
-      "index": 42,
-      "query": "insubject:youtube streaming app.php?cat=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "14:35:31",
       "index": 42,
@@ -1105,6 +1083,28 @@
       "time": "17:46:36",
       "index": 91,
       "query": "allintitle:how to improve watch time on pc.php?type=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:48:43",
+      "index": 91,
+      "query": "allintitle:how to improve watch time on pc.php?type=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:50:50",
+      "index": 92,
+      "query": "cache:youtube editing best.php?panel=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
