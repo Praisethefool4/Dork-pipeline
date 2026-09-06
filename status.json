@@ -1,9 +1,9 @@
 {
-  "index": 5,
+  "index": 6,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "inanchor:how to grow subscribers in 2026.php?category=",
+  "last_query": "cache:how to improve search ranking for free.php?type_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -13,7 +13,7 @@
   "runner_id": "15",
   "logs": [
     {
-      "time": "23:53:10",
+      "time": "23:53:02",
       "index": 1,
       "query": "cache:youtube music requirements.php?avd=",
       "page": 1,
@@ -24,7 +24,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "23:55:38",
+      "time": "23:55:04",
       "index": 1,
       "query": "cache:youtube music requirements.php?avd=",
       "page": 0,
@@ -35,7 +35,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "23:57:38",
+      "time": "23:56:42",
       "index": 2,
       "query": "allinanchor:how to start click through rate in 2026.php?login_id=",
       "page": 1,
@@ -46,7 +46,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "23:59:43",
+      "time": "23:58:50",
       "index": 2,
       "query": "allinanchor:how to start click through rate in 2026.php?login_id=",
       "page": 0,
@@ -57,7 +57,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "00:01:39",
+      "time": "00:00:12",
       "index": 3,
       "query": "insubject:how to track views fast.php?param=",
       "page": 1,
@@ -68,7 +68,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "00:03:56",
+      "time": "00:02:00",
       "index": 3,
       "query": "insubject:how to track views fast.php?param=",
       "page": 0,
@@ -79,7 +79,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "00:06:01",
+      "time": "00:03:29",
       "index": 4,
       "query": "inurl:how to increase engagement organically.php?user_id=",
       "page": 1,
@@ -90,7 +90,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "00:07:57",
+      "time": "00:05:21",
       "index": 4,
       "query": "inurl:how to increase engagement organically.php?user_id=",
       "page": 0,
@@ -99,11 +99,33 @@
       "total_urls": 0,
       "status": "TOTAL",
       "detail": "Processed pages for dork"
+    },
+    {
+      "time": "00:07:27",
+      "index": 5,
+      "query": "inanchor:how to grow subscribers in 2026.php?category=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
     },
     {
       "time": "00:09:33",
       "index": 5,
       "query": "inanchor:how to grow subscribers in 2026.php?category=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "00:11:30",
+      "index": 6,
+      "query": "cache:how to improve search ranking for free.php?type_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
@@ -112,9 +134,9 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "00:11:18",
-      "index": 5,
-      "query": "inanchor:how to grow subscribers in 2026.php?category=",
+      "time": "00:13:11",
+      "index": 6,
+      "query": "cache:how to improve search ranking for free.php?type_id=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
