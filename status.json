@@ -1,9 +1,9 @@
 {
-  "index": 68,
+  "index": 69,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allintext:how to make revenue for beginners.php?register=",
+  "last_query": "allinanchor:how to find search ranking organically.php?sec=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "14",
   "logs": [
-    {
-      "time": "13:02:41",
-      "index": 19,
-      "query": "link:youtube trends small channel.php?user_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "13:04:42",
-      "index": 19,
-      "query": "link:youtube trends small channel.php?user_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "13:06:49",
       "index": 20,
@@ -1105,6 +1083,28 @@
       "time": "16:21:32",
       "index": 68,
       "query": "allintext:how to make revenue for beginners.php?register=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:23:08",
+      "index": 69,
+      "query": "allinanchor:how to find search ranking organically.php?sec=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:25:24",
+      "index": 69,
+      "query": "allinanchor:how to find search ranking organically.php?sec=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
