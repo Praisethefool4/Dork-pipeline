@@ -1,9 +1,9 @@
 {
-  "index": 60,
+  "index": 61,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allintext:\"..org\" + \"youtube search for beginners\"",
+  "last_query": "source:\"..org\" + \"how to create views on mobile\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "10",
   "logs": [
-    {
-      "time": "12:34:03",
-      "index": 11,
-      "query": "insubject:\"..org\" + \"how to start retention on pc\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "12:35:28",
-      "index": 12,
-      "query": "allintext:\"..co\" + \"how to optimize retention organically\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "12:37:18",
       "index": 12,
@@ -1105,6 +1083,28 @@
       "time": "15:45:55",
       "index": 61,
       "query": "allintext:\"..org\" + \"youtube search for beginners\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:47:41",
+      "index": 61,
+      "query": "allintext:\"..org\" + \"youtube search for beginners\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:49:32",
+      "index": 62,
+      "query": "source:\"..org\" + \"how to create views on mobile\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
