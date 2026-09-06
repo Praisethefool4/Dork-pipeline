@@ -1,9 +1,9 @@
 {
-  "index": 68,
+  "index": 69,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinanchor:\"..net\" + \"how to grow engagement in 2026\"",
+  "last_query": "allintext:\"..com\" + \"how to get engagement fast\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "12",
   "logs": [
-    {
-      "time": "13:05:53",
-      "index": 19,
-      "query": "allinurl:\"..us\" + \"how to improve views in india\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "13:08:06",
-      "index": 19,
-      "query": "allinurl:\"..us\" + \"how to improve views in india\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "13:09:31",
       "index": 20,
@@ -1105,6 +1083,28 @@
       "time": "16:19:37",
       "index": 68,
       "query": "allinanchor:\"..net\" + \"how to grow engagement in 2026\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:21:12",
+      "index": 69,
+      "query": "allintext:\"..com\" + \"how to get engagement fast\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:23:28",
+      "index": 69,
+      "query": "allintext:\"..com\" + \"how to get engagement fast\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
