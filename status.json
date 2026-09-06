@@ -1,9 +1,9 @@
 {
-  "index": 53,
+  "index": 54,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "intitle:\"..co\" + \"how to grow engagement in india\"",
+  "last_query": "allinanchor:\"..us\" + \"youtube creator tips\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "9",
   "logs": [
-    {
-      "time": "12:04:47",
-      "index": 4,
-      "query": "info:\"..org\" + \"how to make channel growth for free\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "12:06:54",
-      "index": 4,
-      "query": "info:\"..org\" + \"how to make channel growth for free\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "12:08:39",
       "index": 5,
@@ -1105,6 +1083,28 @@
       "time": "15:21:15",
       "index": 53,
       "query": "intitle:\"..co\" + \"how to grow engagement in india\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:22:59",
+      "index": 54,
+      "query": "allinanchor:\"..us\" + \"youtube creator tips\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:24:45",
+      "index": 54,
+      "query": "allinanchor:\"..us\" + \"youtube creator tips\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
