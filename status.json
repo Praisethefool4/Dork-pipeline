@@ -1,9 +1,9 @@
 {
-  "index": 58,
+  "index": 59,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "insubject:\"..net\" + \"youtube live live\"",
+  "last_query": "intext:\"..net\" + \"youtube thumbnails cost\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "11",
   "logs": [
-    {
-      "time": "12:25:05",
-      "index": 9,
-      "query": "insubject:\"..co\" + \"how to find retention organically\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "12:27:30",
-      "index": 10,
-      "query": "cache:\"..co\" + \"how to check watch time in 2026\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "12:29:40",
       "index": 10,
@@ -1105,6 +1083,28 @@
       "time": "15:38:31",
       "index": 59,
       "query": "insubject:\"..net\" + \"youtube live live\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:40:43",
+      "index": 59,
+      "query": "insubject:\"..net\" + \"youtube live live\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:42:28",
+      "index": 60,
+      "query": "intext:\"..net\" + \"youtube thumbnails cost\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
