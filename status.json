@@ -1,9 +1,9 @@
 {
-  "index": 89,
+  "index": 90,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to track retention for beginners.php?type= site:.com",
+  "last_query": "youtube editing viral.php?avd= site:.com",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "7",
   "logs": [
-    {
-      "time": "14:26:44",
-      "index": 40,
-      "query": "youtube trends analytics.php?product_id= site:.co",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "14:28:56",
-      "index": 41,
-      "query": "how to get views on pc.php?id= site:.org",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "14:30:42",
       "index": 41,
@@ -1105,6 +1083,28 @@
       "time": "17:40:46",
       "index": 90,
       "query": "how to track retention for beginners.php?type= site:.com",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:43:15",
+      "index": 90,
+      "query": "how to track retention for beginners.php?type= site:.com",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:45:14",
+      "index": 91,
+      "query": "youtube editing viral.php?avd= site:.com",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
