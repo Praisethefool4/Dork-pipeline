@@ -1,9 +1,9 @@
 {
-  "index": 79,
+  "index": 80,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allintitle:\"..com\" + \"how to create search ranking for beginners\"",
+  "last_query": "allinurl:\"..net\" + \"how to learn views step by step\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "11",
   "logs": [
-    {
-      "time": "13:45:49",
-      "index": 30,
-      "query": "intitle:\"..org\" + \"how to increase revenue fast\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "13:47:57",
-      "index": 31,
-      "query": "allinanchor:\"..com\" + \"how to use click through rate on pc\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "13:50:15",
       "index": 31,
@@ -1105,6 +1083,28 @@
       "time": "17:02:55",
       "index": 80,
       "query": "allintitle:\"..com\" + \"how to create search ranking for beginners\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:05:20",
+      "index": 80,
+      "query": "allintitle:\"..com\" + \"how to create search ranking for beginners\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:06:41",
+      "index": 81,
+      "query": "allinurl:\"..net\" + \"how to learn views step by step\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
