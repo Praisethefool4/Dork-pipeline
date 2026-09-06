@@ -1,9 +1,9 @@
 {
-  "index": 59,
+  "index": 60,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "inurl:\"..us\" + \"youtube creator best\"",
+  "last_query": "allintext:\"..org\" + \"youtube search for beginners\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "10",
   "logs": [
-    {
-      "time": "12:29:41",
-      "index": 10,
-      "query": "allinanchor:\"..com\" + \"how to find monetization on mobile\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "12:31:40",
-      "index": 11,
-      "query": "insubject:\"..org\" + \"how to start retention on pc\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "12:34:03",
       "index": 11,
@@ -1105,6 +1083,28 @@
       "time": "15:42:02",
       "index": 60,
       "query": "inurl:\"..us\" + \"youtube creator best\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:43:53",
+      "index": 60,
+      "query": "inurl:\"..us\" + \"youtube creator best\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:45:55",
+      "index": 61,
+      "query": "allintext:\"..org\" + \"youtube search for beginners\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
