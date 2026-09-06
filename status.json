@@ -1,9 +1,9 @@
 {
-  "index": 85,
+  "index": 86,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to improve channel growth organically.php?type_id= site:.com",
+  "last_query": "youtube streaming gaming.php?param= site:.us",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "6",
   "logs": [
-    {
-      "time": "14:11:49",
-      "index": 36,
-      "query": "how to create views fast.php?avd= site:.us",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "14:13:09",
-      "index": 37,
-      "query": "how to get click through rate fast.php?include= site:.us",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "14:15:03",
       "index": 37,
@@ -1105,6 +1083,28 @@
       "time": "17:23:02",
       "index": 86,
       "query": "how to improve channel growth organically.php?type_id= site:.com",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:24:48",
+      "index": 86,
+      "query": "how to improve channel growth organically.php?type_id= site:.com",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:26:41",
+      "index": 87,
+      "query": "youtube streaming gaming.php?param= site:.us",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
