@@ -1,9 +1,9 @@
 {
-  "index": 89,
+  "index": 90,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube studio popular.php?register= site:.net",
+  "last_query": "how to get retention fast.php?param= site:.us",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "4",
   "logs": [
-    {
-      "time": "08:25:10",
-      "index": 40,
-      "query": "how to start views fast.php?include= site:.net",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "08:27:15",
-      "index": 41,
-      "query": "how to use views for beginners.php?page_id= site:.us",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "08:29:12",
       "index": 41,
@@ -1105,6 +1083,28 @@
       "time": "11:43:26",
       "index": 90,
       "query": "youtube studio popular.php?register= site:.net",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "11:45:36",
+      "index": 90,
+      "query": "youtube studio popular.php?register= site:.net",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "11:47:19",
+      "index": 91,
+      "query": "how to get retention fast.php?param= site:.us",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
