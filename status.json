@@ -1,9 +1,9 @@
 {
-  "index": 50,
+  "index": 51,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "filetype:how to learn engagement fast.php?register=",
+  "last_query": "allinurl:how to optimize monetization on pc.php?panel=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "15",
   "logs": [
-    {
-      "time": "17:55:56",
-      "index": 1,
-      "query": "cache:youtube music requirements.php?avd=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "17:57:43",
-      "index": 2,
-      "query": "allinanchor:how to start click through rate in 2026.php?login_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "17:59:45",
       "index": 2,
@@ -1105,6 +1083,28 @@
       "time": "21:09:53",
       "index": 51,
       "query": "filetype:how to learn engagement fast.php?register=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "21:11:59",
+      "index": 51,
+      "query": "filetype:how to learn engagement fast.php?register=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "21:13:43",
+      "index": 52,
+      "query": "allinurl:how to optimize monetization on pc.php?panel=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
