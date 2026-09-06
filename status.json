@@ -1,9 +1,9 @@
 {
-  "index": 80,
+  "index": 81,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinanchor:youtube music tips.php?page_id=",
+  "last_query": "intitle:youtube subscribers for beginners.php?purchase_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "16",
   "logs": [
-    {
-      "time": "19:51:20",
-      "index": 31,
-      "query": "inurl:how to get watch time fast.php?sec=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "19:53:26",
-      "index": 32,
-      "query": "info:how to track search ranking in 2026.php?type=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "19:55:08",
       "index": 32,
@@ -1105,6 +1083,28 @@
       "time": "23:04:29",
       "index": 81,
       "query": "allinanchor:youtube music tips.php?page_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:06:38",
+      "index": 81,
+      "query": "allinanchor:youtube music tips.php?page_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "23:08:16",
+      "index": 82,
+      "query": "intitle:youtube subscribers for beginners.php?purchase_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
