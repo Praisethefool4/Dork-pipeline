@@ -1,9 +1,9 @@
 {
-  "index": 84,
+  "index": 85,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube live today.php?register= site:.us",
+  "last_query": "how to get channel growth step by step.php?coID= site:.net",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "3",
   "logs": [
-    {
-      "time": "14:11:37",
-      "index": 35,
-      "query": "how to start subscribers step by step.php?category= site:.com",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "14:13:26",
-      "index": 36,
-      "query": "how to make channel growth on mobile.php?coID= site:.com",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "14:15:31",
       "index": 36,
@@ -1105,6 +1083,28 @@
       "time": "17:24:49",
       "index": 85,
       "query": "youtube live today.php?register= site:.us",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:27:17",
+      "index": 85,
+      "query": "youtube live today.php?register= site:.us",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:28:46",
+      "index": 86,
+      "query": "how to get channel growth step by step.php?coID= site:.net",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
