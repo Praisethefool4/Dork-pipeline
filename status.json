@@ -1,9 +1,9 @@
 {
-  "index": 83,
+  "index": 84,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube search 2025.php?purchase_id= site:.co",
+  "last_query": "how to learn click through rate for free.php?item_id= site:.com",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "5",
   "logs": [
-    {
-      "time": "14:03:20",
-      "index": 34,
-      "query": "how to get watch time in india.php?coID= site:.net",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "14:05:43",
-      "index": 34,
-      "query": "how to get watch time in india.php?coID= site:.net",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "14:07:40",
       "index": 35,
@@ -1105,6 +1083,28 @@
       "time": "17:18:51",
       "index": 83,
       "query": "youtube search 2025.php?purchase_id= site:.co",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:20:49",
+      "index": 84,
+      "query": "how to learn click through rate for free.php?item_id= site:.com",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:23:16",
+      "index": 84,
+      "query": "how to learn click through rate for free.php?item_id= site:.com",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
