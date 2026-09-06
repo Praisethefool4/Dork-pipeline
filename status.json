@@ -1,9 +1,9 @@
 {
-  "index": 72,
+  "index": 73,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "info:how to check revenue for free.php?item_id=",
+  "last_query": "intext:youtube shorts features.php?coID=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "16",
   "logs": [
-    {
-      "time": "13:22:23",
-      "index": 23,
-      "query": "allinurl:youtube creator algorithm.php?id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "13:24:20",
-      "index": 24,
-      "query": "filetype:how to start click through rate without ads.php?purchase_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "13:26:40",
       "index": 24,
@@ -1105,6 +1083,28 @@
       "time": "16:36:29",
       "index": 73,
       "query": "info:how to check revenue for free.php?item_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:38:39",
+      "index": 73,
+      "query": "info:how to check revenue for free.php?item_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:40:14",
+      "index": 74,
+      "query": "intext:youtube shorts features.php?coID=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
