@@ -1,9 +1,9 @@
 {
-  "index": 56,
+  "index": 57,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "inurl:\"..net\" + \"youtube studio channel\"",
+  "last_query": "allinanchor:\"..co\" + \"youtube gaming settings\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "12",
   "logs": [
-    {
-      "time": "12:20:11",
-      "index": 7,
-      "query": "allintext:\"..com\" + \"how to optimize click through rate in 2026\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "12:22:05",
-      "index": 8,
-      "query": "intitle:\"..us\" + \"youtube streaming shorts\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "12:24:16",
       "index": 8,
@@ -1105,6 +1083,28 @@
       "time": "15:32:59",
       "index": 57,
       "query": "inurl:\"..net\" + \"youtube studio channel\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:35:26",
+      "index": 57,
+      "query": "inurl:\"..net\" + \"youtube studio channel\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:37:03",
+      "index": 58,
+      "query": "allinanchor:\"..co\" + \"youtube gaming settings\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
