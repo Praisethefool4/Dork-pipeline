@@ -1,9 +1,9 @@
 {
-  "index": 59,
+  "index": 60,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "inanchor:\"..net\" + \"how to start revenue in 2026\"",
+  "last_query": "inanchor:\"..net\" + \"youtube channel viral\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "12",
   "logs": [
-    {
-      "time": "12:29:43",
-      "index": 10,
-      "query": "allintitle:\"..org\" + \"how to optimize subscribers on pc\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "12:31:51",
-      "index": 10,
-      "query": "allintitle:\"..org\" + \"how to optimize subscribers on pc\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "12:33:30",
       "index": 11,
@@ -1105,6 +1083,28 @@
       "time": "15:43:25",
       "index": 59,
       "query": "inanchor:\"..net\" + \"how to start revenue in 2026\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:44:47",
+      "index": 60,
+      "query": "inanchor:\"..net\" + \"youtube channel viral\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:46:46",
+      "index": 60,
+      "query": "inanchor:\"..net\" + \"youtube channel viral\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
