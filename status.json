@@ -1,9 +1,9 @@
 {
-  "index": 69,
+  "index": 70,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "info:how to make watch time fast.php?id=",
+  "last_query": "allinurl:youtube settings.php?coID=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "16",
   "logs": [
-    {
-      "time": "19:07:49",
-      "index": 20,
-      "query": "allintitle:youtube editing tags.php?type=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "19:09:31",
-      "index": 20,
-      "query": "allintitle:youtube editing tags.php?type=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "19:11:02",
       "index": 21,
@@ -1105,6 +1083,28 @@
       "time": "22:19:28",
       "index": 69,
       "query": "info:how to make watch time fast.php?id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "22:21:24",
+      "index": 70,
+      "query": "allinurl:youtube settings.php?coID=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "22:23:19",
+      "index": 70,
+      "query": "allinurl:youtube settings.php?coID=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
