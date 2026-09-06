@@ -1,9 +1,9 @@
 {
-  "index": 56,
+  "index": 57,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "insubject:youtube trends india.php?id=",
+  "last_query": "cache:how to use engagement on pc.php?game_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "16",
   "logs": [
-    {
-      "time": "12:19:05",
-      "index": 7,
-      "query": "inurl:how to optimize click through rate on pc.php?type_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "12:20:56",
-      "index": 8,
-      "query": "source:how to check revenue in india.php?id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "12:23:01",
       "index": 8,
@@ -1105,6 +1083,28 @@
       "time": "15:33:21",
       "index": 57,
       "query": "insubject:youtube trends india.php?id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:35:10",
+      "index": 57,
+      "query": "insubject:youtube trends india.php?id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:37:22",
+      "index": 58,
+      "query": "cache:how to use engagement on pc.php?game_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
