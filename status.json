@@ -1,9 +1,9 @@
 {
-  "index": 77,
+  "index": 78,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "intext:how to check watch time for beginners.php?cat=",
+  "last_query": "insubject:how to make views for beginners.php?login_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "16",
   "logs": [
-    {
-      "time": "13:41:57",
-      "index": 28,
-      "query": "inurl:youtube monetization iphone.php?sec=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "13:43:42",
-      "index": 29,
-      "query": "allinurl:how to increase monetization in india.php?page_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "13:45:56",
       "index": 29,
@@ -1105,6 +1083,28 @@
       "time": "16:57:35",
       "index": 78,
       "query": "intext:how to check watch time for beginners.php?cat=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:59:55",
+      "index": 78,
+      "query": "intext:how to check watch time for beginners.php?cat=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:01:52",
+      "index": 79,
+      "query": "insubject:how to make views for beginners.php?login_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
