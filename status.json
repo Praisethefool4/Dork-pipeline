@@ -1,5 +1,5 @@
 {
-  "index": 3,
+  "index": 4,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
@@ -13,7 +13,7 @@
   "runner_id": "11",
   "logs": [
     {
-      "time": "23:53:03",
+      "time": "23:53:00",
       "index": 1,
       "query": "allintext:\"..net\" + \"how to increase search ranking in 2026\"",
       "page": 1,
@@ -24,7 +24,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "23:55:11",
+      "time": "23:54:58",
       "index": 1,
       "query": "allintext:\"..net\" + \"how to increase search ranking in 2026\"",
       "page": 0,
@@ -35,7 +35,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "23:57:07",
+      "time": "23:56:32",
       "index": 2,
       "query": "filetype:\"..com\" + \"youtube studio business\"",
       "page": 1,
@@ -46,7 +46,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "23:59:34",
+      "time": "23:58:56",
       "index": 2,
       "query": "filetype:\"..com\" + \"youtube studio business\"",
       "page": 0,
@@ -57,7 +57,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "00:01:02",
+      "time": "00:01:14",
       "index": 3,
       "query": "intitle:\"..com\" + \"how to get monetization for free\"",
       "page": 1,
@@ -68,7 +68,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "00:03:16",
+      "time": "00:03:11",
       "index": 3,
       "query": "intitle:\"..com\" + \"how to get monetization for free\"",
       "page": 0,
@@ -79,7 +79,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "00:04:40",
+      "time": "00:04:50",
       "index": 4,
       "query": "link:\"..co\" + \"how to start retention in india\"",
       "page": 1,
@@ -88,6 +88,17 @@
       "total_urls": 0,
       "status": "GOOGLE CSE SUSPENDED",
       "detail": "google cse row not found"
+    },
+    {
+      "time": "00:06:37",
+      "index": 4,
+      "query": "link:\"..co\" + \"how to start retention in india\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
     }
   ],
   "total_dorks": 26480
