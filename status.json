@@ -1,9 +1,9 @@
 {
-  "index": 74,
+  "index": 75,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to learn revenue for beginners.php?user_id= site:.net",
+  "last_query": "how to increase revenue in 2026.php?user_id= site:.us",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "5",
   "logs": [
-    {
-      "time": "13:27:59",
-      "index": 25,
-      "query": "how to use views for free.php?type= site:.org",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "13:30:07",
-      "index": 26,
-      "query": "youtube search free.php?category= site:.us",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "13:32:31",
       "index": 26,
@@ -1105,6 +1083,28 @@
       "time": "16:45:59",
       "index": 75,
       "query": "how to learn revenue for beginners.php?user_id= site:.net",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:47:46",
+      "index": 75,
+      "query": "how to learn revenue for beginners.php?user_id= site:.net",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:49:24",
+      "index": 76,
+      "query": "how to increase revenue in 2026.php?user_id= site:.us",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
