@@ -1,9 +1,9 @@
 {
-  "index": 62,
+  "index": 63,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube editing growth.php?product_id= site:.us",
+  "last_query": "youtube gaming tips.php?product_id= site:.us",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "3",
   "logs": [
-    {
-      "time": "18:42:29",
-      "index": 13,
-      "query": "youtube algorithm tutorial.php?sec= site:.org",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "18:44:04",
-      "index": 14,
-      "query": "youtube thumbnails website.php?login_id= site:.us",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "18:46:26",
       "index": 14,
@@ -1105,6 +1083,28 @@
       "time": "22:00:49",
       "index": 63,
       "query": "youtube editing growth.php?product_id= site:.us",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "22:02:55",
+      "index": 63,
+      "query": "youtube editing growth.php?product_id= site:.us",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "22:04:42",
+      "index": 64,
+      "query": "youtube gaming tips.php?product_id= site:.us",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
