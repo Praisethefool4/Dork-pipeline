@@ -1,9 +1,9 @@
 {
-  "index": 66,
+  "index": 67,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to optimize watch time in india.php?register= site:.net",
+  "last_query": "youtube views iphone.php?id= site:.co",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "4",
   "logs": [
-    {
-      "time": "06:55:26",
-      "index": 17,
-      "query": "how to use views fast.php?user_id= site:.us",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "06:57:15",
-      "index": 17,
-      "query": "how to use views fast.php?user_id= site:.us",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "06:58:30",
       "index": 18,
@@ -1105,6 +1083,28 @@
       "time": "10:08:59",
       "index": 66,
       "query": "how to optimize watch time in india.php?register= site:.net",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "10:11:14",
+      "index": 67,
+      "query": "youtube views iphone.php?id= site:.co",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "10:13:38",
+      "index": 67,
+      "query": "youtube views iphone.php?id= site:.co",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
