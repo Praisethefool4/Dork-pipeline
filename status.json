@@ -1,9 +1,9 @@
 {
-  "index": 79,
+  "index": 80,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to create monetization in 2026.php?game_id= site:.us",
+  "last_query": "youtube analytics pc.php?user_id= site:.us",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "7",
   "logs": [
-    {
-      "time": "13:47:16",
-      "index": 30,
-      "query": "youtube shorts ideas.php?register= site:.us",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "13:49:26",
-      "index": 30,
-      "query": "youtube shorts ideas.php?register= site:.us",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "13:51:02",
       "index": 31,
@@ -1105,6 +1083,28 @@
       "time": "16:59:01",
       "index": 79,
       "query": "how to create monetization in 2026.php?game_id= site:.us",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:01:06",
+      "index": 80,
+      "query": "youtube analytics pc.php?user_id= site:.us",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:03:15",
+      "index": 80,
+      "query": "youtube analytics pc.php?user_id= site:.us",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
