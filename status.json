@@ -1,9 +1,9 @@
 {
-  "index": 84,
+  "index": 85,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinanchor:\"..net\" + \"youtube shorts ranking\"",
+  "last_query": "cache:\"..net\" + \"how to learn retention for free\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "13",
   "logs": [
-    {
-      "time": "02:06:52",
-      "index": 35,
-      "query": "info:\"..co\" + \"youtube monetization trending\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "02:09:15",
-      "index": 35,
-      "query": "info:\"..co\" + \"youtube monetization trending\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "02:11:30",
       "index": 36,
@@ -1105,6 +1083,28 @@
       "time": "05:21:08",
       "index": 84,
       "query": "allinanchor:\"..net\" + \"youtube shorts ranking\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "05:23:21",
+      "index": 85,
+      "query": "cache:\"..net\" + \"how to learn retention for free\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "05:25:08",
+      "index": 85,
+      "query": "cache:\"..net\" + \"how to learn retention for free\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
