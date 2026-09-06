@@ -1,9 +1,9 @@
 {
-  "index": 75,
+  "index": 76,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinurl:youtube analytics ideas.php?purchase_id=",
+  "last_query": "insubject:youtube subscribers online.php?type_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "18",
   "logs": [
-    {
-      "time": "07:34:46",
-      "index": 26,
-      "query": "insubject:how to make watch time organically.php?item_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "07:36:09",
-      "index": 27,
-      "query": "intitle:how to grow revenue in 2026.php?id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "07:37:56",
       "index": 27,
@@ -1105,6 +1083,28 @@
       "time": "10:49:20",
       "index": 76,
       "query": "allinurl:youtube analytics ideas.php?purchase_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "10:51:39",
+      "index": 76,
+      "query": "allinurl:youtube analytics ideas.php?purchase_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "10:53:24",
+      "index": 77,
+      "query": "insubject:youtube subscribers online.php?type_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
