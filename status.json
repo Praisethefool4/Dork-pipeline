@@ -1,9 +1,9 @@
 {
-  "index": 89,
+  "index": 90,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "filetype:how to optimize revenue in india.php?cat=",
+  "last_query": "info:how to track engagement for free.php?item_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "15",
   "logs": [
-    {
-      "time": "14:25:40",
-      "index": 40,
-      "query": "source:youtube studio new channel.php?sec=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "14:27:13",
-      "index": 41,
-      "query": "allinanchor:how to track revenue in india.php?user_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "14:29:19",
       "index": 41,
@@ -1105,6 +1083,28 @@
       "time": "17:37:42",
       "index": 90,
       "query": "filetype:how to optimize revenue in india.php?cat=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:40:10",
+      "index": 90,
+      "query": "filetype:how to optimize revenue in india.php?cat=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:41:38",
+      "index": 91,
+      "query": "info:how to track engagement for free.php?item_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
