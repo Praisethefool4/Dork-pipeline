@@ -1,9 +1,9 @@
 {
-  "index": 82,
+  "index": 83,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "info:\"..net\" + \"how to increase retention step by step\"",
+  "last_query": "inanchor:\"..co\" + \"how to check click through rate on pc\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "9",
   "logs": [
-    {
-      "time": "14:01:24",
-      "index": 33,
-      "query": "source:\"..co\" + \"youtube trends title\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "14:03:10",
-      "index": 34,
-      "query": "link:\"..co\" + \"how to create search ranking organically\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "14:05:24",
       "index": 34,
@@ -1105,6 +1083,28 @@
       "time": "17:14:01",
       "index": 83,
       "query": "info:\"..net\" + \"how to increase retention step by step\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:15:45",
+      "index": 83,
+      "query": "info:\"..net\" + \"how to increase retention step by step\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:17:32",
+      "index": 84,
+      "query": "inanchor:\"..co\" + \"how to check click through rate on pc\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
