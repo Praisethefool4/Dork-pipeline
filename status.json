@@ -3,7 +3,7 @@
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "info:\"..com\" + \"how to start revenue for beginners\"",
+  "last_query": "inurl:\"..us\" + \"youtube creator best\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,17 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "10",
   "logs": [
-    {
-      "time": "12:27:26",
-      "index": 10,
-      "query": "allinanchor:\"..com\" + \"how to find monetization on mobile\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "12:29:41",
       "index": 10,
@@ -1111,6 +1100,17 @@
       "total_urls": 0,
       "status": "TOTAL",
       "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:42:02",
+      "index": 60,
+      "query": "inurl:\"..us\" + \"youtube creator best\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
     }
   ],
   "total_dorks": 26480
