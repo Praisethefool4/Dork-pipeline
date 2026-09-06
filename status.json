@@ -1,9 +1,9 @@
 {
-  "index": 77,
+  "index": 78,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allintext:youtube studio free.php?product_id=",
+  "last_query": "info:youtube music growth.php?register=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "17",
   "logs": [
-    {
-      "time": "01:40:01",
-      "index": 28,
-      "query": "insubject:how to improve engagement on mobile.php?login_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "01:42:06",
-      "index": 28,
-      "query": "insubject:how to improve engagement on mobile.php?login_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "01:43:38",
       "index": 29,
@@ -1105,6 +1083,28 @@
       "time": "04:57:04",
       "index": 77,
       "query": "allintext:youtube studio free.php?product_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "04:58:53",
+      "index": 78,
+      "query": "info:youtube music growth.php?register=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "05:00:41",
+      "index": 78,
+      "query": "info:youtube music growth.php?register=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
