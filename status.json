@@ -1,9 +1,9 @@
 {
-  "index": 66,
+  "index": 67,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "info:\"..org\" + \"youtube seo tips\"",
+  "last_query": "inurl:\"..co\" + \"youtube algorithm title\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "13",
   "logs": [
-    {
-      "time": "06:58:07",
-      "index": 17,
-      "query": "insubject:\"..com\" + \"youtube creator tools\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "06:59:55",
-      "index": 18,
-      "query": "inurl:\"..co\" + \"youtube views download\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "07:02:18",
       "index": 18,
@@ -1105,6 +1083,28 @@
       "time": "10:15:29",
       "index": 67,
       "query": "info:\"..org\" + \"youtube seo tips\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "10:17:27",
+      "index": 67,
+      "query": "info:\"..org\" + \"youtube seo tips\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "10:18:57",
+      "index": 68,
+      "query": "inurl:\"..co\" + \"youtube algorithm title\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
