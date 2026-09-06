@@ -1,9 +1,9 @@
 {
-  "index": 54,
+  "index": 55,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "inurl:\"..us\" + \"how to improve subscribers on pc\"",
+  "last_query": "insubject:\"..co\" + \"how to check views for free\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "9",
   "logs": [
-    {
-      "time": "18:12:45",
-      "index": 5,
-      "query": "allinurl:\"..com\" + \"how to create retention organically\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "18:14:11",
-      "index": 6,
-      "query": "cache:\"..org\" + \"how to make revenue without ads\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "18:16:39",
       "index": 6,
@@ -1105,6 +1083,28 @@
       "time": "21:30:23",
       "index": 55,
       "query": "inurl:\"..us\" + \"how to improve subscribers on pc\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "21:32:46",
+      "index": 55,
+      "query": "inurl:\"..us\" + \"how to improve subscribers on pc\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "21:34:52",
+      "index": 56,
+      "query": "insubject:\"..co\" + \"how to check views for free\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
