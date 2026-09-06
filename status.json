@@ -1,9 +1,9 @@
 {
-  "index": 83,
+  "index": 84,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to get search ranking for beginners.php?param= site:.org",
+  "last_query": "youtube live android.php?cat= site:.co",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "8",
   "logs": [
-    {
-      "time": "02:04:23",
-      "index": 34,
-      "query": "how to create watch time in india.php?purchase_id= site:.net",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "02:06:35",
-      "index": 35,
-      "query": "youtube channel analytics.php?item_id= site:.org",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "02:08:21",
       "index": 35,
@@ -1105,6 +1083,28 @@
       "time": "05:17:52",
       "index": 84,
       "query": "how to get search ranking for beginners.php?param= site:.org",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "05:20:06",
+      "index": 84,
+      "query": "how to get search ranking for beginners.php?param= site:.org",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "05:22:13",
+      "index": 85,
+      "query": "youtube live android.php?cat= site:.co",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
