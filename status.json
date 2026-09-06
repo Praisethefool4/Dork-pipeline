@@ -1,9 +1,9 @@
 {
-  "index": 72,
+  "index": 73,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinanchor:\"..com\" + \"youtube thumbnails trending\"",
+  "last_query": "allinanchor:\"..co\" + \"youtube thumbnails how to\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "13",
   "logs": [
-    {
-      "time": "13:22:43",
-      "index": 23,
-      "query": "filetype:\"..co\" + \"how to learn views step by step\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "13:24:19",
-      "index": 24,
-      "query": "intext:\"..us\" + \"how to improve channel growth step by step\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "13:26:27",
       "index": 24,
@@ -1105,6 +1083,28 @@
       "time": "16:33:52",
       "index": 73,
       "query": "allinanchor:\"..com\" + \"youtube thumbnails trending\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:35:45",
+      "index": 73,
+      "query": "allinanchor:\"..com\" + \"youtube thumbnails trending\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:38:00",
+      "index": 74,
+      "query": "allinanchor:\"..co\" + \"youtube thumbnails how to\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
