@@ -1,9 +1,9 @@
 {
-  "index": 63,
+  "index": 64,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to get search ranking organically.php?gamer_id=",
+  "last_query": "how to make revenue in india.php?product_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "2",
   "logs": [
-    {
-      "time": "18:48:46",
-      "index": 14,
-      "query": "how to find watch time on mobile.php?avd=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "18:50:23",
-      "index": 15,
-      "query": "how to get search ranking fast.php?login_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "18:52:39",
       "index": 15,
@@ -1105,6 +1083,28 @@
       "time": "22:04:13",
       "index": 64,
       "query": "how to get search ranking organically.php?gamer_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "22:06:00",
+      "index": 64,
+      "query": "how to get search ranking organically.php?gamer_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "22:07:29",
+      "index": 65,
+      "query": "how to make revenue in india.php?product_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
