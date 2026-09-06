@@ -1,16 +1,39 @@
 {
-  "index": 0,
+  "index": 1,
   "page": 1,
-  "status": "RUNNING",
-  "action": "STARTING",
-  "last_query": "",
-  "last_error": "",
+  "status": "COOLDOWN",
+  "action": "ENDPOINT HEALTH CHECK FAILED",
+  "last_query": "source:\"..org\" + \"how to start click through rate in india\"",
+  "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
   "urls": 0,
   "session_new_urls": 0,
   "consecutive_empty": 0,
   "runner_id": "9",
-  "logs": [],
+  "logs": [
+    {
+      "time": "23:54:13",
+      "index": 1,
+      "query": "source:\"..org\" + \"how to start click through rate in india\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:56:04",
+      "index": 1,
+      "query": "source:\"..org\" + \"how to start click through rate in india\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    }
+  ],
   "total_dorks": 26480
 }
