@@ -1,9 +1,9 @@
 {
-  "index": 87,
+  "index": 88,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "inurl:youtube shorts algorithm.php?id=",
+  "last_query": "allinanchor:youtube search new channel.php?id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "18",
   "logs": [
-    {
-      "time": "14:19:08",
-      "index": 38,
-      "query": "allinanchor:how to start channel growth on mobile.php?panel=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "14:20:59",
-      "index": 39,
-      "query": "allinurl:youtube music for beginners.php?type=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "14:23:01",
       "index": 39,
@@ -1105,6 +1083,28 @@
       "time": "17:34:35",
       "index": 88,
       "query": "inurl:youtube shorts algorithm.php?id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:36:39",
+      "index": 88,
+      "query": "inurl:youtube shorts algorithm.php?id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:38:43",
+      "index": 89,
+      "query": "allinanchor:youtube search new channel.php?id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
