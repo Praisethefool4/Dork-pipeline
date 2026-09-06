@@ -1,9 +1,9 @@
 {
-  "index": 68,
+  "index": 69,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to optimize click through rate in 2026.php?register=",
+  "last_query": "how to grow monetization step by step.php?avd=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "1",
   "logs": [
-    {
-      "time": "09:06:10",
-      "index": 19,
-      "query": "how to increase search ranking in 2026.php?include=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "09:08:20",
-      "index": 20,
-      "query": "how to start click through rate on mobile.php?id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "09:10:29",
       "index": 20,
@@ -1105,6 +1083,28 @@
       "time": "12:22:16",
       "index": 69,
       "query": "how to optimize click through rate in 2026.php?register=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "12:24:43",
+      "index": 69,
+      "query": "how to optimize click through rate in 2026.php?register=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "12:26:46",
+      "index": 70,
+      "query": "how to grow monetization step by step.php?avd=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
