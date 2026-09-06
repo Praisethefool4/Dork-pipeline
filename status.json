@@ -1,9 +1,9 @@
 {
-  "index": 79,
+  "index": 80,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube algorithm guide.php?coID=",
+  "last_query": "how to optimize search ranking in 2026.php?param=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "1",
   "logs": [
-    {
-      "time": "01:49:52",
-      "index": 30,
-      "query": "youtube live music.php?category=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "01:51:38",
-      "index": 31,
-      "query": "how to start retention step by step.php?id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "01:53:56",
       "index": 31,
@@ -1105,6 +1083,28 @@
       "time": "05:04:14",
       "index": 80,
       "query": "youtube algorithm guide.php?coID=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "05:06:28",
+      "index": 80,
+      "query": "youtube algorithm guide.php?coID=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "05:08:06",
+      "index": 81,
+      "query": "how to optimize search ranking in 2026.php?param=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
