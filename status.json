@@ -1,9 +1,9 @@
 {
-  "index": 64,
+  "index": 65,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinanchor:\"..co\" + \"how to start views on mobile\"",
+  "last_query": "intitle:\"..org\" + \"youtube watch time analytics\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "9",
   "logs": [
-    {
-      "time": "18:50:43",
-      "index": 15,
-      "query": "cache:\"..org\" + \"how to find subscribers fast\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "18:53:03",
-      "index": 15,
-      "query": "cache:\"..org\" + \"how to find subscribers fast\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "18:55:06",
       "index": 16,
@@ -1105,6 +1083,28 @@
       "time": "22:08:06",
       "index": 64,
       "query": "allinanchor:\"..co\" + \"how to start views on mobile\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "22:09:29",
+      "index": 65,
+      "query": "intitle:\"..org\" + \"youtube watch time analytics\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "22:11:16",
+      "index": 65,
+      "query": "intitle:\"..org\" + \"youtube watch time analytics\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
