@@ -1,9 +1,9 @@
 {
-  "index": 66,
+  "index": 67,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "info:\"..co\" + \"how to find engagement in india\"",
+  "last_query": "info:\"..org\" + \"how to grow retention in 2026\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "10",
   "logs": [
-    {
-      "time": "12:53:47",
-      "index": 17,
-      "query": "allintitle:\"..org\" + \"youtube premium faceless channel\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "12:56:07",
-      "index": 17,
-      "query": "allintitle:\"..org\" + \"youtube premium faceless channel\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "12:58:20",
       "index": 18,
@@ -1105,6 +1083,28 @@
       "time": "16:07:01",
       "index": 66,
       "query": "info:\"..co\" + \"how to find engagement in india\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:08:33",
+      "index": 67,
+      "query": "info:\"..org\" + \"how to grow retention in 2026\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:10:48",
+      "index": 67,
+      "query": "info:\"..org\" + \"how to grow retention in 2026\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
