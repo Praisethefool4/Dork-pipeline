@@ -1,9 +1,9 @@
 {
-  "index": 80,
+  "index": 81,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube analytics viral.php?game_id= site:.net",
+  "last_query": "how to learn click through rate fast.php?purchase_id= site:.co",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "5",
   "logs": [
-    {
-      "time": "13:52:49",
-      "index": 31,
-      "query": "youtube premium business.php?register= site:.net",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "13:55:04",
-      "index": 32,
-      "query": "how to find views step by step.php?id= site:.us",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "13:56:53",
       "index": 32,
@@ -1105,6 +1083,28 @@
       "time": "17:09:33",
       "index": 81,
       "query": "youtube analytics viral.php?game_id= site:.net",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:11:30",
+      "index": 81,
+      "query": "youtube analytics viral.php?game_id= site:.net",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:13:25",
+      "index": 82,
+      "query": "how to learn click through rate fast.php?purchase_id= site:.co",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
