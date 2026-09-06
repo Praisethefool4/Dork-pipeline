@@ -3,7 +3,7 @@
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "info:\"..co\" + \"youtube trends cost\"",
+  "last_query": "allinanchor:\"..net\" + \"how to get click through rate on mobile\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -13,7 +13,7 @@
   "runner_id": "12",
   "logs": [
     {
-      "time": "17:54:28",
+      "time": "17:53:49",
       "index": 1,
       "query": "info:\"..co\" + \"youtube trends cost\"",
       "page": 1,
@@ -24,7 +24,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "17:56:54",
+      "time": "17:55:31",
       "index": 1,
       "query": "info:\"..co\" + \"youtube trends cost\"",
       "page": 0,
@@ -33,6 +33,17 @@
       "total_urls": 0,
       "status": "TOTAL",
       "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:57:37",
+      "index": 2,
+      "query": "allinanchor:\"..net\" + \"how to get click through rate on mobile\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
     }
   ],
   "total_dorks": 26480
