@@ -3,7 +3,7 @@
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "insubject:how to optimize retention fast.php?page_id=",
+  "last_query": "intext:how to create monetization for beginners.php?username_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -539,6 +539,17 @@
       "total_urls": 0,
       "status": "TOTAL",
       "detail": "Processed pages for dork"
+    },
+    {
+      "time": "19:29:13",
+      "index": 25,
+      "query": "intext:how to create monetization for beginners.php?username_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
     }
   ],
   "total_dorks": 26480
