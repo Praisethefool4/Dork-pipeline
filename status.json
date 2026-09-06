@@ -1,9 +1,9 @@
 {
-  "index": 69,
+  "index": 70,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to get search ranking fast.php?param=",
+  "last_query": "how to improve retention in 2026.php?login_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "2",
   "logs": [
-    {
-      "time": "13:12:05",
-      "index": 20,
-      "query": "youtube videos tips.php?sec=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "13:14:18",
-      "index": 21,
-      "query": "youtube search tutorial.php?item_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "13:16:12",
       "index": 21,
@@ -1105,6 +1083,28 @@
       "time": "16:25:43",
       "index": 70,
       "query": "how to get search ranking fast.php?param=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:27:59",
+      "index": 70,
+      "query": "how to get search ranking fast.php?param=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:29:42",
+      "index": 71,
+      "query": "how to improve retention in 2026.php?login_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
