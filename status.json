@@ -1,9 +1,9 @@
 {
-  "index": 67,
+  "index": 68,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "inurl:\"..co\" + \"youtube algorithm title\"",
+  "last_query": "cache:\"..net\" + \"how to improve engagement without ads\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "13",
   "logs": [
-    {
-      "time": "19:00:07",
-      "index": 18,
-      "query": "inurl:\"..co\" + \"youtube views download\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "19:02:16",
-      "index": 19,
-      "query": "insubject:\"..us\" + \"youtube trends settings\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "19:04:00",
       "index": 19,
@@ -1105,6 +1083,28 @@
       "time": "22:13:26",
       "index": 68,
       "query": "inurl:\"..co\" + \"youtube algorithm title\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "22:15:17",
+      "index": 68,
+      "query": "inurl:\"..co\" + \"youtube algorithm title\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "22:16:39",
+      "index": 69,
+      "query": "cache:\"..net\" + \"how to improve engagement without ads\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
