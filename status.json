@@ -1,9 +1,9 @@
 {
-  "index": 78,
+  "index": 79,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to get search ranking in 2026.php?category=",
+  "last_query": "how to learn subscribers for beginners.php?id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "2",
   "logs": [
-    {
-      "time": "13:47:03",
-      "index": 29,
-      "query": "how to start subscribers organically.php?page_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "13:48:59",
-      "index": 29,
-      "query": "how to start subscribers organically.php?page_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "13:51:02",
       "index": 30,
@@ -1105,6 +1083,28 @@
       "time": "17:02:02",
       "index": 78,
       "query": "how to get search ranking in 2026.php?category=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:03:32",
+      "index": 79,
+      "query": "how to learn subscribers for beginners.php?id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:05:23",
+      "index": 79,
+      "query": "how to learn subscribers for beginners.php?id=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
