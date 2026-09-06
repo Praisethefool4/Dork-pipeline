@@ -1,9 +1,9 @@
 {
-  "index": 50,
+  "index": 51,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "filetype:\"..com\" + \"youtube seo ranking\"",
+  "last_query": "source:\"..org\" + \"how to optimize subscribers without ads\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "10",
   "logs": [
-    {
-      "time": "23:55:31",
-      "index": 1,
-      "query": "inurl:\"..org\" + \"youtube channel new channel\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "23:57:21",
-      "index": 2,
-      "query": "allintitle:\"..us\" + \"youtube studio marketing\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "23:59:49",
       "index": 2,
@@ -1105,6 +1083,28 @@
       "time": "03:10:46",
       "index": 51,
       "query": "filetype:\"..com\" + \"youtube seo ranking\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "03:12:44",
+      "index": 51,
+      "query": "filetype:\"..com\" + \"youtube seo ranking\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "03:14:32",
+      "index": 52,
+      "query": "source:\"..org\" + \"how to optimize subscribers without ads\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
