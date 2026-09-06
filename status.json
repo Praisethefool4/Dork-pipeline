@@ -1,9 +1,9 @@
 {
-  "index": 76,
+  "index": 77,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinanchor:\"..org\" + \"youtube creator channel\"",
+  "last_query": "insubject:\"..us\" + \"how to get views fast\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "9",
   "logs": [
-    {
-      "time": "19:37:21",
-      "index": 27,
-      "query": "link:\"..co\" + \"youtube seo revenue\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "19:39:25",
-      "index": 27,
-      "query": "link:\"..co\" + \"youtube seo revenue\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "19:40:41",
       "index": 28,
@@ -1105,6 +1083,28 @@
       "time": "22:56:11",
       "index": 76,
       "query": "allinanchor:\"..org\" + \"youtube creator channel\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "22:57:59",
+      "index": 77,
+      "query": "insubject:\"..us\" + \"how to get views fast\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:00:27",
+      "index": 77,
+      "query": "insubject:\"..us\" + \"how to get views fast\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
