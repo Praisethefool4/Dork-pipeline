@@ -1,9 +1,9 @@
 {
-  "index": 66,
+  "index": 67,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube editing for beginners.php?type_id= site:.com",
+  "last_query": "youtube subscribers settings.php?id= site:.org",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "6",
   "logs": [
-    {
-      "time": "12:56:05",
-      "index": 17,
-      "query": "how to find views for free.php?register= site:.org",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "12:57:39",
-      "index": 18,
-      "query": "how to find engagement in 2026.php?user_id= site:.org",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "12:59:53",
       "index": 18,
@@ -1105,6 +1083,28 @@
       "time": "16:09:58",
       "index": 67,
       "query": "youtube editing for beginners.php?type_id= site:.com",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:11:51",
+      "index": 67,
+      "query": "youtube editing for beginners.php?type_id= site:.com",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:13:51",
+      "index": 68,
+      "query": "youtube subscribers settings.php?id= site:.org",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
