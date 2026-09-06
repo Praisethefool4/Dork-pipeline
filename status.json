@@ -1,9 +1,9 @@
 {
-  "index": 72,
+  "index": 73,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to grow watch time step by step.php?type_id= site:.us",
+  "last_query": "youtube thumbnails music.php?avd= site:.co",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "6",
   "logs": [
-    {
-      "time": "19:19:45",
-      "index": 23,
-      "query": "youtube analytics best.php?page_id= site:.co",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "19:21:50",
-      "index": 23,
-      "query": "youtube analytics best.php?page_id= site:.co",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "19:23:21",
       "index": 24,
@@ -1105,6 +1083,28 @@
       "time": "22:35:00",
       "index": 72,
       "query": "how to grow watch time step by step.php?type_id= site:.us",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "22:37:05",
+      "index": 73,
+      "query": "youtube thumbnails music.php?avd= site:.co",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "22:39:08",
+      "index": 73,
+      "query": "youtube thumbnails music.php?avd= site:.co",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
