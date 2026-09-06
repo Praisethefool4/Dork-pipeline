@@ -1,9 +1,9 @@
 {
-  "index": 63,
+  "index": 64,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "insubject:how to optimize views organically.php?param=",
+  "last_query": "allintitle:youtube channel india.php?include=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "17",
   "logs": [
-    {
-      "time": "12:46:33",
-      "index": 14,
-      "query": "allinanchor:how to use search ranking in india.php?sec=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "12:49:02",
-      "index": 14,
-      "query": "allinanchor:how to use search ranking in india.php?sec=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "12:50:35",
       "index": 15,
@@ -1105,6 +1083,28 @@
       "time": "16:00:17",
       "index": 63,
       "query": "insubject:how to optimize views organically.php?param=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:02:18",
+      "index": 64,
+      "query": "allintitle:youtube channel india.php?include=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:04:30",
+      "index": 64,
+      "query": "allintitle:youtube channel india.php?include=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
