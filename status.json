@@ -1,9 +1,9 @@
 {
-  "index": 85,
+  "index": 86,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "info:youtube music thumbnail.php?user_id=",
+  "last_query": "filetype:how to track channel growth on pc.php?game_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "15",
   "logs": [
-    {
-      "time": "20:12:44",
-      "index": 36,
-      "query": "cache:how to start revenue on pc.php?param=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "20:14:45",
-      "index": 37,
-      "query": "inurl:how to improve views without ads.php?register=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "20:16:54",
       "index": 37,
@@ -1105,6 +1083,28 @@
       "time": "23:23:18",
       "index": 86,
       "query": "info:youtube music thumbnail.php?user_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:25:01",
+      "index": 86,
+      "query": "info:youtube music thumbnail.php?user_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "23:27:02",
+      "index": 87,
+      "query": "filetype:how to track channel growth on pc.php?game_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
