@@ -1,9 +1,9 @@
 {
-  "index": 70,
+  "index": 71,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube studio faceless channel.php?user_id= site:.net",
+  "last_query": "how to start channel growth fast.php?page_id= site:.com",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "5",
   "logs": [
-    {
-      "time": "13:12:07",
-      "index": 21,
-      "query": "how to make subscribers on pc.php?item_id= site:.net",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "13:13:39",
-      "index": 22,
-      "query": "youtube editing revenue.php?register= site:.co",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "13:15:26",
       "index": 22,
@@ -1105,6 +1083,28 @@
       "time": "16:30:05",
       "index": 71,
       "query": "youtube studio faceless channel.php?user_id= site:.net",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:32:20",
+      "index": 71,
+      "query": "youtube studio faceless channel.php?user_id= site:.net",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:34:32",
+      "index": 72,
+      "query": "how to start channel growth fast.php?page_id= site:.com",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
