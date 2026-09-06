@@ -1,9 +1,9 @@
 {
-  "index": 74,
+  "index": 75,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube algorithm creator.php?type_id= site:.org",
+  "last_query": "how to optimize monetization on mobile.php?include= site:.com",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "3",
   "logs": [
-    {
-      "time": "01:30:02",
-      "index": 25,
-      "query": "youtube streaming tags.php?product_id= site:.org",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "01:32:17",
-      "index": 26,
-      "query": "how to make views for beginners.php?item_id= site:.com",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "01:34:12",
       "index": 26,
@@ -1105,6 +1083,28 @@
       "time": "04:45:46",
       "index": 75,
       "query": "youtube algorithm creator.php?type_id= site:.org",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "04:48:12",
+      "index": 75,
+      "query": "youtube algorithm creator.php?type_id= site:.org",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "04:49:40",
+      "index": 76,
+      "query": "how to optimize monetization on mobile.php?include= site:.com",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
