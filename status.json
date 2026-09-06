@@ -1,9 +1,9 @@
 {
-  "index": 51,
+  "index": 52,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinurl:how to optimize monetization on pc.php?panel=",
+  "last_query": "info:youtube premium price.php?id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "15",
   "logs": [
-    {
-      "time": "11:59:10",
-      "index": 2,
-      "query": "allinanchor:how to start click through rate in 2026.php?login_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "12:00:35",
-      "index": 3,
-      "query": "insubject:how to track views fast.php?param=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "12:02:31",
       "index": 3,
@@ -1105,6 +1083,28 @@
       "time": "15:09:10",
       "index": 52,
       "query": "allinurl:how to optimize monetization on pc.php?panel=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:11:03",
+      "index": 52,
+      "query": "allinurl:how to optimize monetization on pc.php?panel=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:12:58",
+      "index": 53,
+      "query": "info:youtube premium price.php?id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
