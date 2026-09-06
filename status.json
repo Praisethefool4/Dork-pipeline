@@ -1,9 +1,9 @@
 {
-  "index": 82,
+  "index": 83,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "source:how to get retention step by step.php?username_id=",
+  "last_query": "filetype:how to find retention for free.php?category=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "18",
   "logs": [
-    {
-      "time": "20:01:01",
-      "index": 33,
-      "query": "allinurl:youtube premium free.php?id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "20:02:46",
-      "index": 34,
-      "query": "info:how to make engagement without ads.php?game_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "20:04:33",
       "index": 34,
@@ -1105,6 +1083,28 @@
       "time": "23:16:21",
       "index": 83,
       "query": "source:how to get retention step by step.php?username_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:18:32",
+      "index": 83,
+      "query": "source:how to get retention step by step.php?username_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "23:20:08",
+      "index": 84,
+      "query": "filetype:how to find retention for free.php?category=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
