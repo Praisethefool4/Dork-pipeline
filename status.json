@@ -1,9 +1,9 @@
 {
-  "index": 71,
+  "index": 72,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "inurl:\"..net\" + \"how to use subscribers fast\"",
+  "last_query": "allinanchor:\"..co\" + \"how to improve monetization in india\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "10",
   "logs": [
-    {
-      "time": "13:15:39",
-      "index": 22,
-      "query": "allinurl:\"..net\" + \"youtube subscribers tools\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "13:17:41",
-      "index": 23,
-      "query": "allinanchor:\"..org\" + \"youtube premium tools\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "13:20:01",
       "index": 23,
@@ -1105,6 +1083,28 @@
       "time": "16:27:36",
       "index": 72,
       "query": "inurl:\"..net\" + \"how to use subscribers fast\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:29:55",
+      "index": 72,
+      "query": "inurl:\"..net\" + \"how to use subscribers fast\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:31:40",
+      "index": 73,
+      "query": "allinanchor:\"..co\" + \"how to improve monetization in india\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
