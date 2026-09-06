@@ -1,9 +1,9 @@
 {
-  "index": 49,
+  "index": 50,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to make click through rate on pc.php?panel=",
+  "last_query": "youtube gaming description.php?game_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,17 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "1",
   "logs": [
-    {
-      "time": "23:53:02",
-      "index": 1,
-      "query": "youtube seo tutorial.php?id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "23:55:14",
       "index": 1,
@@ -1094,6 +1083,28 @@
       "time": "03:02:14",
       "index": 50,
       "query": "how to make click through rate on pc.php?panel=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "03:04:33",
+      "index": 50,
+      "query": "how to make click through rate on pc.php?panel=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "03:06:08",
+      "index": 51,
+      "query": "youtube gaming description.php?game_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
