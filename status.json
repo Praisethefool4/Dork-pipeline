@@ -3,7 +3,7 @@
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "info:youtube views app.php?gamer_id=",
+  "last_query": "insubject:how to start views for free.php?include=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -803,6 +803,17 @@
       "total_urls": 0,
       "status": "TOTAL",
       "detail": "Processed pages for dork"
+    },
+    {
+      "time": "20:17:56",
+      "index": 37,
+      "query": "insubject:how to start views for free.php?include=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
     }
   ],
   "total_dorks": 26480
