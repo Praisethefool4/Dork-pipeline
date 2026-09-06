@@ -1,9 +1,9 @@
 {
-  "index": 87,
+  "index": 88,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "inanchor:\"..net\" + \"how to make watch time on mobile\"",
+  "last_query": "intext:\"..us\" + \"how to check channel growth for free\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "9",
   "logs": [
-    {
-      "time": "14:21:17",
-      "index": 38,
-      "query": "filetype:\"..us\" + \"youtube gaming iphone\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "14:23:31",
-      "index": 39,
-      "query": "insubject:\"..org\" + \"how to improve subscribers in india\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "14:25:26",
       "index": 39,
@@ -1105,6 +1083,28 @@
       "time": "17:34:04",
       "index": 88,
       "query": "inanchor:\"..net\" + \"how to make watch time on mobile\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:35:49",
+      "index": 88,
+      "query": "inanchor:\"..net\" + \"how to make watch time on mobile\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:37:22",
+      "index": 89,
+      "query": "intext:\"..us\" + \"how to check channel growth for free\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
