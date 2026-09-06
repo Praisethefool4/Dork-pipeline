@@ -1,9 +1,9 @@
 {
-  "index": 63,
+  "index": 64,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allintitle:\"..us\" + \"youtube streaming settings\"",
+  "last_query": "allinanchor:\"..co\" + \"how to start views on mobile\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "9",
   "logs": [
-    {
-      "time": "12:42:14",
-      "index": 14,
-      "query": "insubject:\"..co\" + \"how to optimize retention in 2026\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "12:44:33",
-      "index": 14,
-      "query": "insubject:\"..co\" + \"how to optimize retention in 2026\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "12:46:44",
       "index": 15,
@@ -1105,6 +1083,28 @@
       "time": "16:00:41",
       "index": 63,
       "query": "allintitle:\"..us\" + \"youtube streaming settings\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:02:12",
+      "index": 64,
+      "query": "allinanchor:\"..co\" + \"how to start views on mobile\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:04:03",
+      "index": 64,
+      "query": "allinanchor:\"..co\" + \"how to start views on mobile\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
