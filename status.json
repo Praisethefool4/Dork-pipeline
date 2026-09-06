@@ -1,9 +1,9 @@
 {
-  "index": 89,
+  "index": 90,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "source:\"..org\" + \"youtube analytics settings\"",
+  "last_query": "intext:\"..com\" + \"youtube subscribers latest\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "11",
   "logs": [
-    {
-      "time": "20:28:11",
-      "index": 40,
-      "query": "cache:\"..us\" + \"youtube search online\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "20:30:24",
-      "index": 40,
-      "query": "cache:\"..us\" + \"youtube search online\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "20:31:38",
       "index": 41,
@@ -1105,6 +1083,28 @@
       "time": "23:40:36",
       "index": 89,
       "query": "source:\"..org\" + \"youtube analytics settings\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "23:42:58",
+      "index": 90,
+      "query": "intext:\"..com\" + \"youtube subscribers latest\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:44:56",
+      "index": 90,
+      "query": "intext:\"..com\" + \"youtube subscribers latest\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
