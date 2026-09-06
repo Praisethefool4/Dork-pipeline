@@ -1,9 +1,9 @@
 {
-  "index": 69,
+  "index": 70,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allintitle:how to create click through rate without ads.php?register=",
+  "last_query": "intext:how to create views on pc.php?username_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "14",
   "logs": [
-    {
-      "time": "13:09:02",
-      "index": 20,
-      "query": "allinanchor:how to grow subscribers on pc.php?type_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "13:11:22",
-      "index": 21,
-      "query": "insubject:how to learn search ranking step by step.php?param=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "13:13:32",
       "index": 21,
@@ -1105,6 +1083,28 @@
       "time": "16:26:57",
       "index": 70,
       "query": "allintitle:how to create click through rate without ads.php?register=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:29:10",
+      "index": 70,
+      "query": "allintitle:how to create click through rate without ads.php?register=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:30:58",
+      "index": 71,
+      "query": "intext:how to create views on pc.php?username_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
