@@ -1,9 +1,9 @@
 {
-  "index": 88,
+  "index": 89,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "inanchor:\"..net\" + \"how to make watch time on mobile\"",
+  "last_query": "intext:\"..us\" + \"how to check channel growth for free\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "9",
   "logs": [
-    {
-      "time": "20:24:05",
-      "index": 39,
-      "query": "insubject:\"..org\" + \"how to improve subscribers in india\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "20:26:18",
-      "index": 39,
-      "query": "insubject:\"..org\" + \"how to improve subscribers in india\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "20:28:21",
       "index": 40,
@@ -1105,6 +1083,28 @@
       "time": "23:43:59",
       "index": 88,
       "query": "inanchor:\"..net\" + \"how to make watch time on mobile\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "23:46:11",
+      "index": 89,
+      "query": "intext:\"..us\" + \"how to check channel growth for free\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:48:36",
+      "index": 89,
+      "query": "intext:\"..us\" + \"how to check channel growth for free\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
