@@ -1,9 +1,9 @@
 {
-  "index": 74,
+  "index": 75,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "intext:youtube shorts features.php?coID=",
+  "last_query": "inanchor:youtube videos popular.php?id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "16",
   "logs": [
-    {
-      "time": "13:28:36",
-      "index": 25,
-      "query": "intext:how to increase revenue in 2026.php?include=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "13:30:57",
-      "index": 25,
-      "query": "intext:how to increase revenue in 2026.php?include=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "13:32:10",
       "index": 26,
@@ -1105,6 +1083,28 @@
       "time": "16:42:29",
       "index": 74,
       "query": "intext:youtube shorts features.php?coID=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:44:46",
+      "index": 75,
+      "query": "inanchor:youtube videos popular.php?id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:46:44",
+      "index": 75,
+      "query": "inanchor:youtube videos popular.php?id=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
