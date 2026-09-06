@@ -1,9 +1,9 @@
 {
-  "index": 87,
+  "index": 88,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "insubject:youtube shorts requirements.php?coID=",
+  "last_query": "cache:how to optimize retention on pc.php?sec=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "16",
   "logs": [
-    {
-      "time": "14:18:51",
-      "index": 38,
-      "query": "source:youtube thumbnails online.php?page_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "14:20:31",
-      "index": 38,
-      "query": "source:youtube thumbnails online.php?page_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "14:22:24",
       "index": 39,
@@ -1105,6 +1083,28 @@
       "time": "17:36:59",
       "index": 87,
       "query": "insubject:youtube shorts requirements.php?coID=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:39:01",
+      "index": 88,
+      "query": "cache:how to optimize retention on pc.php?sec=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:40:43",
+      "index": 88,
+      "query": "cache:how to optimize retention on pc.php?sec=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
