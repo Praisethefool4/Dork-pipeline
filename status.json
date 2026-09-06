@@ -1,9 +1,9 @@
 {
-  "index": 49,
+  "index": 50,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "info:how to find views fast.php?game_id=",
+  "last_query": "filetype:how to optimize watch time on pc.php?purchase_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,17 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "19",
   "logs": [
-    {
-      "time": "11:53:40",
-      "index": 1,
-      "query": "cache:how to start retention for beginners.php?id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "11:56:00",
       "index": 1,
@@ -1094,6 +1083,28 @@
       "time": "15:09:29",
       "index": 50,
       "query": "info:how to find views fast.php?game_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:11:18",
+      "index": 50,
+      "query": "info:how to find views fast.php?game_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:13:04",
+      "index": 51,
+      "query": "filetype:how to optimize watch time on pc.php?purchase_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
