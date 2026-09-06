@@ -3,7 +3,7 @@
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "inurl:\"..co\" + \"how to start click through rate without ads\"",
+  "last_query": "inurl:\"..co\" + \"how to optimize revenue organically\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,17 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "13",
   "logs": [
-    {
-      "time": "18:19:32",
-      "index": 8,
-      "query": "inurl:\"..org\" + \"how to grow click through rate on mobile\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "18:21:26",
       "index": 8,
@@ -1111,6 +1100,17 @@
       "total_urls": 0,
       "status": "TOTAL",
       "detail": "Processed pages for dork"
+    },
+    {
+      "time": "21:34:40",
+      "index": 58,
+      "query": "inurl:\"..co\" + \"how to optimize revenue organically\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
     }
   ],
   "total_dorks": 26480
