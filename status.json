@@ -1,9 +1,9 @@
 {
-  "index": 51,
+  "index": 52,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to make watch time organically.php?user_id= site:.org",
+  "last_query": "how to get search ranking in 2026.php?panel= site:.com",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "4",
   "logs": [
-    {
-      "time": "23:57:49",
-      "index": 2,
-      "query": "how to optimize retention in india.php?register= site:.net",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "23:59:30",
-      "index": 2,
-      "query": "how to optimize retention in india.php?register= site:.net",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "00:01:18",
       "index": 3,
@@ -1105,6 +1083,28 @@
       "time": "03:08:37",
       "index": 51,
       "query": "how to make watch time organically.php?user_id= site:.org",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "03:10:16",
+      "index": 52,
+      "query": "how to get search ranking in 2026.php?panel= site:.com",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "03:12:29",
+      "index": 52,
+      "query": "how to get search ranking in 2026.php?panel= site:.com",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
