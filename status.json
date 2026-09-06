@@ -1,9 +1,9 @@
 {
-  "index": 73,
+  "index": 74,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "inurl:how to get watch time organically.php?coID=",
+  "last_query": "source:how to start watch time in india.php?user_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "19",
   "logs": [
-    {
-      "time": "01:25:03",
-      "index": 24,
-      "query": "inurl:how to grow click through rate in 2026.php?product_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "01:26:57",
-      "index": 24,
-      "query": "inurl:how to grow click through rate in 2026.php?product_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "01:29:04",
       "index": 25,
@@ -1105,6 +1083,28 @@
       "time": "04:40:13",
       "index": 73,
       "query": "inurl:how to get watch time organically.php?coID=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "04:41:50",
+      "index": 74,
+      "query": "source:how to start watch time in india.php?user_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "04:43:46",
+      "index": 74,
+      "query": "source:how to start watch time in india.php?user_id=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
