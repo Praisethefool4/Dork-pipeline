@@ -1,9 +1,9 @@
 {
-  "index": 71,
+  "index": 72,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinurl:\"..net\" + \"how to increase views without ads\"",
+  "last_query": "allinanchor:\"..com\" + \"youtube thumbnails trending\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "13",
   "logs": [
-    {
-      "time": "19:15:25",
-      "index": 22,
-      "query": "link:\"..us\" + \"how to find watch time for beginners\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "19:17:36",
-      "index": 23,
-      "query": "filetype:\"..co\" + \"how to learn views step by step\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "19:20:00",
       "index": 23,
@@ -1105,6 +1083,28 @@
       "time": "22:28:46",
       "index": 72,
       "query": "allinurl:\"..net\" + \"how to increase views without ads\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "22:30:43",
+      "index": 72,
+      "query": "allinurl:\"..net\" + \"how to increase views without ads\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "22:32:18",
+      "index": 73,
+      "query": "allinanchor:\"..com\" + \"youtube thumbnails trending\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
