@@ -1,9 +1,9 @@
 {
-  "index": 91,
+  "index": 92,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube analytics title.php?cat= site:.net",
+  "last_query": "how to get revenue in india.php?gamer_id= site:.org",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "6",
   "logs": [
-    {
-      "time": "14:33:06",
-      "index": 42,
-      "query": "how to create views step by step.php?username_id= site:.us",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "14:35:31",
-      "index": 42,
-      "query": "how to create views step by step.php?username_id= site:.us",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "14:37:46",
       "index": 43,
@@ -1105,6 +1083,28 @@
       "time": "17:43:06",
       "index": 91,
       "query": "youtube analytics title.php?cat= site:.net",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:45:17",
+      "index": 92,
+      "query": "how to get revenue in india.php?gamer_id= site:.org",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:47:16",
+      "index": 92,
+      "query": "how to get revenue in india.php?gamer_id= site:.org",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
