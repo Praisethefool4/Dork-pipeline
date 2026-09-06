@@ -1,9 +1,9 @@
 {
-  "index": 59,
+  "index": 60,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "insubject:\"..us\" + \"how to start subscribers on pc\"",
+  "last_query": "inurl:\"..co\" + \"how to increase watch time in india\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "13",
   "logs": [
-    {
-      "time": "18:28:54",
-      "index": 10,
-      "query": "intitle:\"..us\" + \"how to find channel growth organically\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "18:30:12",
-      "index": 11,
-      "query": "allintitle:\"..com\" + \"how to improve channel growth step by step\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "18:32:17",
       "index": 11,
@@ -1105,6 +1083,28 @@
       "time": "21:42:48",
       "index": 60,
       "query": "insubject:\"..us\" + \"how to start subscribers on pc\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "21:45:06",
+      "index": 60,
+      "query": "insubject:\"..us\" + \"how to start subscribers on pc\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "21:46:33",
+      "index": 61,
+      "query": "inurl:\"..co\" + \"how to increase watch time in india\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
