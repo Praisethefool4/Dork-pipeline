@@ -1,9 +1,9 @@
 {
-  "index": 64,
+  "index": 65,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allintitle:\"..us\" + \"youtube watch time revenue\"",
+  "last_query": "inanchor:\"..co\" + \"how to check views step by step\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -13,40 +13,7 @@
   "runner_id": "11",
   "logs": [
     {
-      "time": "00:46:33",
-      "index": 15,
-      "query": "allintitle:\"..com\" + \"how to learn search ranking organically\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "00:48:55",
-      "index": 15,
-      "query": "allintitle:\"..com\" + \"how to learn search ranking organically\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "00:50:54",
-      "index": 16,
-      "query": "allintext:\"..net\" + \"youtube analytics viral\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "00:53:20",
+      "time": "00:52:40",
       "index": 16,
       "query": "allintext:\"..net\" + \"youtube analytics viral\"",
       "page": 0,
@@ -57,7 +24,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "00:55:24",
+      "time": "00:54:38",
       "index": 17,
       "query": "cache:\"..org\" + \"youtube search online\"",
       "page": 1,
@@ -68,7 +35,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "00:57:23",
+      "time": "00:56:38",
       "index": 17,
       "query": "cache:\"..org\" + \"youtube search online\"",
       "page": 0,
@@ -79,7 +46,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "00:59:11",
+      "time": "00:58:42",
       "index": 18,
       "query": "link:\"..net\" + \"youtube algorithm cost\"",
       "page": 1,
@@ -90,7 +57,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "01:01:32",
+      "time": "01:01:02",
       "index": 18,
       "query": "link:\"..net\" + \"youtube algorithm cost\"",
       "page": 0,
@@ -101,7 +68,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "01:02:58",
+      "time": "01:02:22",
       "index": 19,
       "query": "allintitle:\"..org\" + \"how to create channel growth for beginners\"",
       "page": 1,
@@ -112,7 +79,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "01:04:46",
+      "time": "01:04:18",
       "index": 19,
       "query": "allintitle:\"..org\" + \"how to create channel growth for beginners\"",
       "page": 0,
@@ -123,7 +90,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "01:06:57",
+      "time": "01:05:59",
       "index": 20,
       "query": "allintitle:\"..co\" + \"youtube streaming website\"",
       "page": 1,
@@ -134,7 +101,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "01:08:41",
+      "time": "01:07:52",
       "index": 20,
       "query": "allintitle:\"..co\" + \"youtube streaming website\"",
       "page": 0,
@@ -145,7 +112,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "01:10:29",
+      "time": "01:09:50",
       "index": 21,
       "query": "inurl:\"..net\" + \"how to track views in india\"",
       "page": 1,
@@ -156,7 +123,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "01:12:26",
+      "time": "01:12:20",
       "index": 21,
       "query": "inurl:\"..net\" + \"how to track views in india\"",
       "page": 0,
@@ -167,7 +134,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "01:14:06",
+      "time": "01:13:37",
       "index": 22,
       "query": "link:\"..net\" + \"youtube search free\"",
       "page": 1,
@@ -178,7 +145,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "01:16:07",
+      "time": "01:15:27",
       "index": 22,
       "query": "link:\"..net\" + \"youtube search free\"",
       "page": 0,
@@ -189,7 +156,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "01:17:37",
+      "time": "01:17:15",
       "index": 23,
       "query": "allinanchor:\"..org\" + \"youtube views guide\"",
       "page": 1,
@@ -200,7 +167,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "01:19:57",
+      "time": "01:19:40",
       "index": 23,
       "query": "allinanchor:\"..org\" + \"youtube views guide\"",
       "page": 0,
@@ -211,7 +178,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "01:21:46",
+      "time": "01:21:18",
       "index": 24,
       "query": "allinanchor:\"..net\" + \"how to check engagement without ads\"",
       "page": 1,
@@ -222,7 +189,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "01:23:31",
+      "time": "01:23:36",
       "index": 24,
       "query": "allinanchor:\"..net\" + \"how to check engagement without ads\"",
       "page": 0,
@@ -233,7 +200,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "01:25:32",
+      "time": "01:25:40",
       "index": 25,
       "query": "inanchor:\"..net\" + \"youtube shorts strategy\"",
       "page": 1,
@@ -244,7 +211,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "01:27:18",
+      "time": "01:27:41",
       "index": 25,
       "query": "inanchor:\"..net\" + \"youtube shorts strategy\"",
       "page": 0,
@@ -255,7 +222,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "01:29:28",
+      "time": "01:29:16",
       "index": 26,
       "query": "link:\"..us\" + \"youtube channel viral\"",
       "page": 1,
@@ -266,7 +233,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "01:31:24",
+      "time": "01:31:11",
       "index": 26,
       "query": "link:\"..us\" + \"youtube channel viral\"",
       "page": 0,
@@ -277,7 +244,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "01:33:06",
+      "time": "01:33:00",
       "index": 27,
       "query": "cache:\"..co\" + \"how to get click through rate in 2026\"",
       "page": 1,
@@ -288,7 +255,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "01:34:58",
+      "time": "01:34:40",
       "index": 27,
       "query": "cache:\"..co\" + \"how to get click through rate in 2026\"",
       "page": 0,
@@ -299,7 +266,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "01:36:28",
+      "time": "01:36:01",
       "index": 28,
       "query": "info:\"..net\" + \"how to improve subscribers without ads\"",
       "page": 1,
@@ -310,7 +277,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "01:38:36",
+      "time": "01:37:58",
       "index": 28,
       "query": "info:\"..net\" + \"how to improve subscribers without ads\"",
       "page": 0,
@@ -321,7 +288,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "01:40:35",
+      "time": "01:39:21",
       "index": 29,
       "query": "inurl:\"..com\" + \"how to learn watch time without ads\"",
       "page": 1,
@@ -332,7 +299,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "01:42:39",
+      "time": "01:41:26",
       "index": 29,
       "query": "inurl:\"..com\" + \"how to learn watch time without ads\"",
       "page": 0,
@@ -343,7 +310,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "01:44:48",
+      "time": "01:43:37",
       "index": 30,
       "query": "intitle:\"..org\" + \"how to increase revenue fast\"",
       "page": 1,
@@ -354,7 +321,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "01:47:10",
+      "time": "01:45:41",
       "index": 30,
       "query": "intitle:\"..org\" + \"how to increase revenue fast\"",
       "page": 0,
@@ -365,7 +332,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "01:49:03",
+      "time": "01:47:46",
       "index": 31,
       "query": "allinanchor:\"..com\" + \"how to use click through rate on pc\"",
       "page": 1,
@@ -376,7 +343,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "01:51:08",
+      "time": "01:49:51",
       "index": 31,
       "query": "allinanchor:\"..com\" + \"how to use click through rate on pc\"",
       "page": 0,
@@ -387,7 +354,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "01:53:05",
+      "time": "01:51:37",
       "index": 32,
       "query": "allintitle:\"..co\" + \"youtube monetization latest\"",
       "page": 1,
@@ -398,7 +365,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "01:55:34",
+      "time": "01:53:40",
       "index": 32,
       "query": "allintitle:\"..co\" + \"youtube monetization latest\"",
       "page": 0,
@@ -409,7 +376,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "01:57:39",
+      "time": "01:55:07",
       "index": 33,
       "query": "allinurl:\"..net\" + \"youtube shorts earnings\"",
       "page": 1,
@@ -420,7 +387,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "01:59:37",
+      "time": "01:57:11",
       "index": 33,
       "query": "allinurl:\"..net\" + \"youtube shorts earnings\"",
       "page": 0,
@@ -431,7 +398,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "02:01:16",
+      "time": "01:58:44",
       "index": 34,
       "query": "inanchor:\"..co\" + \"youtube videos popular\"",
       "page": 1,
@@ -442,7 +409,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "02:03:26",
+      "time": "02:00:46",
       "index": 34,
       "query": "inanchor:\"..co\" + \"youtube videos popular\"",
       "page": 0,
@@ -453,7 +420,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "02:05:25",
+      "time": "02:02:01",
       "index": 35,
       "query": "link:\"..us\" + \"youtube editing iphone\"",
       "page": 1,
@@ -464,7 +431,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "02:07:32",
+      "time": "02:04:16",
       "index": 35,
       "query": "link:\"..us\" + \"youtube editing iphone\"",
       "page": 0,
@@ -475,7 +442,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "02:09:21",
+      "time": "02:06:05",
       "index": 36,
       "query": "info:\"..co\" + \"how to increase monetization on mobile\"",
       "page": 1,
@@ -486,7 +453,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "02:11:15",
+      "time": "02:08:11",
       "index": 36,
       "query": "info:\"..co\" + \"how to increase monetization on mobile\"",
       "page": 0,
@@ -497,7 +464,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "02:12:27",
+      "time": "02:09:24",
       "index": 37,
       "query": "link:\"..us\" + \"how to improve revenue in 2026\"",
       "page": 1,
@@ -508,7 +475,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "02:14:18",
+      "time": "02:11:37",
       "index": 37,
       "query": "link:\"..us\" + \"how to improve revenue in 2026\"",
       "page": 0,
@@ -519,7 +486,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "02:16:01",
+      "time": "02:13:41",
       "index": 38,
       "query": "inanchor:\"..co\" + \"youtube music small channel\"",
       "page": 1,
@@ -530,7 +497,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "02:17:54",
+      "time": "02:15:27",
       "index": 38,
       "query": "inanchor:\"..co\" + \"youtube music small channel\"",
       "page": 0,
@@ -541,7 +508,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "02:19:34",
+      "time": "02:17:17",
       "index": 39,
       "query": "inurl:\"..us\" + \"youtube studio pc\"",
       "page": 1,
@@ -552,7 +519,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "02:21:39",
+      "time": "02:19:33",
       "index": 39,
       "query": "inurl:\"..us\" + \"youtube studio pc\"",
       "page": 0,
@@ -563,7 +530,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "02:23:41",
+      "time": "02:21:24",
       "index": 40,
       "query": "cache:\"..us\" + \"youtube search online\"",
       "page": 1,
@@ -574,7 +541,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "02:25:51",
+      "time": "02:23:49",
       "index": 40,
       "query": "cache:\"..us\" + \"youtube search online\"",
       "page": 0,
@@ -585,7 +552,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "02:27:23",
+      "time": "02:25:19",
       "index": 41,
       "query": "link:\"..org\" + \"youtube creator requirements\"",
       "page": 1,
@@ -596,7 +563,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "02:29:17",
+      "time": "02:27:47",
       "index": 41,
       "query": "link:\"..org\" + \"youtube creator requirements\"",
       "page": 0,
@@ -607,7 +574,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "02:31:15",
+      "time": "02:29:44",
       "index": 42,
       "query": "intitle:\"..co\" + \"how to check monetization in 2026\"",
       "page": 1,
@@ -618,7 +585,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "02:33:40",
+      "time": "02:31:40",
       "index": 42,
       "query": "intitle:\"..co\" + \"how to check monetization in 2026\"",
       "page": 0,
@@ -629,7 +596,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "02:35:19",
+      "time": "02:33:23",
       "index": 43,
       "query": "link:\"..com\" + \"how to increase monetization in 2026\"",
       "page": 1,
@@ -640,7 +607,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "02:37:21",
+      "time": "02:35:29",
       "index": 43,
       "query": "link:\"..com\" + \"how to increase monetization in 2026\"",
       "page": 0,
@@ -651,7 +618,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "02:38:44",
+      "time": "02:37:23",
       "index": 44,
       "query": "cache:\"..us\" + \"youtube streaming creator\"",
       "page": 1,
@@ -662,7 +629,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "02:41:13",
+      "time": "02:39:29",
       "index": 44,
       "query": "cache:\"..us\" + \"youtube streaming creator\"",
       "page": 0,
@@ -673,7 +640,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "02:43:24",
+      "time": "02:41:31",
       "index": 45,
       "query": "link:\"..org\" + \"youtube trends android\"",
       "page": 1,
@@ -684,7 +651,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "02:45:38",
+      "time": "02:43:19",
       "index": 45,
       "query": "link:\"..org\" + \"youtube trends android\"",
       "page": 0,
@@ -695,7 +662,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "02:47:38",
+      "time": "02:44:57",
       "index": 46,
       "query": "allinurl:\"..net\" + \"how to increase monetization fast\"",
       "page": 1,
@@ -706,7 +673,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "02:49:30",
+      "time": "02:46:44",
       "index": 46,
       "query": "allinurl:\"..net\" + \"how to increase monetization fast\"",
       "page": 0,
@@ -717,7 +684,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "02:51:49",
+      "time": "02:48:31",
       "index": 47,
       "query": "source:\"..com\" + \"how to improve revenue in 2026\"",
       "page": 1,
@@ -728,7 +695,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "02:53:53",
+      "time": "02:50:34",
       "index": 47,
       "query": "source:\"..com\" + \"how to improve revenue in 2026\"",
       "page": 0,
@@ -739,7 +706,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "02:55:59",
+      "time": "02:52:26",
       "index": 48,
       "query": "intitle:\"..us\" + \"how to improve revenue without ads\"",
       "page": 1,
@@ -750,7 +717,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "02:57:57",
+      "time": "02:54:11",
       "index": 48,
       "query": "intitle:\"..us\" + \"how to improve revenue without ads\"",
       "page": 0,
@@ -761,7 +728,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "02:59:09",
+      "time": "02:55:46",
       "index": 49,
       "query": "source:\"..co\" + \"how to find subscribers in india\"",
       "page": 1,
@@ -772,7 +739,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "03:01:26",
+      "time": "02:58:04",
       "index": 49,
       "query": "source:\"..co\" + \"how to find subscribers in india\"",
       "page": 0,
@@ -783,7 +750,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "03:03:31",
+      "time": "03:00:19",
       "index": 50,
       "query": "allinurl:\"..net\" + \"youtube views tools\"",
       "page": 1,
@@ -794,7 +761,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "03:05:26",
+      "time": "03:02:11",
       "index": 50,
       "query": "allinurl:\"..net\" + \"youtube views tools\"",
       "page": 0,
@@ -805,7 +772,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "03:07:33",
+      "time": "03:03:52",
       "index": 51,
       "query": "allintext:\"..org\" + \"how to use watch time organically\"",
       "page": 1,
@@ -816,7 +783,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "03:09:52",
+      "time": "03:05:59",
       "index": 51,
       "query": "allintext:\"..org\" + \"how to use watch time organically\"",
       "page": 0,
@@ -827,7 +794,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "03:11:27",
+      "time": "03:07:51",
       "index": 52,
       "query": "allinanchor:\"..com\" + \"how to use engagement on pc\"",
       "page": 1,
@@ -838,7 +805,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "03:13:41",
+      "time": "03:09:39",
       "index": 52,
       "query": "allinanchor:\"..com\" + \"how to use engagement on pc\"",
       "page": 0,
@@ -849,7 +816,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "03:15:33",
+      "time": "03:11:45",
       "index": 53,
       "query": "inanchor:\"..com\" + \"how to increase revenue in 2026\"",
       "page": 1,
@@ -860,7 +827,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "03:17:45",
+      "time": "03:13:34",
       "index": 53,
       "query": "inanchor:\"..com\" + \"how to increase revenue in 2026\"",
       "page": 0,
@@ -871,7 +838,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "03:19:24",
+      "time": "03:15:19",
       "index": 54,
       "query": "source:\"..org\" + \"youtube subscribers ideas\"",
       "page": 1,
@@ -882,7 +849,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "03:21:09",
+      "time": "03:17:19",
       "index": 54,
       "query": "source:\"..org\" + \"youtube subscribers ideas\"",
       "page": 0,
@@ -893,7 +860,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "03:22:27",
+      "time": "03:18:50",
       "index": 55,
       "query": "cache:\"..net\" + \"youtube gaming today\"",
       "page": 1,
@@ -904,7 +871,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "03:24:12",
+      "time": "03:21:14",
       "index": 55,
       "query": "cache:\"..net\" + \"youtube gaming today\"",
       "page": 0,
@@ -915,7 +882,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "03:25:47",
+      "time": "03:22:49",
       "index": 56,
       "query": "link:\"..org\" + \"how to improve click through rate on pc\"",
       "page": 1,
@@ -926,7 +893,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "03:27:47",
+      "time": "03:24:42",
       "index": 56,
       "query": "link:\"..org\" + \"how to improve click through rate on pc\"",
       "page": 0,
@@ -937,7 +904,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "03:30:13",
+      "time": "03:26:42",
       "index": 57,
       "query": "inanchor:\"..us\" + \"how to improve views without ads\"",
       "page": 1,
@@ -948,7 +915,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "03:32:17",
+      "time": "03:28:44",
       "index": 57,
       "query": "inanchor:\"..us\" + \"how to improve views without ads\"",
       "page": 0,
@@ -959,9 +926,31 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "03:34:33",
+      "time": "03:31:00",
       "index": 58,
       "query": "intext:\"..co\" + \"youtube watch time ideas\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "03:32:47",
+      "index": 58,
+      "query": "intext:\"..co\" + \"youtube watch time ideas\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "03:34:22",
+      "index": 59,
+      "query": "insubject:\"..net\" + \"youtube live live\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
@@ -971,28 +960,6 @@
     },
     {
       "time": "03:36:19",
-      "index": 58,
-      "query": "intext:\"..co\" + \"youtube watch time ideas\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "03:38:34",
-      "index": 59,
-      "query": "insubject:\"..net\" + \"youtube live live\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "03:41:04",
       "index": 59,
       "query": "insubject:\"..net\" + \"youtube live live\"",
       "page": 0,
@@ -1003,7 +970,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "03:43:19",
+      "time": "03:37:41",
       "index": 60,
       "query": "intext:\"..net\" + \"youtube thumbnails cost\"",
       "page": 1,
@@ -1012,42 +979,42 @@
       "total_urls": 0,
       "status": "GOOGLE CSE SUSPENDED",
       "detail": "google cse row not found"
+    },
+    {
+      "time": "03:40:00",
+      "index": 60,
+      "query": "intext:\"..net\" + \"youtube thumbnails cost\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "03:41:33",
+      "index": 61,
+      "query": "info:\"..co\" + \"how to create revenue organically\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "03:43:35",
+      "index": 61,
+      "query": "info:\"..co\" + \"how to create revenue organically\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
     },
     {
       "time": "03:45:19",
-      "index": 60,
-      "query": "intext:\"..net\" + \"youtube thumbnails cost\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "03:47:14",
-      "index": 61,
-      "query": "info:\"..co\" + \"how to create revenue organically\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "03:48:58",
-      "index": 61,
-      "query": "info:\"..co\" + \"how to create revenue organically\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "03:50:25",
       "index": 62,
       "query": "filetype:\"..us\" + \"youtube shorts strategy\"",
       "page": 1,
@@ -1058,7 +1025,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "03:52:46",
+      "time": "03:47:35",
       "index": 62,
       "query": "filetype:\"..us\" + \"youtube shorts strategy\"",
       "page": 0,
@@ -1069,7 +1036,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "03:54:49",
+      "time": "03:49:11",
       "index": 63,
       "query": "info:\"..com\" + \"how to track subscribers in 2026\"",
       "page": 1,
@@ -1080,7 +1047,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "03:57:11",
+      "time": "03:51:19",
       "index": 63,
       "query": "info:\"..com\" + \"how to track subscribers in 2026\"",
       "page": 0,
@@ -1091,7 +1058,7 @@
       "detail": "Processed pages for dork"
     },
     {
-      "time": "03:58:43",
+      "time": "03:52:53",
       "index": 64,
       "query": "allintitle:\"..us\" + \"youtube watch time revenue\"",
       "page": 1,
@@ -1102,7 +1069,7 @@
       "detail": "google cse row not found"
     },
     {
-      "time": "04:01:03",
+      "time": "03:55:00",
       "index": 64,
       "query": "allintitle:\"..us\" + \"youtube watch time revenue\"",
       "page": 0,
@@ -1111,6 +1078,39 @@
       "total_urls": 0,
       "status": "TOTAL",
       "detail": "Processed pages for dork"
+    },
+    {
+      "time": "03:57:04",
+      "index": 65,
+      "query": "allinanchor:\"..us\" + \"how to start click through rate on mobile\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "03:59:08",
+      "index": 65,
+      "query": "allinanchor:\"..us\" + \"how to start click through rate on mobile\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "04:00:56",
+      "index": 66,
+      "query": "inanchor:\"..co\" + \"how to check views step by step\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
     }
   ],
   "total_dorks": 26480
