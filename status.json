@@ -1,9 +1,9 @@
 {
-  "index": 72,
+  "index": 73,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "link:\"..us\" + \"how to make click through rate in india\"",
+  "last_query": "link:\"..com\" + \"youtube music india\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "11",
   "logs": [
-    {
-      "time": "13:16:37",
-      "index": 23,
-      "query": "allinanchor:\"..org\" + \"youtube views guide\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "13:18:38",
-      "index": 23,
-      "query": "allinanchor:\"..org\" + \"youtube views guide\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "13:20:26",
       "index": 24,
@@ -1105,6 +1083,28 @@
       "time": "16:33:15",
       "index": 72,
       "query": "link:\"..us\" + \"how to make click through rate in india\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:35:20",
+      "index": 73,
+      "query": "link:\"..com\" + \"youtube music india\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:37:42",
+      "index": 73,
+      "query": "link:\"..com\" + \"youtube music india\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
