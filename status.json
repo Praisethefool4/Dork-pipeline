@@ -1,9 +1,9 @@
 {
-  "index": 61,
+  "index": 62,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to improve monetization for beginners.php?sec=",
+  "last_query": "how to increase search ranking fast.php?purchase_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "2",
   "logs": [
-    {
-      "time": "18:39:50",
-      "index": 12,
-      "query": "how to optimize watch time fast.php?id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "18:41:55",
-      "index": 13,
-      "query": "how to grow watch time in india.php?gamer_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "18:44:17",
       "index": 13,
@@ -1105,6 +1083,28 @@
       "time": "21:55:44",
       "index": 62,
       "query": "how to improve monetization for beginners.php?sec=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "21:57:30",
+      "index": 62,
+      "query": "how to improve monetization for beginners.php?sec=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "21:59:25",
+      "index": 63,
+      "query": "how to increase search ranking fast.php?purchase_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
