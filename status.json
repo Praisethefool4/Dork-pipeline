@@ -1,9 +1,9 @@
 {
-  "index": 51,
+  "index": 52,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "insubject:how to create search ranking organically.php?type_id=",
+  "last_query": "allinanchor:how to improve revenue in india.php?sec=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "14",
   "logs": [
-    {
-      "time": "11:58:39",
-      "index": 2,
-      "query": "intitle:how to optimize retention in india.php?type_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "12:00:15",
-      "index": 3,
-      "query": "source:how to optimize engagement without ads.php?id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "12:02:16",
       "index": 3,
@@ -1105,6 +1083,28 @@
       "time": "15:14:59",
       "index": 52,
       "query": "insubject:how to create search ranking organically.php?type_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:17:06",
+      "index": 52,
+      "query": "insubject:how to create search ranking organically.php?type_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:18:59",
+      "index": 53,
+      "query": "allinanchor:how to improve revenue in india.php?sec=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
