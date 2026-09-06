@@ -1,9 +1,9 @@
 {
-  "index": 86,
+  "index": 87,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinurl:how to optimize engagement fast.php?register=",
+  "last_query": "allintitle:youtube shorts latest.php?register=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "17",
   "logs": [
-    {
-      "time": "14:18:26",
-      "index": 37,
-      "query": "intitle:youtube music education.php?id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "14:20:23",
-      "index": 37,
-      "query": "intitle:youtube music education.php?id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "14:21:59",
       "index": 38,
@@ -1105,6 +1083,28 @@
       "time": "17:31:38",
       "index": 86,
       "query": "allinurl:how to optimize engagement fast.php?register=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:33:20",
+      "index": 87,
+      "query": "allintitle:youtube shorts latest.php?register=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:35:33",
+      "index": 87,
+      "query": "allintitle:youtube shorts latest.php?register=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
