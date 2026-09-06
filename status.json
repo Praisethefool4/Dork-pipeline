@@ -1,9 +1,9 @@
 {
-  "index": 67,
+  "index": 68,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allintext:how to make revenue for beginners.php?register=",
+  "last_query": "allinanchor:how to find search ranking organically.php?sec=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "14",
   "logs": [
-    {
-      "time": "19:04:46",
-      "index": 18,
-      "query": "cache:youtube watch time how to.php?user_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "19:06:50",
-      "index": 19,
-      "query": "link:youtube trends small channel.php?user_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "19:08:58",
       "index": 19,
@@ -1105,6 +1083,28 @@
       "time": "22:19:26",
       "index": 68,
       "query": "allintext:how to make revenue for beginners.php?register=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "22:21:08",
+      "index": 68,
+      "query": "allintext:how to make revenue for beginners.php?register=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "22:22:41",
+      "index": 69,
+      "query": "allinanchor:how to find search ranking organically.php?sec=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
