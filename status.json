@@ -1,9 +1,9 @@
 {
-  "index": 88,
+  "index": 89,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinanchor:\"..org\" + \"how to learn monetization for beginners\"",
+  "last_query": "insubject:\"..net\" + \"how to use revenue fast\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "12",
   "logs": [
-    {
-      "time": "14:25:59",
-      "index": 39,
-      "query": "link:\"..org\" + \"youtube trends analytics\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "14:27:54",
-      "index": 40,
-      "query": "insubject:\"..com\" + \"how to find subscribers on mobile\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "14:29:45",
       "index": 40,
@@ -1105,6 +1083,28 @@
       "time": "17:38:23",
       "index": 89,
       "query": "allinanchor:\"..org\" + \"how to learn monetization for beginners\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:40:51",
+      "index": 89,
+      "query": "allinanchor:\"..org\" + \"how to learn monetization for beginners\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:42:44",
+      "index": 90,
+      "query": "insubject:\"..net\" + \"how to use revenue fast\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
