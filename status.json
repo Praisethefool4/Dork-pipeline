@@ -1,5 +1,5 @@
 {
-  "index": 66,
+  "index": 67,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
@@ -12,17 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "19",
   "logs": [
-    {
-      "time": "13:00:23",
-      "index": 17,
-      "query": "inanchor:youtube creator pc.php?user_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "13:02:10",
       "index": 18,
@@ -1111,6 +1100,17 @@
       "total_urls": 0,
       "status": "GOOGLE CSE SUSPENDED",
       "detail": "google cse row not found"
+    },
+    {
+      "time": "16:15:07",
+      "index": 67,
+      "query": "intitle:how to start engagement on pc.php?username_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
     }
   ],
   "total_dorks": 26480
