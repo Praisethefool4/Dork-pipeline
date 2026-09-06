@@ -1,9 +1,9 @@
 {
-  "index": 58,
+  "index": 59,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube watch time small channel.php?item_id=",
+  "last_query": "how to improve click through rate for free.php?param=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "2",
   "logs": [
-    {
-      "time": "12:27:53",
-      "index": 9,
-      "query": "how to check click through rate fast.php?login_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "12:30:03",
-      "index": 10,
-      "query": "how to improve revenue without ads.php?item_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "12:31:57",
       "index": 10,
@@ -1105,6 +1083,28 @@
       "time": "15:43:14",
       "index": 59,
       "query": "youtube watch time small channel.php?item_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:45:26",
+      "index": 59,
+      "query": "youtube watch time small channel.php?item_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:46:45",
+      "index": 60,
+      "query": "how to improve click through rate for free.php?param=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
