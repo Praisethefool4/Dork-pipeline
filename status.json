@@ -1,9 +1,9 @@
 {
-  "index": 88,
+  "index": 89,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube subscribers tips.php?param= site:.us",
+  "last_query": "how to check engagement for free.php?user_id= site:.net",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "3",
   "logs": [
-    {
-      "time": "14:25:56",
-      "index": 39,
-      "query": "youtube seo earnings.php?type_id= site:.com",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "14:28:01",
-      "index": 40,
-      "query": "youtube trends india.php?user_id= site:.us",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "14:30:07",
       "index": 40,
@@ -1105,6 +1083,28 @@
       "time": "17:40:27",
       "index": 89,
       "query": "youtube subscribers tips.php?param= site:.us",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:42:31",
+      "index": 89,
+      "query": "youtube subscribers tips.php?param= site:.us",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:44:21",
+      "index": 90,
+      "query": "how to check engagement for free.php?user_id= site:.net",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
