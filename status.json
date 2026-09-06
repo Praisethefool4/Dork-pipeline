@@ -1,0 +1,16 @@
+{
+  "index": 0,
+  "page": 1,
+  "status": "RUNNING",
+  "action": "STARTING",
+  "last_query": "",
+  "last_error": "",
+  "last_page_urls": 0,
+  "pages": 1,
+  "urls": 0,
+  "session_new_urls": 0,
+  "consecutive_empty": 0,
+  "runner_id": "7",
+  "logs": [],
+  "total_dorks": 26480
+}
