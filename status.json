@@ -1,9 +1,9 @@
 {
-  "index": 85,
+  "index": 86,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinanchor:youtube live revenue.php?sec=",
+  "last_query": "intext:how to optimize watch time fast.php?id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "16",
   "logs": [
-    {
-      "time": "20:09:05",
-      "index": 36,
-      "query": "allintitle:how to check watch time on mobile.php?param=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "20:11:03",
-      "index": 36,
-      "query": "allintitle:how to check watch time on mobile.php?param=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "20:13:17",
       "index": 37,
@@ -1105,6 +1083,28 @@
       "time": "23:22:31",
       "index": 85,
       "query": "allinanchor:youtube live revenue.php?sec=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "23:24:46",
+      "index": 86,
+      "query": "intext:how to optimize watch time fast.php?id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:27:15",
+      "index": 86,
+      "query": "intext:how to optimize watch time fast.php?id=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
