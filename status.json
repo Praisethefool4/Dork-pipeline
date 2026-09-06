@@ -1,0 +1,39 @@
+{
+  "index": 1,
+  "page": 1,
+  "status": "COOLDOWN",
+  "action": "ENDPOINT HEALTH CHECK FAILED",
+  "last_query": "how to increase subscribers without ads.php?cat=",
+  "last_error": "google cse row not found",
+  "last_page_urls": 0,
+  "pages": 1,
+  "urls": 0,
+  "session_new_urls": 0,
+  "consecutive_empty": 0,
+  "runner_id": "2",
+  "logs": [
+    {
+      "time": "17:53:58",
+      "index": 1,
+      "query": "how to increase subscribers without ads.php?cat=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:55:47",
+      "index": 1,
+      "query": "how to increase subscribers without ads.php?cat=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    }
+  ],
+  "total_dorks": 26481
+}
