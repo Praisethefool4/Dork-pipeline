@@ -1,9 +1,9 @@
 {
-  "index": 56,
+  "index": 57,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "inurl:\"..us\" + \"youtube seo latest\"",
+  "last_query": "inurl:\"..co\" + \"how to start click through rate without ads\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "13",
   "logs": [
-    {
-      "time": "18:15:48",
-      "index": 7,
-      "query": "inurl:\"..org\" + \"how to make monetization for free\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "18:17:33",
-      "index": 7,
-      "query": "inurl:\"..org\" + \"how to make monetization for free\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "18:19:32",
       "index": 8,
@@ -1105,6 +1083,28 @@
       "time": "21:28:56",
       "index": 56,
       "query": "inurl:\"..us\" + \"youtube seo latest\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "21:30:32",
+      "index": 57,
+      "query": "inurl:\"..co\" + \"how to start click through rate without ads\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "21:32:17",
+      "index": 57,
+      "query": "inurl:\"..co\" + \"how to start click through rate without ads\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
