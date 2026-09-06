@@ -1,9 +1,9 @@
 {
-  "index": 57,
+  "index": 58,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "cache:how to use engagement on pc.php?game_id=",
+  "last_query": "info:how to improve engagement for beginners.php?purchase_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "16",
   "logs": [
-    {
-      "time": "18:22:28",
-      "index": 8,
-      "query": "source:how to check revenue in india.php?id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "18:24:15",
-      "index": 9,
-      "query": "allintitle:how to start revenue without ads.php?login_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "18:26:01",
       "index": 9,
@@ -1105,6 +1083,28 @@
       "time": "21:34:07",
       "index": 58,
       "query": "cache:how to use engagement on pc.php?game_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "21:36:06",
+      "index": 58,
+      "query": "cache:how to use engagement on pc.php?game_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "21:37:51",
+      "index": 59,
+      "query": "info:how to improve engagement for beginners.php?purchase_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
