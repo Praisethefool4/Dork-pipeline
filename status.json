@@ -1,9 +1,9 @@
 {
-  "index": 86,
+  "index": 87,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube algorithm today.php?purchase_id= site:.co",
+  "last_query": "how to make click through rate step by step.php?category= site:.com",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "5",
   "logs": [
-    {
-      "time": "14:17:34",
-      "index": 37,
-      "query": "how to increase watch time organically.php?id= site:.co",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "14:19:26",
-      "index": 38,
-      "query": "youtube monetization mobile.php?game_id= site:.com",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "14:21:46",
       "index": 38,
@@ -1105,6 +1083,28 @@
       "time": "17:33:50",
       "index": 87,
       "query": "youtube algorithm today.php?purchase_id= site:.co",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:35:45",
+      "index": 87,
+      "query": "youtube algorithm today.php?purchase_id= site:.co",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:37:28",
+      "index": 88,
+      "query": "how to make click through rate step by step.php?category= site:.com",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
