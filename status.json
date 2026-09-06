@@ -1,9 +1,9 @@
 {
-  "index": 51,
+  "index": 52,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "link:\"..net\" + \"youtube thumbnails website\"",
+  "last_query": "allintitle:\"..com\" + \"how to find click through rate in india\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "13",
   "logs": [
-    {
-      "time": "11:57:45",
-      "index": 2,
-      "query": "inanchor:\"..com\" + \"how to improve watch time for free\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "12:00:03",
-      "index": 2,
-      "query": "inanchor:\"..com\" + \"how to improve watch time for free\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "12:01:50",
       "index": 3,
@@ -1105,6 +1083,28 @@
       "time": "15:09:10",
       "index": 51,
       "query": "link:\"..net\" + \"youtube thumbnails website\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:10:42",
+      "index": 52,
+      "query": "allintitle:\"..com\" + \"how to find click through rate in india\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:12:27",
+      "index": 52,
+      "query": "allintitle:\"..com\" + \"how to find click through rate in india\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
