@@ -1,9 +1,9 @@
 {
-  "index": 54,
+  "index": 55,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "source:\"..org\" + \"youtube subscribers ideas\"",
+  "last_query": "cache:\"..net\" + \"youtube gaming today\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "11",
   "logs": [
-    {
-      "time": "12:07:37",
-      "index": 5,
-      "query": "allintext:\"..com\" + \"youtube views for beginners\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "12:09:24",
-      "index": 5,
-      "query": "allintext:\"..com\" + \"youtube views for beginners\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "12:10:56",
       "index": 6,
@@ -1105,6 +1083,28 @@
       "time": "15:20:37",
       "index": 54,
       "query": "source:\"..org\" + \"youtube subscribers ideas\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:22:52",
+      "index": 55,
+      "query": "cache:\"..net\" + \"youtube gaming today\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:25:07",
+      "index": 55,
+      "query": "cache:\"..net\" + \"youtube gaming today\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
