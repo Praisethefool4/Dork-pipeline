@@ -1,9 +1,9 @@
 {
-  "index": 71,
+  "index": 72,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to make monetization organically.php?gamer_id= site:.com",
+  "last_query": "youtube premium shorts.php?user_id= site:.com",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "4",
   "logs": [
-    {
-      "time": "15:12:27",
-      "index": 22,
-      "query": "youtube premium iphone.php?username_id= site:.net",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "15:14:24",
-      "index": 22,
-      "query": "youtube premium iphone.php?username_id= site:.net",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "15:16:52",
       "index": 23,
@@ -1105,6 +1083,28 @@
       "time": "18:32:50",
       "index": 71,
       "query": "how to make monetization organically.php?gamer_id= site:.com",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "18:34:24",
+      "index": 72,
+      "query": "youtube premium shorts.php?user_id= site:.com",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "18:36:11",
+      "index": 72,
+      "query": "youtube premium shorts.php?user_id= site:.com",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
