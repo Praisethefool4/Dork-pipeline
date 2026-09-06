@@ -3,7 +3,7 @@
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube live shorts.php?category= site:.co",
+  "last_query": "youtube gaming india.php?id= site:.com",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -979,6 +979,17 @@
       "total_urls": 0,
       "status": "TOTAL",
       "detail": "Processed pages for dork"
+    },
+    {
+      "time": "20:48:21",
+      "index": 45,
+      "query": "youtube gaming india.php?id= site:.com",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
     }
   ],
   "total_dorks": 26481
