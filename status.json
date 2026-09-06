@@ -1,9 +1,9 @@
 {
-  "index": 60,
+  "index": 61,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "intext:\"..net\" + \"youtube thumbnails cost\"",
+  "last_query": "info:\"..co\" + \"how to create revenue organically\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "11",
   "logs": [
-    {
-      "time": "18:33:29",
-      "index": 11,
-      "query": "source:\"..net\" + \"youtube videos for beginners\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "18:35:44",
-      "index": 11,
-      "query": "source:\"..net\" + \"youtube videos for beginners\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "18:37:07",
       "index": 12,
@@ -1105,6 +1083,28 @@
       "time": "21:49:01",
       "index": 60,
       "query": "intext:\"..net\" + \"youtube thumbnails cost\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "21:51:00",
+      "index": 61,
+      "query": "info:\"..co\" + \"how to create revenue organically\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "21:53:03",
+      "index": 61,
+      "query": "info:\"..co\" + \"how to create revenue organically\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
