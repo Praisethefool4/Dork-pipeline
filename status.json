@@ -1,9 +1,9 @@
 {
-  "index": 51,
+  "index": 52,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube streaming thumbnail.php?cat= site:.us",
+  "last_query": "how to increase click through rate on mobile.php?item_id= site:.co",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "5",
   "logs": [
-    {
-      "time": "17:57:51",
-      "index": 2,
-      "query": "youtube watch time channel.php?gamer_id= site:.com",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "17:59:38",
-      "index": 2,
-      "query": "youtube watch time channel.php?gamer_id= site:.com",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "18:01:54",
       "index": 3,
@@ -1105,6 +1083,28 @@
       "time": "21:15:35",
       "index": 51,
       "query": "youtube streaming thumbnail.php?cat= site:.us",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "21:17:22",
+      "index": 52,
+      "query": "how to increase click through rate on mobile.php?item_id= site:.co",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "21:19:28",
+      "index": 52,
+      "query": "how to increase click through rate on mobile.php?item_id= site:.co",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
