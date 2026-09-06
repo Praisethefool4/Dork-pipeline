@@ -1,9 +1,9 @@
 {
-  "index": 57,
+  "index": 58,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allintitle:\"..us\" + \"youtube premium algorithm\"",
+  "last_query": "source:\"..co\" + \"how to check views organically\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "9",
   "logs": [
-    {
-      "time": "12:20:32",
-      "index": 8,
-      "query": "insubject:\"..com\" + \"how to start search ranking on mobile\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "12:22:50",
-      "index": 8,
-      "query": "insubject:\"..com\" + \"how to start search ranking on mobile\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "12:24:29",
       "index": 9,
@@ -1105,6 +1083,28 @@
       "time": "15:36:50",
       "index": 57,
       "query": "allintitle:\"..us\" + \"youtube premium algorithm\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:38:31",
+      "index": 58,
+      "query": "source:\"..co\" + \"how to check views organically\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:40:39",
+      "index": 58,
+      "query": "source:\"..co\" + \"how to check views organically\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
