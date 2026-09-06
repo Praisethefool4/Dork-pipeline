@@ -1,9 +1,9 @@
 {
-  "index": 81,
+  "index": 82,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "insubject:how to create engagement step by step.php?include=",
+  "last_query": "allintext:how to get watch time on pc.php?avd=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "17",
   "logs": [
-    {
-      "time": "14:00:24",
-      "index": 32,
-      "query": "intext:how to track channel growth on pc.php?register=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "14:02:13",
-      "index": 33,
-      "query": "link:how to grow engagement organically.php?login_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "14:03:58",
       "index": 33,
@@ -1105,6 +1083,28 @@
       "time": "17:12:38",
       "index": 82,
       "query": "insubject:how to create engagement step by step.php?include=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:14:54",
+      "index": 82,
+      "query": "insubject:how to create engagement step by step.php?include=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:16:34",
+      "index": 83,
+      "query": "allintext:how to get watch time on pc.php?avd=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
