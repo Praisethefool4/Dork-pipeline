@@ -1,9 +1,9 @@
 {
-  "index": 52,
+  "index": 53,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allintext:\"..net\" + \"how to grow engagement for free\"",
+  "last_query": "source:\"..com\" + \"youtube thumbnails tips\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "12",
   "logs": [
-    {
-      "time": "12:00:51",
-      "index": 3,
-      "query": "intitle:\"..net\" + \"how to learn channel growth step by step\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "12:02:47",
-      "index": 3,
-      "query": "intitle:\"..net\" + \"how to learn channel growth step by step\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "12:05:02",
       "index": 4,
@@ -1105,6 +1083,28 @@
       "time": "15:15:42",
       "index": 52,
       "query": "allintext:\"..net\" + \"how to grow engagement for free\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:17:15",
+      "index": 53,
+      "query": "source:\"..com\" + \"youtube thumbnails tips\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:19:24",
+      "index": 53,
+      "query": "source:\"..com\" + \"youtube thumbnails tips\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
