@@ -1,9 +1,9 @@
 {
-  "index": 68,
+  "index": 69,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinanchor:how to find search ranking organically.php?sec=",
+  "last_query": "allintitle:how to create click through rate without ads.php?register=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "14",
   "logs": [
-    {
-      "time": "07:06:13",
-      "index": 19,
-      "query": "link:youtube trends small channel.php?user_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "07:08:08",
-      "index": 20,
-      "query": "allinanchor:how to grow subscribers on pc.php?type_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "07:10:03",
       "index": 20,
@@ -1105,6 +1083,28 @@
       "time": "10:15:16",
       "index": 69,
       "query": "allinanchor:how to find search ranking organically.php?sec=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "10:17:21",
+      "index": 69,
+      "query": "allinanchor:how to find search ranking organically.php?sec=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "10:19:25",
+      "index": 70,
+      "query": "allintitle:how to create click through rate without ads.php?register=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
