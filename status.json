@@ -1,9 +1,9 @@
 {
-  "index": 58,
+  "index": 59,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "source:\"..co\" + \"how to learn search ranking on mobile\"",
+  "last_query": "info:\"..com\" + \"how to start revenue for beginners\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "10",
   "logs": [
-    {
-      "time": "12:23:16",
-      "index": 9,
-      "query": "allintext:\"..net\" + \"youtube premium shorts\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "12:25:17",
-      "index": 9,
-      "query": "allintext:\"..net\" + \"youtube premium shorts\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "12:27:26",
       "index": 10,
@@ -1105,6 +1083,28 @@
       "time": "15:35:20",
       "index": 58,
       "query": "source:\"..co\" + \"how to learn search ranking on mobile\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:37:42",
+      "index": 59,
+      "query": "info:\"..com\" + \"how to start revenue for beginners\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:40:03",
+      "index": 59,
+      "query": "info:\"..com\" + \"how to start revenue for beginners\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
