@@ -1,9 +1,9 @@
 {
-  "index": 64,
+  "index": 65,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "source:youtube live tags.php?panel=",
+  "last_query": "info:youtube studio latest.php?gamer_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "15",
   "logs": [
-    {
-      "time": "18:51:27",
-      "index": 15,
-      "query": "cache:how to increase monetization organically.php?username_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "18:53:21",
-      "index": 16,
-      "query": "intitle:how to optimize retention step by step.php?coID=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "18:55:06",
       "index": 16,
@@ -1105,6 +1083,28 @@
       "time": "22:03:51",
       "index": 65,
       "query": "source:youtube live tags.php?panel=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "22:06:17",
+      "index": 65,
+      "query": "source:youtube live tags.php?panel=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "22:07:40",
+      "index": 66,
+      "query": "info:youtube studio latest.php?gamer_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
