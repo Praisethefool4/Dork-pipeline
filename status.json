@@ -1,9 +1,9 @@
 {
-  "index": 66,
+  "index": 67,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "link:youtube music online.php?id=",
+  "last_query": "allintext:how to make revenue for beginners.php?register=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "14",
   "logs": [
-    {
-      "time": "19:00:33",
-      "index": 17,
-      "query": "allinurl:how to find retention on mobile.php?type_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "19:02:53",
-      "index": 18,
-      "query": "cache:youtube watch time how to.php?user_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "19:04:46",
       "index": 18,
@@ -1105,6 +1083,28 @@
       "time": "22:16:16",
       "index": 67,
       "query": "link:youtube music online.php?id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "22:18:05",
+      "index": 67,
+      "query": "link:youtube music online.php?id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "22:19:26",
+      "index": 68,
+      "query": "allintext:how to make revenue for beginners.php?register=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
