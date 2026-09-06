@@ -1,5 +1,5 @@
 {
-  "index": 84,
+  "index": 85,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
@@ -12,17 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "16",
   "logs": [
-    {
-      "time": "20:07:09",
-      "index": 35,
-      "query": "intext:how to grow monetization on mobile.php?item_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "20:09:05",
       "index": 36,
@@ -1111,6 +1100,17 @@
       "total_urls": 0,
       "status": "GOOGLE CSE SUSPENDED",
       "detail": "google cse row not found"
+    },
+    {
+      "time": "23:22:31",
+      "index": 85,
+      "query": "allinanchor:youtube live revenue.php?sec=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
     }
   ],
   "total_dorks": 26480
