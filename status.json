@@ -1,9 +1,9 @@
 {
-  "index": 84,
+  "index": 85,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "intitle:youtube editing thumbnail.php?param=",
+  "last_query": "filetype:how to create engagement on mobile.php?product_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "14",
   "logs": [
-    {
-      "time": "20:11:51",
-      "index": 35,
-      "query": "cache:youtube premium cost.php?purchase_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "20:14:19",
-      "index": 35,
-      "query": "cache:youtube premium cost.php?purchase_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "20:15:51",
       "index": 36,
@@ -1105,6 +1083,28 @@
       "time": "23:22:58",
       "index": 84,
       "query": "intitle:youtube editing thumbnail.php?param=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "23:24:18",
+      "index": 85,
+      "query": "filetype:how to create engagement on mobile.php?product_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:26:47",
+      "index": 85,
+      "query": "filetype:how to create engagement on mobile.php?product_id=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
