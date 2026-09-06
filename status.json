@@ -1,9 +1,9 @@
 {
-  "index": 64,
+  "index": 65,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinurl:how to find monetization organically.php?param=",
+  "last_query": "inanchor:youtube views faceless channel.php?product_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "14",
   "logs": [
-    {
-      "time": "18:49:33",
-      "index": 15,
-      "query": "info:how to increase watch time in 2026.php?cat=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "18:51:59",
-      "index": 15,
-      "query": "info:how to increase watch time in 2026.php?cat=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "18:54:15",
       "index": 16,
@@ -1105,6 +1083,28 @@
       "time": "22:07:03",
       "index": 64,
       "query": "allinurl:how to find monetization organically.php?param=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "22:08:24",
+      "index": 65,
+      "query": "inanchor:youtube views faceless channel.php?product_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "22:10:10",
+      "index": 65,
+      "query": "inanchor:youtube views faceless channel.php?product_id=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
