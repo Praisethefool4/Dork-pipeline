@@ -1,9 +1,9 @@
 {
-  "index": 92,
+  "index": 93,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "link:youtube studio settings.php?param=",
+  "last_query": "intext:how to use retention fast.php?id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "17",
   "logs": [
-    {
-      "time": "20:35:09",
-      "index": 43,
-      "query": "allinanchor:how to use monetization in india.php?gamer_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "20:37:17",
-      "index": 43,
-      "query": "allinanchor:how to use monetization in india.php?gamer_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "20:39:01",
       "index": 44,
@@ -1105,6 +1083,28 @@
       "time": "23:47:45",
       "index": 92,
       "query": "link:youtube studio settings.php?param=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "23:49:18",
+      "index": 93,
+      "query": "intext:how to use retention fast.php?id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:51:18",
+      "index": 93,
+      "query": "intext:how to use retention fast.php?id=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
