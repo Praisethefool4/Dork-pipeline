@@ -1,9 +1,9 @@
 {
-  "index": 73,
+  "index": 74,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinurl:\"..org\" + \"youtube analytics guide\"",
+  "last_query": "link:\"..net\" + \"how to check monetization for free\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "9",
   "logs": [
-    {
-      "time": "19:25:04",
-      "index": 24,
-      "query": "link:\"..com\" + \"how to track click through rate step by step\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "19:27:19",
-      "index": 24,
-      "query": "link:\"..com\" + \"how to track click through rate step by step\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "19:29:14",
       "index": 25,
@@ -1105,6 +1083,28 @@
       "time": "22:43:50",
       "index": 73,
       "query": "allinurl:\"..org\" + \"youtube analytics guide\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "22:45:57",
+      "index": 74,
+      "query": "link:\"..net\" + \"how to check monetization for free\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "22:47:53",
+      "index": 74,
+      "query": "link:\"..net\" + \"how to check monetization for free\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
