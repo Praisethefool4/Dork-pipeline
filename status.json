@@ -1,9 +1,9 @@
 {
-  "index": 51,
+  "index": 52,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allintext:\"..org\" + \"how to use watch time organically\"",
+  "last_query": "allinanchor:\"..com\" + \"how to use engagement on pc\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "11",
   "logs": [
-    {
-      "time": "11:56:37",
-      "index": 2,
-      "query": "filetype:\"..com\" + \"youtube studio business\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "11:58:54",
-      "index": 2,
-      "query": "filetype:\"..com\" + \"youtube studio business\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "12:00:13",
       "index": 3,
@@ -1105,6 +1083,28 @@
       "time": "15:08:48",
       "index": 51,
       "query": "allintext:\"..org\" + \"how to use watch time organically\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:10:35",
+      "index": 52,
+      "query": "allinanchor:\"..com\" + \"how to use engagement on pc\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:12:27",
+      "index": 52,
+      "query": "allinanchor:\"..com\" + \"how to use engagement on pc\"",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
