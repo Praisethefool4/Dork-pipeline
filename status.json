@@ -1,5 +1,5 @@
 {
-  "index": 87,
+  "index": 88,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
@@ -12,17 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "13",
   "logs": [
-    {
-      "time": "14:20:20",
-      "index": 38,
-      "query": "intitle:\"..org\" + \"youtube studio today\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "14:22:09",
       "index": 39,
@@ -1111,6 +1100,17 @@
       "total_urls": 0,
       "status": "GOOGLE CSE SUSPENDED",
       "detail": "google cse row not found"
+    },
+    {
+      "time": "17:35:21",
+      "index": 88,
+      "query": "intext:\"..co\" + \"how to improve watch time in india\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
     }
   ],
   "total_dorks": 26480
