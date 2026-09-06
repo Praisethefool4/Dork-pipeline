@@ -1,9 +1,9 @@
 {
-  "index": 68,
+  "index": 69,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube videos website.php?cat= site:.co",
+  "last_query": "how to track engagement step by step.php?type= site:.co",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "4",
   "logs": [
-    {
-      "time": "15:01:07",
-      "index": 19,
-      "query": "how to optimize revenue step by step.php?avd= site:.org",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "15:02:58",
-      "index": 19,
-      "query": "how to optimize revenue step by step.php?avd= site:.org",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "15:04:53",
       "index": 20,
@@ -1105,6 +1083,28 @@
       "time": "18:20:37",
       "index": 68,
       "query": "youtube videos website.php?cat= site:.co",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "18:22:22",
+      "index": 69,
+      "query": "how to track engagement step by step.php?type= site:.co",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "18:24:39",
+      "index": 69,
+      "query": "how to track engagement step by step.php?type= site:.co",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
