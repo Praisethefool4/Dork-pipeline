@@ -1,9 +1,9 @@
 {
-  "index": 73,
+  "index": 74,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "filetype:how to track engagement organically.php?avd=",
+  "last_query": "inanchor:how to start channel growth on pc.php?register=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "14",
   "logs": [
-    {
-      "time": "13:25:50",
-      "index": 24,
-      "query": "insubject:how to optimize retention fast.php?page_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "13:27:36",
-      "index": 25,
-      "query": "intext:how to create monetization for beginners.php?username_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "13:29:36",
       "index": 25,
@@ -1105,6 +1083,28 @@
       "time": "16:42:41",
       "index": 74,
       "query": "filetype:how to track engagement organically.php?avd=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:44:27",
+      "index": 74,
+      "query": "filetype:how to track engagement organically.php?avd=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "16:46:35",
+      "index": 75,
+      "query": "inanchor:how to start channel growth on pc.php?register=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
