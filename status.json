@@ -1,9 +1,9 @@
 {
-  "index": 58,
+  "index": 59,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "youtube analytics requirements.php?id=",
+  "last_query": "youtube watch time small channel.php?item_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "2",
   "logs": [
-    {
-      "time": "18:26:36",
-      "index": 9,
-      "query": "how to check click through rate fast.php?login_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "18:28:27",
-      "index": 9,
-      "query": "how to check click through rate fast.php?login_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "18:30:13",
       "index": 10,
@@ -1105,6 +1083,28 @@
       "time": "21:42:25",
       "index": 58,
       "query": "youtube analytics requirements.php?id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "21:44:29",
+      "index": 59,
+      "query": "youtube watch time small channel.php?item_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "21:46:20",
+      "index": 59,
+      "query": "youtube watch time small channel.php?item_id=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
