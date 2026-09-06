@@ -1,9 +1,9 @@
 {
-  "index": 83,
+  "index": 84,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "inurl:\"..com\" + \"youtube algorithm download\"",
+  "last_query": "inurl:\"..com\" + \"youtube trends gaming\"",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "10",
   "logs": [
-    {
-      "time": "20:05:00",
-      "index": 34,
-      "query": "filetype:\"..co\" + \"how to use channel growth without ads\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "20:07:18",
-      "index": 35,
-      "query": "info:\"..us\" + \"how to use watch time on mobile\"",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "20:09:44",
       "index": 35,
@@ -1105,6 +1083,28 @@
       "time": "23:16:42",
       "index": 84,
       "query": "inurl:\"..com\" + \"youtube algorithm download\"",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "23:18:27",
+      "index": 84,
+      "query": "inurl:\"..com\" + \"youtube algorithm download\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "23:20:30",
+      "index": 85,
+      "query": "inurl:\"..com\" + \"youtube trends gaming\"",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
