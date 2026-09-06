@@ -1,9 +1,9 @@
 {
-  "index": 79,
+  "index": 80,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "allinurl:youtube watch time optimization.php?game_id=",
+  "last_query": "intext:youtube thumbnails description.php?user_id=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "19",
   "logs": [
-    {
-      "time": "13:50:22",
-      "index": 30,
-      "query": "intext:youtube algorithm earnings.php?avd=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "13:52:16",
-      "index": 31,
-      "query": "intitle:how to grow views on mobile.php?type=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "13:54:11",
       "index": 31,
@@ -1105,6 +1083,28 @@
       "time": "17:04:34",
       "index": 80,
       "query": "allinurl:youtube watch time optimization.php?game_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "17:06:14",
+      "index": 80,
+      "query": "allinurl:youtube watch time optimization.php?game_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:08:24",
+      "index": 81,
+      "query": "intext:youtube thumbnails description.php?user_id=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
