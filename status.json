@@ -1,9 +1,9 @@
 {
-  "index": 85,
+  "index": 86,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "filetype:how to create engagement on mobile.php?product_id=",
+  "last_query": "info:youtube thumbnails today.php?include=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "14",
   "logs": [
-    {
-      "time": "08:07:31",
-      "index": 36,
-      "query": "inanchor:youtube monetization thumbnail.php?game_id=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
-    {
-      "time": "08:09:42",
-      "index": 36,
-      "query": "inanchor:youtube monetization thumbnail.php?game_id=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "08:12:02",
       "index": 37,
@@ -1105,6 +1083,28 @@
       "time": "11:21:44",
       "index": 85,
       "query": "filetype:how to create engagement on mobile.php?product_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "11:23:20",
+      "index": 86,
+      "query": "info:youtube thumbnails today.php?include=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "11:25:20",
+      "index": 86,
+      "query": "info:youtube thumbnails today.php?include=",
       "page": 0,
       "urls": 0,
       "new_urls": 0,
