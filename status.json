@@ -1,5 +1,5 @@
 {
-  "index": 69,
+  "index": 70,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
@@ -12,17 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "10",
   "logs": [
-    {
-      "time": "13:08:22",
-      "index": 20,
-      "query": "link:\"..com\" + \"youtube watch time guide\"",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
     {
       "time": "13:09:56",
       "index": 21,
@@ -1111,6 +1100,17 @@
       "total_urls": 0,
       "status": "GOOGLE CSE SUSPENDED",
       "detail": "google cse row not found"
+    },
+    {
+      "time": "16:22:05",
+      "index": 70,
+      "query": "intext:\"..co\" + \"youtube editing shorts\"",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
     }
   ],
   "total_dorks": 26480
