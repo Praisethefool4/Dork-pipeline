@@ -1,9 +1,9 @@
 {
-  "index": 76,
+  "index": 77,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to get views step by step.php?gamer_id=",
+  "last_query": "how to get search ranking in 2026.php?category=",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "2",
   "logs": [
-    {
-      "time": "13:41:23",
-      "index": 27,
-      "query": "youtube music growth.php?avd=",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "13:43:08",
-      "index": 28,
-      "query": "youtube music marketing.php?cat=",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "13:45:36",
       "index": 28,
@@ -1105,6 +1083,28 @@
       "time": "16:56:02",
       "index": 77,
       "query": "how to get views step by step.php?gamer_id=",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "16:58:13",
+      "index": 77,
+      "query": "how to get views step by step.php?gamer_id=",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "17:00:01",
+      "index": 78,
+      "query": "how to get search ranking in 2026.php?category=",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
