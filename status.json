@@ -1,9 +1,9 @@
 {
-  "index": 57,
+  "index": 58,
   "page": 1,
   "status": "COOLDOWN",
   "action": "ENDPOINT HEALTH CHECK FAILED",
-  "last_query": "how to use retention organically.php?game_id= site:.co",
+  "last_query": "how to find revenue organically.php?user_id= site:.com",
   "last_error": "google cse row not found",
   "last_page_urls": 0,
   "pages": 1,
@@ -12,28 +12,6 @@
   "consecutive_empty": 0,
   "runner_id": "7",
   "logs": [
-    {
-      "time": "12:25:21",
-      "index": 8,
-      "query": "youtube features.php?product_id= site:.org",
-      "page": 0,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "TOTAL",
-      "detail": "Processed pages for dork"
-    },
-    {
-      "time": "12:27:32",
-      "index": 9,
-      "query": "youtube subscribers analytics.php?cat= site:.org",
-      "page": 1,
-      "urls": 0,
-      "new_urls": 0,
-      "total_urls": 0,
-      "status": "GOOGLE CSE SUSPENDED",
-      "detail": "google cse row not found"
-    },
     {
       "time": "12:30:01",
       "index": 9,
@@ -1105,6 +1083,28 @@
       "time": "15:33:40",
       "index": 58,
       "query": "how to use retention organically.php?game_id= site:.co",
+      "page": 1,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "GOOGLE CSE SUSPENDED",
+      "detail": "google cse row not found"
+    },
+    {
+      "time": "15:35:34",
+      "index": 58,
+      "query": "how to use retention organically.php?game_id= site:.co",
+      "page": 0,
+      "urls": 0,
+      "new_urls": 0,
+      "total_urls": 0,
+      "status": "TOTAL",
+      "detail": "Processed pages for dork"
+    },
+    {
+      "time": "15:37:44",
+      "index": 59,
+      "query": "how to find revenue organically.php?user_id= site:.com",
       "page": 1,
       "urls": 0,
       "new_urls": 0,
